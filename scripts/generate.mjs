@@ -14,7 +14,7 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dirname, "..", "news.json");
 
 const PER_FEED = 8;        // 每個類別每種語言保留幾則
-const RECENCY = "when:7d"; // 只抓最近 7 天；想更新可改 when:1d
+const RECENCY = "when:1d"; // 只抓最近 7 天；想更新可改 when:1d
 
 // 想增減語言，改這裡 + 前端 index.html 的 UI 文字字典
 const LANGS = ["zh", "en", "ja"];
