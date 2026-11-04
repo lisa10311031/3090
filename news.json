@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:17:17.323Z",
+  "generatedAt": "2026-11-04T01:52:05.087Z",
   "languages": [
     "zh",
     "en",
@@ -17,17 +17,45 @@
       "items": {
         "zh": [
           {
-            "title": "被動元件旺、日廠電子零件出貨額連12揚電容暴增- 新聞",
+            "title": "被動元件旺、日廠電子零件出貨額連12揚 電容暴增",
             "summary": "",
-            "source": "MoneyDJ",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVG8zaUU0N2tRNGduMTJvUnRqZ2ZLb1l1SGpEdkF3WGo5V3kybVFtNWd4VXdMcHdQR2pwbWo0M1VEOHBfUUYtMGU3TG96azQzS3d1SjZzRFcwQ01CQU40bkE4NllzTGRNMjhNc0loeTFrNkhETGVrd0ZkM3JadVJjRzRwSnNzVlRHZFc1UERzZHRJdw?oc=5",
+            "source": "台視全球資訊網",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFpwNUxQanJtYi1Fb3hZQ1BpSG05WjFLRi1yaWNob096X3NScUxocDAtaTQxenpsTVRtdnNWaF9NN0E4dDBJNHRhMUtzNDU3U1Y5NjFNMDY3a2R2NjNXSWxEbVRYbEdNX2VUdTdKTENfOXVuaTZ2ellrb1psLW5ZUHZ2VUxnc1JJVUZIV0F3Q1Q0cnF1WF80VHd5Xzhvcld6ajltNi05STh0MW8?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "衛生局推動電子煙自主回收滿月 高雄43處回收點累計逾73公斤",
+            "summary": "",
+            "source": "今傳媒 JNEWS",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NNlA0eEhWZG5qSWNQUU9LRmMtb2tmWktpVVBCSHUtRDk0Nk5lVVRzWUk1dUFIZk14c2lpd2NoS1Q2LUJQd0RIMGs3RnRKeWd4Wm9NUnRFd0xtZ9IBWkFVX3lxTE1NNlA0eEhWZG5qSWNQUU9LRmMtb2tmWktpVVBCSHUtRDk0Nk5lVVRzWUk1dUFIZk14c2lpd2NoS1Q2LUJQd0RIMGs3RnRKeWd4Wm9NUnRFd0xtZw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "高雄電子煙自主回收滿月 43處據點回收逾73公斤",
+            "summary": "",
+            "source": "蕃新聞",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BTFFid0lqMGhLN09BYkNXVnpzZWlvdkFCVFYwS0dlSTgwMk9wM0hQNFJPMnlYSWFKNnV1cWtFdWhOcklYc2dNaVNxSF9xRy1CZEE?oc=5",
             "date": "2026-11-03"
           },
           {
             "title": "高雄市自主回收電子煙！首月高達73公斤",
             "summary": "",
-            "source": "Yahoo新聞",
-            "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOWjhRb25XbTl6SUZlRmZzamNZX1VDeC1ycXl6Q0xKSHNNSVVMWE1NQzV0V1k0SWg1bFlWaWxvbldVQm1FSEtBV1BVMGI1RU82ME1qc3VLWlNJOGp5amNXSEdPLXZuODlmUFg3akROdmgtVUEzTHpUekZXaTlEeV9QbEMtNW1ydVRoY3FBRi1OSXVSR1Q3YVh2V0NOcHI2NFl3Qmp3WGJVeHZyU0RHUTFQWUJhQTY1Q2duMWxEUDNvQ092LTVUMjJVT2Y0LTJ1QVY2TXlqeGVKNDU4OVRrUGtNZENHT0lyR0pZTDhVdC1hZ0ZPZk56ZkVMUkowMzFzVFlhRkRhQjhXU1czVXJZTlVzb0c2Mmg1UWc?oc=5",
+            "source": "Newtalk新聞",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UWklzbWpBNUdab0JhSXNOMVpRaVgxVnJ6M2dCSE9acmhnM2xMdHJmSHctNHZuY0N3UDYtN2tPSjdZenV5RDdwaTNFZjFFeWNWYjJka0tIeUhNTnc?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "MLCC 旺、訂單大增 京瓷營收破紀錄、上修全年預估",
+            "summary": "",
+            "source": "TechNews 科技新報",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0VnbTZmSHA2aTE0Y2lybWNGdHVaSVJ6UEsyYmhVNFRnbEhILTVmZFE4eUhLOTFJNWE5d2JJemdYUk9OcTFMMW1GZllXOERMeHdmc3BlU1ZaekFCMTljbnFIUHZBSXlJeFpFSk5hMlZxRDJlZW04RmNKRXV4SHhWRVMyYmd3SjNTX1BrZmpTanQ0Q01RUUpCS1A2bW1uZDQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "晶片短缺斷鏈危機再現 Stellantis多座義大利工廠面臨減產、停產",
+            "summary": "",
+            "source": "DIGITIMES",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDhnN1JFbThjdnhNa2oyT25QbnpVLUk3UDQ0dWw4QW13OEt2MjFvYkw4c1RpdGhQakhfLUl1TVZHcjA1ckthNjVWMm04cl9SR3RpcXp5bHUyRjNMZl9iTng0U0gtbUZIM0s2dVBLcjAyemxuMm5KLVZadHc4dHNvWTZ3MjdzQWxWVEYxanRB?oc=5",
             "date": "2026-11-03"
           },
           {
@@ -38,155 +66,127 @@
             "date": "2026-11-03"
           },
           {
-            "title": "【11/03 產業即時新聞】電子上游-半導體元件族群重挫跌逾半成，全新聯亞光通訊股重傷成提款機",
+            "title": "高雄衛生局設43處電子煙回收點 單月累計逾73公斤",
             "summary": "",
-            "source": "CMoney投資網誌",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZF9rR3prZTU5MnFfYms5RzJLRGtkU3A3ZkMwcjBFVDNGM0dRWjc5X29RLVNnV3FaNFBzWk9OeHV5THpBYnBsdHNuVHpvOTFoTkhkMTNFY21NZEI3NWhwOERqZm9Ld1RmUFpSRVFTaEJOQjZBMzZPa0FRLXA0a05YNTlRa2Z2ZHBBMmp2NU53?oc=5",
+            "source": "大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qZy1yMm9EZElBaElZUHZwOTVmS3NOUkRDUllmZjVZQ0NYWkIxcm9kRUFncVRuS1o0bVdNSDVYWGRFQ0RueWdfbUJ6MElqZG5WRTN6S214Qi1CN1phLTk0X9IBZkFVX3lxTE1QODg1ZE1hSjFOaklUSkpKYjZRYUV1NXJVaGtqOTJKcE9XNGYwelFKQy1MQnpyeEIzOWlKTmE5dmRIUkFzOG5JZ3NRQ29MY2wwZU1PSnd5eXhGNExWZ2dhWXA5X0RiZw?oc=5",
             "date": "2026-11-03"
-          },
-          {
-            "title": "MLCC旺、訂單大增京瓷營收破紀錄、上修全年預估- 新聞",
-            "summary": "",
-            "source": "MoneyDJ",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR3VXdFo3N0VtS1NPcDEyLXo4NldHSm5WWGFoODJ6LWhXLVE0Yk5Sd1ZEelN2TW9Xb3ZBSXVvcHNEblNXcnRHN1p4Tk5SMHoxOFlBckZmZk8xYklhak55VXl6ZTZpa2NBUmp3YTdfNFMtemV0dG9qUFhPLWt3cVJWR1dGenN5azdVQ0Y4b2J5RXRmQQ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "MLCC旺 被動元件廠TDK獲利破紀錄、上修財測",
-            "summary": "",
-            "source": "台視全球資訊網",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVU1QQjVVMzFsMjNfYzNPZHJsVVFGSmFJU1NscjlsdldvenFZMm9IQUZINkpHejAxZlJla2VWSUxZS0Y4d3BWQ1pVSFZzVUtlcUgzUUc4aWRmREJOX2h5dTRDWU5ENGQwYTFxLUFTMEJRQ28zeUhuckJ5R3luN0swSnZ1a2V6d1RUUXM2bW1oSVB5YlhnaDVJWFh1N0Y?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "拆解零跑Lafa5：零件自産率達6成，車圈「優衣庫」實力幾何？",
-            "summary": "",
-            "source": "日經中文網",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdkpWOUtqYmtsSUE2bHBTZjY2UjRQc0FWYWMzeGFINDZnb1RnQXB6anozSFRsSG1vVjNCQjJlbThESFJKQ09kM1BDeE9JSEJwOVJqQ2JWVXo0V1piTUpsdzkyV3h6WUFYWjZnXzlxaTE5TTJELWhsRksxclcxdEVLWWFqZFE?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "MLCC 旺被動元件廠TDK 獲利破紀錄、上修財測- 股市爆料同學會",
-            "summary": "",
-            "source": "CMoney",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TMW1STHFmNklndWgwUXlVVVQ4S2tmdlhTckZrVFJ5VkU4N1cxejBjRHJsMkNnaUJMSzJ3UHZ3QlJFbHJ0WmRvZTdhalpwLUJzaW9hZmNnWFU?oc=5",
-            "date": "2026-11-02"
           }
         ],
         "en": [
           {
-            "title": "AI Image Enhancement Improves Flip-Chip Interconnect Defect Detection - News and Statistics",
+            "title": "Baolong Automotive, Chery Establish Wuhu Baolong Zhigan Technology with 100 Million Yuan Registered Capital",
             "summary": "",
-            "source": "IndexBox",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORzI3VzZRakpubzBpUWVBemw0c0N0NUg1YTNKUnFNamFiWHg0VV9oTDlFeHprUU1vb1NUWkhvQzF6RW9YOWRjNFV5X3llNGJyZWt3aXFiVzF3elZXTjlQRFJkNWpMaGtKYUFxMVA0Sl9oMmlZdEh3MUlnOEVsSjk4LTExeDhmaXlNOFFqY0RwX1NEWDQxX1dzaXZ6TQ?oc=5",
-            "date": "2026-11-02"
+            "source": "Gasgoo",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQRXZlOVpBeXpyYkt3d0JjbU92NEpZcWVTT2tDeVNBV21ycXdpeTJITGxkM3RhRXhERjlXTUE0a2tiSjVVd1Q4SjBISGV2dHI0N3RNQUlIcUdrX29NNjlmd3dYWUlHNjFkN19aYXN2aGU2bWF5MU9HWVZPUTBBdGE4N0pzU1NUUEtTVjNuY2RQQ21zR056TnZzal9BeTIzVHlNWjBBRUZlZnVFM21VREo4Q2NCUDc0QTh0dHdkT21XY2hFcXdCUHFMRG8xNGlpODVKNElmY3NQUDU5SHptRFkzUG5LRGpMaURNRC11dl9NaVBiSk5KUm04SDhiTQ?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "Telecom raises concern over vandalism and theft of network infrastructure Staff Reporter TELECOM Namibia has condemned the ongoing vandalism and deliberate sabotage of essential telecommunications infrastructure across the country. “Most recently, our",
+            "title": "Thermal Pads Market To 2035: Data Center Cooling and Miniaturization Drive Growth - News and Statistics",
             "summary": "",
-            "source": "Instagram",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GN2oxOTBJdGhvYVoxb2ZqbFVaM0FKb1A5RVpLQ1hTdjlyUTR2aXJ2dXFnTklVTGQ5X0d1eHpJcGxhUGdjMWtJZ1JmeDdmMkVjc3c?oc=5",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVmhXU0Rfb2dtVm1ZTnVIbkdDVzFjRHNuOFByazlsQktVQ05nYU95dDFWMWRUZW0zMC1NSG1Ia1VEYkJRVHRuVjRfcVpfUUxVVGJsMVBvNEg2WGMycUJObzhNcVlSUkkxa3pDWlFrZ3pDbC1STHhWVHF1blduRm9qdXdlMEZQOHh2RkVLeVBuV1FCQUxmb2l0aVUzNjRxYWdOeC1rOWVnQTNDdXFaYnVMZHBxQWVfSVRxRVNrOU9WT3FTQThFU213UktnT2MzMEk4?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Power semiconductor market trends",
+            "title": "Piano DIP Switches Boast Compact Footprints From: CUI Devices",
             "summary": "",
-            "source": "Sourceability",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdU1LV01MclBEMTZ3TnFMQzB2dFJxT1RWb3hFekNva0NON1hlSzg4RmpDaDhmcmZJcjJra0g4dzZxWS1DQnhsQ0ViQWRaUHlmRnc0RGM0M0VlcEtvWWdvTGJvd21Zc2h5eTBkMldLZHNQU01ycERDcXl6b0I4NVJ0YnJIVlhkV004dE5EZ0V2OFhBakJSX0tXVlhHWS0wdw?oc=5",
-            "date": "2026-11-02"
+            "source": "Design and Development Today",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaHFyRWtScjRpQzkwRURscEg0RmlQTnd2WF9LVkFHVnEwdUo4dWNqeDZoRnJsS3F0MjNGc2NpUF9XVzd2YVRCRlNaRHJNYTVfUjltelFiRGxxX2ZqY09FMm5lRFBxSTNQUVZWSU1CTjBYeDFOTTRneEItV0RWcWViOGJwcEdvSDBYaTRhbXZLdzhDRndja2x5aDlIZFdsa0VTd3ZVTHJ3ckxVZnlQWDlhVXhVQl91cjQ5cjZxZ2s3WFhrUQ?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "A2 Global Electronics Achieves AS9100 Certification for Component Services",
-            "summary": "",
-            "source": "I-Connect007",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalQxQVNKM0JlUGxoSS1NM21Wc2J1bFBXV1loMWNEdThldV9qQ3hKa2ZzajVhY05pZ3oydVpKLTJXRWpLMUZLcDIxZGZhTmEyNUV6aVF0N0FsVmZOeTdkV3ZxNnk2U3E5OHpFY1ZaMnRSV1ZsUDhST2hNNEI4QzE1X2hnYVFhaXFicFlDT25SOEV3MmJ3TlR0QTVKMlVpWE5MVy1QUUNfc1FDQndMYU82XzdIRzdQTWVCanRmX21NTTBJZw?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Cognex Gears Up to Report Q3 Earnings: What's in Store for the Stock?",
+            "title": "ARW to Report Q3 Earnings: What's in the Cards for the Stock?",
             "summary": "",
             "source": "TradingView",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMUhfRTdlSGtqMzFURHBRRW9GdktTdkM5TDI1X1dCSDBNbXQ5cUZDZ3JOVGJfQW5iRnYzZjh0dzJEWl95ZFVGSWVFdVVsbGhjOFJQbnM1cUIwWmprMkhJa2JoRFlLNXQzVXpnYVpZRVFISklOUkdEWUNvUC14SEp6NmloeGYxeFJpZnBLTVFTM29kSmI1NzVIRkhhZmxfTUFjWUkzbFdoTkJka01JZ1JvZ1QwaEtTRFFsTVpCd2FqUWY?oc=5",
-            "date": "2026-11-02"
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1UtR3g4cGJGa1IxRXBjUVJwM0hiMmI5OTl1QW92Qy1ONjU4Si1pRUdIUDZ2cXpfWl9LUUktQUVTZllIbEZQVVhnUkJCd2ZkUGtnOW90ZG94a1pCT0taYUxpbkFESG9Hb3RBZXhoT3g2MmxrS3BIekdhNHNfZnJjVkRRN0pXcTQzUmVaUVFWbHRoNGI1TXZxel9NdVd6TmFqOEV4RVRDRmVUVVJvU1ZaWXRLZE1mUQ?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "TDK showcases sensor and passive component solutions for humanoid robotics at Hong Hai (Foxconn) Tech Day",
+            "title": "Five Things You Didn’t Know About Co-Packaged Optics",
             "summary": "",
-            "source": "Electronic Engineering Journal",
-            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzdwaVJ3dHd4NmM4aDViSE42dURXZWZTQ2lPdUhUdnIzc1M4bm12ZVE4YWtWNDhDVjNvMkdsdGNUOGRMZXpWbnhxYzVVMjNiOGV5R2tZcHZfbzNuX25sZ2ZPenB0b1FQeF9wTFJWY2NVSHJKbXZRWUxpczhPOHJtTXFsNk1zaVI1QUx4eTJwV3RFbG5GTHZlcnRLTWlRXzVYc2RtVDFXRzgyWlpBYlUzRy1OZXJuQ0Q1eV9XeEFQZ2VLcFJPNUlxSDlWUTFsWTBzVVFnRTFzTjhHT05G?oc=5",
-            "date": "2026-11-02"
+            "source": "EE Times",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSHRlVzZDRlVHd0xDcEVpaU9KakwyZWlPUFE5bmM4N3J3alAwRUhXS2JHMmV6YTFCMlNsQlY4M0VLVFFWUmJIcmFqV3FydVNhaTcxbHJBTXdSRmpGNTI5eHZXaTNFOEhlbkxCTTlWQy1VeGdYSGY3Mlctd2VJenNYTkxR?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "Universal Display Jumps 7.3% After Susquehanna Maintains Neutral",
+            "title": "Panasonic Passive Components Showcased by TME at electronica 2026",
             "summary": "",
-            "source": "AlphaStreet",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYU1NdjBKbF8yeS1sUG5UQ1JERDJYSl8xY2laY1VNV05zWlJibzRzdGlISkZxeDlFMmdRV3g1ZHA3ZDBNSEduWlN1SXVmMGUxVVBFenNMLTJObkR1Zko2U1EwM0FCMzRjQlZMTzByTlRrcTUwWnAwLTljU3lQSUd0NkJFUm9RZ2t0bkU2ZUJoX0ZBbUJOMTZ3V9IBmAFBVV95cUxQYU1NdjBKbF8yeS1sUG5UQ1JERDJYSl8xY2laY1VNV05zWlJibzRzdGlISkZxeDlFMmdRV3g1ZHA3ZDBNSEduWlN1SXVmMGUxVVBFenNMLTJObkR1Zko2U1EwM0FCMzRjQlZMTzByTlRrcTUwWnAwLTljU3lQSUd0NkJFUm9RZ2t0bkU2ZUJoX0ZBbUJOMTZ3Vw?oc=5",
-            "date": "2026-11-02"
+            "source": "Electronics Media",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRR0pYYTgwZzN0Nm5zbkluYnVoMkd5OXJpUlprVTdaQmVmUThsNkRaOWJXcEZsUi1jV080M3VRZ295V2dsV08wUVItOEhZWlB3T2Rid0tSWnQ4U0NQQXhnSkY5d0wtTTRyWU9KQXVMQkFibnJhdkN5YkZPUGFaMkk?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "New diabetes implant uses electricity to lower blood sugar and promote weight loss",
+            "title": "Electronic equipment maker Keysight taps insider Jason Kary as finance chief",
             "summary": "",
-            "source": "Science Daily",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZeXR2RUtGWWZHUU45ODgyNF9IQm9BWlo0Q184UTlyenY5RjVVLWo2NmtKdWRkWDVCbmE5M2ZXOVZHTmN6YkFuSUtJbGc4aXItUkoxcGRmQ1lMazlWQ3RBVWlsVV9WaHp5SlcxV2tLOA?oc=5",
-            "date": "2026-11-02"
+            "source": "electronics.economictimes.indiatimes.com",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOWM4QjR2ZWgwbmlOQ2RPRDkzZlpYMkxMajhrSW15aGJGX2NYbzdPQ0hVenJRU05KeXJlOXpMM2RKdnlPVERDM25IMVQ2UU5MMks3SkRiRllROFJneC01cDlMUERTa2ZBcks0M3MwUHN4Q0tXSTE0Q21FNmdwUXZ3bXR4UVpRTFJoR1g0NmJsak5QQk8tNmNlUEVrLWs3c01fUFFmMERkVE41Vl9HMFNtZG1PRktRQ3U1R2dyQVVrVU9OTnZxVzRGZldQNkNKUThWZWx4WXlPTFhzVDlXMlRYTjV1Wnc4YmozLS05czVmbUrSAfQBQVVfeXFMUEF2c0xjQlFsV2d3UGRsTnBIMFNkZVN2aXprblVYXzJOLW5qM3E0d1VnSnE4RHg1Vm81TGlmc2hZQzB1UmswS25jbGplZkQwNWY3UGl2eTk1Z2drc21Eb244RzNLNU5zUHZ1dVRmUVRCeHlhbmVQa0ZJbGNBTmZzOXgwcDVFZ195X1ZNQVpxZm5xVVdKUHVUaW9OTXI0TlBVZHBDRk51aEh4Zk9PVVhHekF4VVlZajQwS0tFX0tQSF9mS0xuYlNWSFB4NWdacno1MGFYZm5rRlRJQUZvdVdYTW56bGhuUmRPckZFSEpuUXEzZ01vbQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Earnings to watch: Coherent (COHR) reports Q3 results tomorrow",
+            "summary": "",
+            "source": "StockStory",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRUVEZV95Q1BkTjAyZXBMTVpvNmhLR0pyYVdrUHR0bWdvck5xTGRKanNzUGZsWTBHX1JhWDJsUHNUdHpjV1NhTWhuNm9jZ3JHQjJBdjFOMW5QYzJRQ2xzYUQ1UXNuZFRVQlFEdUVlVkxWV291MktxeWxwQXIwT1FZTlpZSXNNUXdRYzNBTFlIeVJuSFpqanRBX1hQc0tIbnRqUGFfOVpnSWRoQXAwVGotSmtlaEpDOTA?oc=5",
+            "date": "2026-11-03"
           }
         ],
         "ja": [
           {
-            "title": "丸文のストップ高は始まりにすぎない？決算の後半戦で「上方修正＋増配」が期待できる半導体・電子部品商社 厳選20銘柄",
+            "title": "電子部品の選定／管理工数を最大8割削減、AIプラットフォーム「edgefuse」が刷新：製造ITニュース",
             "summary": "",
-            "source": "note",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aenRVckwyeWdfUHFBRTZNT2ozX3N5UXh5OVk0UWJKN2NoR01tYjgweF9QZDF5Yy1rTnB0RnFWVkxUcVU3N0o5dUl3X2F0NzlUNndxYlhrR21TTGc?oc=5",
+            "source": "MONOist",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84YjVuelV5MFR1YUFxOENqbElmckFwdVFlVnp5U2xXa09oSng4LWtJMHpqN2tFbGlqcXY4YmdGM2RvckRLSzhWVDlZMXo2elROWmdzWl9oaVF2NlFBVy1QRmN0UXV3b1JXRDBsSEtoWQ?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "理研電線／電子部品用リード線販売量／３年で３割超拡大目指す",
+            "summary": "",
+            "source": "日刊鉄鋼新聞 Japan Metal Daily",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1TSDRyQ0lYSW5OdS1rLVlxd0dPQXR4ZzB4U0ptN0xVcjc1OUp0WEUyMDVWaUFnY3hyZ21HQkZNQlppU25CUW5ncWhuWFJIQ09Kem9SZEtxWXJaRWx0UHc?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "松江北高校で「みらいN-E.X.T.博覧会」開催 電子部品で製作した自転車に乗るロボットの展示やVRゴーグルの体験など 生徒たちは幅広い分野の最先端技術に楽しみながら触れる 島根県松江市（日本海テレビ）",
+            "title": "導電性シリコーンゴム市場2035年予測：EV電子機器と電磁波シールド需要が成長を牽引",
             "summary": "",
-            "source": "Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uRjFwWVBadjNObGtqN19FbFd1S1FscVhRSy1abFBMWEZlTjBTZVlYVTFvTzljcUNPZlJqQjhLNGdLNFBkeEl3djRlT2lXTjZkRmtLOGwyWGVvdV9fdGxNUlF3WTVJbE9pY0VlaFhCUVFtcWd4cVQzZmdKUnFlb1U?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "京セラと村田製作所 DC向け部品好調で業績予想上方修正",
-            "summary": "",
-            "source": "NHKニュース",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RUllGclJpOGprUVkteWIxeHVLNE5HVWN1cGl2SHNQM0h1NVQ2RFZsQnQweV9VeTJzaVJ4YktVNGpyRGZ3S3BuRFlwS1ctVnBlaGN6RGxmZ0NDM2M3dHRz?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "電子製品用接着剤・シーラントの世界市場（2026年～2032年）、市場規模（アクリル、ポリウレタン、シリコーン、その他）・分析レポートを発表",
-            "summary": "",
-            "source": "アットプレス",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0QUJxcWYtOHJyNFQ5UldPeTNhVnhJNmUxRXN4T2c3VndhaVZ3TG9KUGJFTkZpY3BWc1l5U2lnOWRFWUZtQ2s2ZEV2RC11Vmc?oc=5",
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc1F3Mm5QeHZBbFhxRXI0MmZTZEhkYnBrSGRPd1lmX2FER1RkUTkyVVhUUXc0RENDT2lyY3JsY2w2NWxLSzdsUzFUMlA3aE5aTTd4Ykk2RG4yZEtXUHVqTmE5RmczZzVEc2hwdlNibk9wTFo1alJIa29sN1B4cFhVTF9FUzJPdXdkaU8wcmZDSzNjeE9KV25Ed0dwbHR3dXRKOWtIUm1sZ3RoLW5LRmFpS2h1a0k0LWxOaEk3Z1JxTTVDaG9YTmNseVFhOXE0UQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "電子機器・半導体向けX線検査システムの世界市場（2026年～2032年）、市場規模（インラインX線検査装置、オフラインX線検査装置）・分析レポートを発表",
+            "title": "【貿易】国境・通過貿易9月は50.8%増 電子機器けん引で通過貿易が1兆バーツ超",
             "summary": "",
-            "source": "Newscast.jp",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Zalp6LTlNby1QaGJtbGltSDAtSHlYNWhlYmZSRTBSM3MwTHJuTzl1a1JQdDNYSGRzVlpxNi1WOUdFc2doazg0cWxzR0VjVTQ?oc=5",
-            "date": "2026-11-02"
+            "source": "バンコク週報",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwbVA0Uzl5ZUtfNlNoNy1wdnY3SmFieklvZ1hfS185eXhCZFVuLTZRNE9YbTJGamhrcE5FRlZLN0Z2dVJSY0lEZXIyLTFrenZS?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "米テキサス州、電子機器の「修理する権利」を定めた州法が施行",
+            "title": "ロシア衛星、中国製部品で量産 ウクライナ軍、戦局への影響警戒",
             "summary": "",
-            "source": "幸せ経済社会研究所",
-            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBodW9fcURwZUo2dl96RmY4MEhpd2tVNEUtRy1BMVdvcFQtV3VHRXJOT1M2c2h0RjByMWtGdS1memFpLUVsNjVON2tINmhlbDVOdEw4MHcweHRsZ3ZTTnFaMGMxTmdUdw?oc=5",
-            "date": "2026-11-02"
+            "source": "山陽新聞",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QVHZjWTVJa0Y1b3J0LXRvSUlERnNLYl94VGJEaUJVMjhkRHNmWElpa085eDBGX1NxTDR4RU9PRFZZbi1Tc0N3ZFJxLWlhMmpoc09mNkVCQnF5cHhOczZPdGNibw?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "電子部品大手「TDK」が小千谷の新工場に約1000億円投資【新潟】",
+            "title": "2027年から中古携帯電話と中古パソコンの輸入禁止：市場浄化の機会か、それとも供給不足への懸念か？",
             "summary": "",
-            "source": "UX新潟テレビ21",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44czVwU3VRMXdzY3RJWEw3cjB4OGRZcG8wZHh2MFEzOThVY19TZnA0LUx5UVNycG45bGNtMG9CX3dfRDNRQk5taFpwcnR5RnZXZnBCcHBoV1Nib0U?oc=5",
-            "date": "2026-11-02"
+            "source": "Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFB0TkhtTHpVVzJKNDZXMnl3ajJLUmdsbjNxWXUxLVFkYWxiX0haQlY5SVV2R3MwT1BfS1pBUk1MU2xaeTNsaDlSZFBzNzdOaTYwMUV1VnNWNWZzYzUyckt4bi1xVURBU2x6TXpwb0t5bHRKTFJkTjlwc3VsWlR5YWxQVkUxMzZlMGlIUkQ5RlNHOF9UUkUtNFhhNWlXOXd5R1pxUkhzcFJ3RzZsRkFFWk1vNmxhNG5iTEE?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "新たな成長機会とシナジーの創出を担う「事業開発室」を新設",
+            "title": "アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能",
             "summary": "",
-            "source": "ニコニコニュース",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1Z0dNNE9KMmNtSWRIdTB5NTVMcE83dnFEakZYM0I4NXNRcDFiclZ3MU9MNTZJV2NKSHozYklHSEFlbDlHVGhhQWZnRmZDSXV3Q1VlcWdOUE5FNmlQX1VBUThYelJzWHVJVDJyakM1UFRyOElGVUJ4bTRtWQ?oc=5",
-            "date": "2026-11-02"
+            "source": "GIGAZINE",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5aVkJrRWticWFqSmVfb2xjTHNiY3ZwTVkwTHJzaGRZSGI2bXpCUUNQXy1PV3VMX0Fyd0dGVnJhaHEzcktGVUM5RmVPaEdBcGd3RzRROHRBdHFTejN0VHlPOXIxVkRaZw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "日本半導体製造装置部品市場：先端半導体工場の拡張、精密部品、次世代半導体製造におけるビジネス機会",
+            "summary": "",
+            "source": "Excite エキサイト",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfaWZoWEZaSDk3U19hSnc2MmZFMldNcUtBNExBaUlFTFR5MGxhWmU2TzNLYlRZRDNfWWY0cHpvNWdRSEJRVlFZaTF2R0pudXFKOGxkamNYMFFUZFVybGV2S2QtLTR3c2hSWHc?oc=5",
+            "date": "2026-11-04"
           }
         ]
       }
@@ -202,176 +202,176 @@
       "items": {
         "zh": [
           {
-            "title": "大豆行情被政治因素動搖",
-            "summary": "",
-            "source": "日經中文網",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMldpRG96TGQ1WUFIVHFaeERuUWpsZ3lNTG5vQjZYYXdVTGJsc2JOeWtKQ1VEU3lwNXJJNEsyLV82bzZzQmZJQlR3QjFyOGZwa3Y5aTBjWUhpdXFSUEUyd0hTbkJOeGlvNmhyR1NKbE1yUnhFZHJiNWV1SEM1b25WckhaTHo3V0ZaVnc?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "北市遭爆政治干涉輝達案 卓榮泰：中央地方合作是美好的",
+            "title": "蔡康永談政治「捲兩岸風波」！知名網紅發聲：沒什麼好罵的",
             "summary": "",
             "source": "Yahoo新聞",
-            "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNRFFqcmpLVDFaa2ZyWklzcUpkcHRyb0l0cW85bk9Yc3BIS0lvNkpia2dXZFVNMGg4cG16ejh4VDRGNlRtbHVYWWVRb2JQZ2R1ekR3ZFpBVmY3Y0dHNU9nQzhaOVJiQnMxOEJ6cHcwR3lkQkhHV2RFVXRERXJZZE85bTlhVlpub0FHcUw2UnB0ejZSMElZaUNrbF9Qc1VsVE10dTMtd3JZMEtVRGpQQ2ZJN0lsMkt0aTZCR2JIR0VPbTBYRjQyS2N2aTM4U3B4X3ZCM2hSSDFicTlCQ3J6UGNiY3NuZHFnNXNDbUJrZXFJSjVPdnJueEFpTUtUWjkyUVY0Y0ZnQzdPd0t1VGJxNkdOUXI4Q3BaZ0JHeDBRbjFVNHBYelJKeUljNXVGMTlLR2Qyc3Z1ZkdoSWVqWTlBQjM3MUhIRzJDX01qNUJCQ0hSSXJWTHh4Q1EtdTdBTGtSYzQySF82Qjl6RjAyTXFIdDVfMG5ycE93dw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNQVVidnRDcDdrQ0MtLVZwZ2hTWnFpQnNiWFhIWnlwSWpjb0g0RU9iOU5PQnFtZnIxVTIxT0FTczFUM0F5YVhZaVM4QUF5MlJ4ekNUQWIxS2ZrMkRQSEZQQmN6OE5kTjNiemNqRWlLTnYzbmVpRS14aUZZTlA4WURSSExZWnQtMjdvckgyd2gxVTVld2lQRGd2N21XYTR0NFVBZzd4aG5oa3BEMldDRTYyNzFrYnJsUTJrSU8wRWdMOTI3UzBDMl93XzhaNzNVdEF5RzlRN3JrVjRIOEltOVNsaVBkTklHZE9oZ1REdFdlUUlTRmNlSXNEYV9XekxGZWotSk9aNjNDbDJBbkZWMENfWkJKcFhsV3dZbUNlTlEtam1SZnZtRTRTbE9SUFBGN2xpYXpKZ3FlZXMwRkhtalVSMWRKVFNwaloxbVdkcjFIc3YxNGU4QS1kSDFIX3pVbkJJUnhrYzNXbDloN0E?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "【友站選讀】呂昱地緣政治學：其實，北京最怕的並非蔡康永變綠了| 政治焦點",
+            "summary": "",
+            "source": "太報 TaiSounds",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IeGZWdzVBYkhpenZZVjF4UHViSy0tbHduT3BGWXhzdmg3Q0M4LXRybnRFM1JGLXQ3UDVjMFZIcUFINTNGalFlX2J5WWVpWTdaZ0EyYWtMQ1J6ZDBM?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "記者編輯部| 【王崑義專欄】蔣、沈電視辯論別讓政治口水變輿論戰",
+            "title": "立院LIVE》教育及文化委員會現場直播中| 政治",
             "summary": "",
-            "source": "梅花新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aYjBHcGtza2lUdkFaYVVoc04yUWFvZ3Z1akhzc1B3VWgtQ2tXcGxWYThObzdfR2MxTXhqTjNfZ0ZnbmNFOWhnV1BfaVg5ZTRBTVhsUmVGTDM?oc=5",
+            "source": "Newtalk新聞",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FcTM3ZWl1eHg5Rno2VUl4alBTYU1VdUgwc1RFZFZ6b0dOLUlueVRibmFLaFhlOXE0c2JtQjViVjRaa2ZFYWRNM05XWW5wQzNVRllPNmV3clp5Vmc?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "政治庇護90%都是假？ 華女摔跤劃破也稱「遭政治迫害」",
+            "summary": "",
+            "source": "世界新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vdkczb2tFa2VqOGlTQlFPSXJHR2dRTld0SURBY2t4dXEycGlUTzFWTk5PSFR4NjAtTkswOHJuWWlPbUFoSGlrN3I4OV83MWZuZHNZa1Mwc0pNUDRaVS1NRDln0gFnQVVfeXFMTUh1bWR0VlBNOWxKR3d6MTZYSzNmTTZIOUFBWkxGZHZCR29NbkV4ZXFsNU40Mm1lNUJrbE52VzlIRE9UZ202MGczSVZvN1NmZm9CUXVVZHlWY0hHSC1XcE9uRzJ3OHdibw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "選舉後， 以色列 “變革陣營”的各領導人加快行動步伐讓內塔尼亞胡下台",
+            "summary": "",
+            "source": "RFI",
+            "url": "https://news.google.com/rss/articles/CBMiywNBVV95cUxOMjRPUnZnZFZuVlF3Y2IwYmRZWTNaamdYczdEQWtNUGppSzhXUjR4aUVRVm5wOUhYSUVOUTQ5aHJCa0RVT3pQaE8xcWVycWNXS2dxWkNLUGV1TUM1Y0pya3Vwem9udXZ3RDRqVDZoRE5nUmpsdUJYVm8tb3VOT1hZd2pEalp0SlJCcmlvdFM1VkZGdGtSTDJlUlhxeGw3U3NjdlRneDRrSVM2VndGWjJxbmtpcXdZUmh1Zk9WRVo2TzhqLVFyUEp5ZVQ3RjZramx4Sld6Tzg0dy1IMTBVbEgzVUt3RTBSQ3lYRk5hWGhRNmF4Z0NlSHBEWmtZVFZNWUFXdEkzaFRwUWRGZXgxN3F6aGMyRU9SaVRYOGI5a3pkQnM0RkZ0UkthV3p0bEM3a2pZX1pjZTVGbkJBQkxXVHdOTEdOWDQ3dGxnNGxJMWs0a1FkUUNOZ05RaU5vYlB4NkNETDJGcTRLcDNQRHFNOE5ETHhhekM3MHpqU21sN3IwWFBrR1E2WUZyaXdJWVltYTl2Ylc0RVhDTnN3WXVDUHBNSF9US1VXR3p1VFg4c2VCa2lROTlmeTVwMlhYOXE2T1N1Y2toUkNsa2dRdHc?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "中央研究院-學術行政 | 活動紀錄〉José Manuel Barroso蒞院來訪 「地緣政治，歐盟與亞洲國家發展的和平契機」座談會",
+            "title": "金錢政治黨爭交織選舉信任危機加劇- 特刊",
             "summary": "",
-            "source": "中央研究院",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pQnhrNVdPd1ZkWU1KU0YxOFgtWjVwS2tfWHAwaGZ3aU9tNU8tVE9oa0o2cFlEQURBV3ZzVXFkN3NFbHRKaGNvQ1lKREt3blk0SU84Ym1BMmJKQQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "張競觀點：中共五中全會懲處名單與政治文件的「情報」價值 | 張競 | 評論",
-            "summary": "",
-            "source": "風傳媒",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0wanV0VGtfQ21FeDJPRHhKdURTbWZfanVVM2w1Q0doNnY2X1diZE51cTB4c2l4Q2RMOVJacG1EcGFaQUVGR2g5QndrNmlZQQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "盧比歐會晤委內瑞拉新外長 籲釋放更多政治犯",
-            "summary": "",
-            "source": "Rti 中央廣播電臺",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRY21UaE5NQlVTeEZYV1NTOWNTOEhvTGxuYzVLSjFSV0ZldUlpSkZoN2hRR3BudTRFUnY3YjlKMTc0clN2Rkduei1lb1RPbjdabHdjSER5WQ?oc=5",
+            "source": "香港文匯報",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFLWNhLUFNcUh4Z3VveXdQeGpINWhhNFI4dU9aeVgtZXVXSU03Nmwtd0Rwdy02RURVZ2VkRXdNXzF2Zm03NzhYWHZtMjVzNkFCMlB6RkpMdTdudlNKS0tiQ3ZTd0d3N29tTWlQb3VUTndIamZPZkU4?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "加密貨幣巨頭難買選票 簡澀術語阻礙政治影響力",
+            "title": "《聲量看政治專欄》從跟著沈伯洋走，到自己決定怎麼走",
             "summary": "",
-            "source": "商傳媒",
-            "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPdERZTkZkLXZBVmJQWkhZUmx3ejNITk1RdHNwLUNHSTFyemF0R0ZqTWtobzF2VzJORWlPMktkV0hiM09iRkJnR2loNFFhSmdJeW5GLWZKUHR0SlFJcmthS3QwNXF3VV9rdW9nRnJGaEpzN2U2a01RVmhtNkNBcnhJYnpvOXVCcVZqWmVQVUUzZ1ZEcnl4bDE2YnNYUW9uMGREN29TSXp6Qkw4WVNFR3ZMQVNiNDBMUkEzdmhsYnltTEYwU2xyZjR1d1J5U3lpU09XdU5rcDNKNjFwRkdTbkNoUEVGMWlFMzRCSHpWVVpJQXowbG5OSWFsNlRkUURjZWVxYXRJU1paSVNfUnRFdHZTR1Q0TU5jcThTYkttYlhGQ2o0dW1pT01XZC1RWnlqSEctRFlKUnh1LWcxbWlJVmczRy1PSFdMR3Z1aWdRTXk5Q1g5TFA2UjBZ?oc=5",
-            "date": "2026-11-03"
+            "source": "芋傳媒 TaroNews",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Zdk9NemtzaEgza1lkckpwbWw4Mnp3a2JsazJYZ2FDR0c5RXhlcDU5VjA1LXl0TTE5T29SRnlxZU1jNm94a0FsNGltT1JRWXJ3?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "中共中央政治局委員增張升民 學者：打破軍方代表從缺局面",
+            "title": "1分鐘看政治》蔣萬安點頭了「第2場辯論有譜！」戰備水決標價大跳水- 政治",
             "summary": "",
-            "source": "經濟日報",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DWkFUQVBDMUhfcGtvN1NyWm41aDc2Y24zaDlfOGVBSlE3cmVDMm9SMTlHUy1nSFc4U0R6UzMyZVZNTnRNbnBySlkxbkluNU0zRmxYNDNWbHlvUdIBX0FVX3lxTE9mRWt4V2Y1TFVqY0g2dW1yamFCWTRNRHo1WVlJQWRhVXBpbVdSRHRtVlRtVUIzWDZKd19KVzltN3pqdXF3b0VBNG83bWtxY29SV1BLX2F6THlxTkgxLWVR?oc=5",
-            "date": "2026-11-02"
+            "source": "中時新聞網",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tbDIxV2xBaW9EOURobXVjUFRHWENMN3JJZmR2UEdqZmZwRWdfbVE0bDFuWnFxUVdqY2g5SGkxTE8xT1NsMDA3UFM5RmZmUS0zRGdqM0pFUkhoRXB6OXI1ZWxmQVRkdHdnTHh5dW1n?oc=5",
+            "date": "2026-11-03"
           }
         ],
         "en": [
           {
-            "title": "Former Gov. Pat McCrory offers candid take on politics during class conversation",
-            "summary": "",
-            "source": "Elon University",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVE84LW56QmhKYkhnTWFKOEdDWXF4NlRuSThMQmJyU1owYTFnVVpoSVRvaGl3TmVsYVFvTkNHYXF2ZlJCMEQ0UjlqbFBNNkMxdXZOOTlyR0owWExuRGJkMzVFOG82d21fRlZyeXhZOUNSM0pmQjFNYV9GM2w1REpJcllqYk13ZTM5cE95NHJwemw0c2F3XzY3Q1pYREZpNjRZblhfNHFwRmRBSkZSRHdlOWZ2ei1obTgyZjR3?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "How a Reporter Interviews People About the Midterms, Even Those Who ‘Don’t Talk Politics’",
+            "title": "The On Politics Guide to Election Night",
             "summary": "",
             "source": "The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjJLUFYtVmVaem40SngzYjVzRkRUb091N3c4VnpSZXdFTzNkSk9TaGxZQUxJV1pRcmVBbGlBS3ktaGhOc3F3N2NTdDdHTm1Ja20zQ3IyQ2lpZzhHTU9ucTFUQktPTVFzYXNYOG5QMy12TTBkT245XzhjSlRhaFg0akwzdUJOdWxrMk5iNEFkSTRxQkNYQTQ0?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Midterm Elections 2026: Congress Polls, Charts and More",
-            "summary": "",
-            "source": "NBC News",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qM2xEd3lHR1dpU2xwT1JLcDEyUXlVS0xaeGptQzlscXNJSHc1VVVXQnZpY2FfN0NYdlFLMGZfWW9SSDFLT3NQVEF5cDlKZUlaVGNmZW5VUlR6LXI1MGtGeHJZWU1icGs?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFRPVVhMb0JmWkFDU05VSXpJUXlnaHloNzhMNTQ4TGhBcFAybUlWb1V4NGRRM0pEVVNTbjZ3cHE3VVRKTllLeEptaVBqU1h4NnhiaDBVQmk2M3dEd2dZNzcyRmZmdkFMS1A1OE1CR3dNUlBQLUVaZklldmFOT09DaVVHYkcxMUZDQzVPenRwY1ZuY2ZKNUE?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "NC political campaigns make final push before Election Day",
+            "title": "Michigan elections: Voters decide on Proposal 2 Money Out of Politics question",
             "summary": "",
-            "source": "ABC11 News",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNek43ZnhUdEZpdWozSldqNGpEbThWTjA3R2RsaDduMzZxOFMwV0ltM3U3OVVUM29pSEN4QjBOX3Zabk1SRjNneEdIUVlHM2M0Mmh1TFlFY1o5TDFqQUhiVEJxUnFJc21jQ2R1VUwtRWRpeUxvUDBienJCNHE5djBhQy1EdmxwTXE3YmJMaTl2SkdQbVpjWmfSAZsBQVVfeXFMTTVacDRDbE4zUXBMalA3WGkxdVNEM2F1ZDVYSlRlWVFvZWVDN1NUb1pXbFhLX0RQQmh3SUJlNm4zWUJiNjFsMXd6TDYyWjN2enp3TnhVcnhjVGkwZWZUcWVDV1dKS0JyaFJOQ0FuME85ZmdoYmNPNnVqNHpLWG11dndtN05WV29pazJSZGV2elNSTmFBcVdJbWJkOG8?oc=5",
+            "source": "Bridge Michigan",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXdZOGVBUVY4Y0M1TTJUUjF0TGl6dEQ2QlVUckd0ZmZhNW9TRDRUTzNGbGVCbTR2QVVYVWtJT2c3Q2ZsNldFQVRzMG9zeDZSbzliQ1hJX3VNSUVNNUJha3hNX1R2bi14UUNrZ2g3NVVjOWVkbHh2ZGt0NHlnODZRdHVKamcxRjI5MTVxR2ZGdFBCZllROFM2Yl9TdTJORU42YkU4Sl9LRDhjR3NOcEVVcmxRMzgyMkox?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "Nuclear Deterrence Needs to Account for Domestic Politics",
+            "summary": "",
+            "source": "Carnegie Endowment for International Peace",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOS2ZoaVdaTDQxUWc3eXk4SV9DRHB0VnR5dkxyMzVZVHZSQ0VITGNwcWZBQ0RyQ0ZjVlNUNF9aSVJBcmNkeTM1dzJncVRHdVY1Z0tSLUdHeFFCVExCUnRocjFCc214U1Q1S2hxZTZVOHhsbF9jZDRGQ0dxelhLQmJHWXFvUGRYZjNfTWc2QVBQNFVWcXYy?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Trump ad­min­is­tration appeals to Supreme Court in push to sideline 20,000 Cal­i­fornia mail ballots",
+            "title": "Northwestern University and Washington University scholars talk religion, politics and public life",
             "summary": "",
-            "source": "Spectrum News",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUERyekExcmh4aEVTRlRBMWF6S3gxalg1OTZFN0o0R2IyNEdCS0ZvS3VuRmNzanIzSEhvcHR0NENtMXVaS1FKRmxnZTItNXR6UUlfUFMzdU9KeDNCWWxnQkNtYjE0ZEZhNV93ZE9iU1dTamhOVFpZMFF1d0w1MjJqOHp2Q2dFZGFobmZ2TG10MjUtM2o5OVdxVHZPS3JMTGQteGN4emY3OHk4d2RnNUhCckdoNnE4V01JbzJRengzN3R3QW9VZ2JzSVNnSzJwTnNqMEE?oc=5",
-            "date": "2026-11-02"
+            "source": "Eckerd College",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVnBJM2dsUFZIcDB1U0ZSU3FORDZ2NlBlaUNucmp0TEVpN3lBd2VXTXdlNllBcEhnNW1XNEhFV0IwcVdCU05XLWd2NUdhTVRrZDRVbTk2emF1R0h1bXhOTnNMczc5aHlDUUJMdHZYQVM3aXlEZ2VPTl9WT0VrbDdxc3d0NFRzR2M2d1dSZEdmRUhOZFVEWTMzbE5oSFVFaDdtN0FGaFBtdzlMcGd0MXhRTjhCR3g2NTZhbGwtcXp4b0wzaHN0ZHhFa3hmRQ?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "Majorities in Both Parties Say Media Criticism Keeps Politicians in Check",
+            "title": "Inside Iowa Politics: Why this national election legal scholar is concerned about close elections",
             "summary": "",
-            "source": "Pew Research Center",
-            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXNOYUJFNmhxTGM5SUN6OE9tZU1WeEFOeWpzSjNLVkxERmprazJJSld3eTJqcDVHY0tPemFjWGpjclJiQXdWc2Z5NXZjeDNBdGw4SnBhU1I3VzZfLTE2RzdRY1l3aWFlbGw0UGh2UzRBeVZyMk5lTHdsMzZaRVcyaUtDTmk2ZUg2alBlOWRqODFVVHQ0Zi1VODlSNXdZaWpkX3NkdnhkZUhuMHZSLXpDRE16eUJYTm13aVZhcjNKVV94OEU?oc=5",
-            "date": "2026-11-02"
+            "source": "KTIV",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZXFXbzVoQUtXTFFleDdPeHcxWGtDblFPbDIzX1VJbTA1d3F1X2d3MUE0eUFLZWdUVVVUYWZkZ1B1Y2lPYmxLUnB0NVJNRVgwUFU1UDFtTUhpaVdYS0hXaXMyR2JOdWhHLWthamFIMEFHdjczLVFQTDdIelNHalctaWdGdV9yU2VRNDNHOGxLemYzRzE4Mk4tOU5pZDdSX0JGOGZjVVhUcnRGRHJ1ZmFLbDg1TGppbk5tOGJpNm5HRHhfd01ScW9hNdIB3AFBVV95cUxQSERsWF9ZSTBYeFpGeUtvaFJfcU4ydzQ3SXdiYXNmZTMyRS1yeVlVXzRHOW1NdmZUVmZjcldyQnBZTjJPbllTWWZEaDdwOFlUMExRTzlhd2VRek9ZVGtndFpJYnNpbzlLZ3Q0RHlYcGNBZ1NnaW1VVzE1T2NKd21ta2ZJanpOWmhsUHpkRG4wU3lwNWlFYmpNaDJqZEhOQW1EWHhSUFhqR3Z2VDR4YnllelpuWVFPNGZicmRsdVJHVE00RHJuT2hQTmZ0VDUtcEhLdlZRME1nWWczTHNR?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "Is America really that polarized? The answer might be a surprise",
+            "title": "Justice Department sent target letters in Alaska Senate criminal probe. Here's what that means",
             "summary": "",
-            "source": "NPR",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUVgtVEFERjVFZ3RKM01YNWoyTVRzWnczMWNrQTZQSEQ0VHpvLUFwM1JPZG0zOHBTaHhmWGo4eXdqV3d4SnhkNWg0VzRUS2VzQVdldHVJOWJ3VnI1RmYtb09lb19YNzF6RklpQkNzUl9sWlJNWDl3ZUZiM3Zid3BwTEJlR0tROHFYNkFyZmx3?oc=5",
-            "date": "2026-11-02"
+            "source": "PBS",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEdvM0k2aURaOEozSmRic1hCdDQ1YUdCMmh5SHRzY1RRMGNGYnRjc05uZlA3WW5tanY1OGxIRl9Rc2c3UG5DSDJ3Vk51V2dRSVBTZGNVeWIxV0t3dW5RZ1pwQU40aUozY2FCMHJLbFYxUTFGaV9YLWx4cGlwY1dlNF94emNqNS1aLUtaOTJfYkEyTXJndFcwN1NwLW1vd0d3TU9HY1lLRmlRT0ZPczRZTEZYMjdSbFJ3NlpFLTFHaklTLWR1Mi05RDBR0gHPAUFVX3lxTE52Z2xmU1FoTzdwbmppdjE5eVlWSTVfQUhQSVBmWEZ0dXVDMV83WUYxanQ5SmZ3SE9HYi1mODI5Yldhb0N6Y2dqeXlPNkpna2RldlZHSFFQM3dHTDJfdzEzU2d1dHZzNFhQQzl5Y3lwbUZ1UkRNQjV3ZHo1N3lVVGtLUUJFazFNel9sNWQtVThPcXJpRFdWcXhaeU84ME93cXJzdTR4WWlVV3ctNURZNWV3OUNJR2QtMER4TWp2OVRlS3lxM3lWOXZfU0ZBSG1MMA?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "How deficits will shape 2028 politics",
+            "title": "ABC7 Political News | Politics & Campaigns",
             "summary": "",
-            "source": "Axios",
-            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LUEtfbHNBQld3R1dIZlFWUW45SnlZd2kwWl85NGM5Vk42TjdzZmFaNEMwR3dEdnBpZDN4UGlieGItNFNNNUQ5bkpoMW9kaWMxU1lOYU9ydk9SYms2N0diZkRyZjVQUlFDRU1JSTZUQndYVUp0a2g0?oc=5",
-            "date": "2026-11-02"
+            "source": "ABC7 New York",
+            "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5RUG8xQzVENVFOd1Q3aEt4YS1nUlluU2dLNzk0eVFuQkNEN3FLejZrYjhsd25fNkU2c1ZkNV9ZRFZMdw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Democrat Debbie Wasserman Schultz wins reelection to U.S. House in Florida's 20th District",
+            "summary": "",
+            "source": "PBS",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNblpTX1hiaDV6UFlvQWFzVWNMR0tRTFBwYjlQdlZSNjNIdEk1YVVUQm1BOGo4S2E0ZDJ3ZngyR1Z5andEbUszV05kS2pJUWdjbHF4R0pqOGV0MnJWSnpNelZfTm82TjUtQ19Ncy1qVVhiSmZGU2doM0pRYnVZM3pxV21BQ0k3YjJPdDFNWjdWSVNnZ2JCM2paVGhHNmg4QVZZSUN3QjBXRmNCUDd1NWxXNmVCb3FmYVVWRWRHQ1pSOUlQWGRG0gHKAUFVX3lxTFBKRHhWZVNnZzB1VTZ1MzIwUlhTMWpUN3JRbU00eEU1R1Q3NTQ4MnNSbVk4RTgyZlh2b3phWHBGOXJQSzdPbHBiNTBLNWZKbTBjcnlvc0FLODdlOTlPZzRsRnNYMHhrcTRjd2dKMTVqNERERGQxLUpOTWFSdmdWODdKajUzTkdOV2s2ZWsyUkFDeWdHVDJSeDQ0TTJlMV9IVUtuUmFRT1g3R2NXQm5VYk9vdzI2SEw5SWtUWl9YRGRZN3h6NG9DdjNnNEE?oc=5",
+            "date": "2026-11-04"
           }
         ],
         "ja": [
           {
-            "title": "トランプ政権に「共感」日本国内で23.1％ 「日本にもトランプ氏のような強い政治家が必要」は52.6％ アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】（TBS NEWS DIG Powered by JNN）",
+            "title": "命守る政治実現へ/憲法大行動 あいさつ・スピーチ | しんぶん赤旗",
             "summary": "",
-            "source": "Yahoo!ニュース",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZ2RfZE1VajN6dkdERzhqb1NoSHYxWlZlNXg5al9veHltanRnVVgxaHhtYU9MSW03WGRlcGcyM0FSbEt1YkNkSmc0c0YxN0xyOEIzN040bnF6c09WbEFMQ09DMS1yLTdTMDdZLUpEdzlmZjNiNEpoeXMxNWE5RkE?oc=5",
-            "date": "2026-11-02"
+            "source": "日本共産党",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LS2RVV2ZEbW12N2lIZHRRdWpTRm1INkJGWV8zNUdZeU9TUVhfQjE0SktVWm1wNUVtaWlQVnA4NHdlcEM1RnhXaXB5NTVqOE5yVHZNb2I4TGZrblJ2aU5jOWtKRDlJd0RMQ242dWVYM3lyTTBI?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "欧州で政治と金融の交差点を読み解く（2026年9月25日掲載）",
+            "title": "中比外相、関係改善で合意 王氏、一部政治家への対応要求",
             "summary": "",
-            "source": "日本銀行ホームページ",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlRnFiem9JTml5N2dPWFVJUGJZTHdMYV9kTjZtczJ0am1haloxX0RZSmFpYnVkcldpZXpBSmQwWlpqMXFBNmtuN2hhc0FWVnpJVlNNMTJ2Z1dxa2tHNUJRcVNkV3lYTjV6eV9sWkF0TnU?oc=5",
-            "date": "2026-11-02"
+            "source": "時事ドットコム",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ub21pYmhGMGZSMWdmVnJQcnRFNlk4Ul83Y0VIM1MtSktPZ1FLMlJOai1TTnkwUjdPS1ZUXzA0clRUUC1YOFRUQlVweENOMU5hWjVQYUltMEJoZTNCd2gyc2liRQ?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "市民の手で国の政治変えよう 大江弁護士 船橋で安保政策の問題指摘",
+            "title": "米制裁下のICC支援策、締約国の年次会合で「政治的な議論」へ",
             "summary": "",
-            "source": "東京新聞",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LY1RQZmtDcmRiUy1zWnNtWXp2dkRobUFGcHVTakRZQUp4MVA0VU1vVTF0RFBTUnVhU3kzOW9CS3J6Z2hBQ0ZJd21obk1TdGxPWDZJ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "読む政治：日本人は憲法を我が物にできるか 護憲・改憲の優劣ねじれの中で",
-            "summary": "",
-            "source": "毎日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mWDl2NGpwQWZlZi13NmFZVF9pdkprd1hFOC1hMG16QlhBcHV4eVlJcUZoNXpKbE5FbEZNa2dNM1lzd1gzdC1vREVlcEJKZ3cwMjdIOVFQUWE0MGlZUkFVLVRBNHBMTlpY?oc=5",
+            "source": "朝日新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WNG83Tm9jRlhYRjVUSVA4TzFQOTNwby1adThaZ1pvMHRxeFVMblVsQjBrcmF1ZkE2TUw0VS1NMHMwQzcteEVnQ0ZreHdZV2Nlb1BpSmRtLWk5M2luMHcwYjI3OERMZGM?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "「日本にもトランプ氏のような強い政治家が必要」は52.6% 日本国内での調査でトランプ政権に「共感」は23.1% 強い政治家を求める人の78.2%はトランプ氏を評価せず アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 | TBS NEWS DIG",
+            "title": "ブラジル》若者の地鳴りが揺さぶる世界政治＝奇跡のルーラ逆転劇の深層は＝「親より貧しくなる」絶望に抗う共感（ブラジル日報",
             "summary": "",
-            "source": "TBS NEWS DIG",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmYXRscC1uS3dwMl9ObHQ2cms2QUMzX2ppeFdYcUdPX3NiMVlQY0xUdFZabmNmZE9uOE9pa1RfZnBqeUI1UTZTV29IcnM5T29xWkdNdktzYw?oc=5",
-            "date": "2026-11-02"
+            "source": "Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nUlFmNmlxTWNaUHEybVdXdlZUcFpBMFUtcUVJWkV1VU85dUlueDF5YmIyNHluWWFGdEVMSXZlWnNnU0hzcXlzalhlWVBPYWZXS1FLdzJ5bjJwWkNVNWZiNnhtSlZFZkpCVXh4TWNGdERDdS1YUlNNUzRGb1I4Qjg?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "北朝鮮が暗号資産盗難否定 金与正氏「政治的挑発」と非難、バイナンス事件巡り",
+            "title": "中国、フィリピンの一部政治家が「レッドライン越えた」と非難 言動抑制を要求",
             "summary": "",
-            "source": "産経ニュース",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YWHZUVUV2Y1J3X09ZbE44NS1tQ2M2NDhzQ0VBV3ZqR3hFS2dqLTBJMlFIeHZzQ0VCTDQ0ZFVwekszUVBEQUtZOF9LeWZILXhZZjd6Wk1QZHJScVUzWTVYWi11U1E3cmR5LXJseWlHYnEtM3VxcVE?oc=5",
-            "date": "2026-11-02"
+            "source": "AFPBB News",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tTDFyM1lidUR2VmQzVjkzaHRkLUhlbEpUOVVBTTZZaDRHMXpCQzQ2TGhfT1FEMzY5TnlrdXRGZk8yU0F6eDgteGViRXBQSFg3SnfSAVRBVV95cUxPQ3dTc2R4eVgwelFadS1XRUgwZm9lemZBbkFJMWhqSWtjbXZlQkZwTjdmTFdzLXR5U1I5elczaFVaTm5TWWxySmVzNXVkMmRSamN6bEY?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "政治家半生…自伝つづる 佐藤雄平さん「原発事故の経験残す」、11月10日発刊:地域ニュース",
+            "title": "米テック業界の政治的対立、中間選挙後も続く公算－分断に嫌気も",
             "summary": "",
-            "source": "福島民友新聞社",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OaVBWcHdtMUl4UUdtMkdvUEI2YzJvQmh5c1M3U3k2QU8yLUZreEgzOWNBUWVVVXhhaVlabDRlZmtrS0RFLVRqYmZyd0JySG1Yd05lVTJuOU1mR0kzeTZ1cXRZM09LcDEt?oc=5",
-            "date": "2026-11-02"
+            "source": "Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakhjSFBPWEhZcGtYeVdZMC1xallYbTVScUZBbVVWRG03NFktajFQb3RpQmpnUk40emE2LVRJVkpoLXlNRWlncnpfUlJfeEJNbnRLZmQzd2pxMFpPcGlBbTBiTk9zbmNZQmMyN1JKMnVTMzBjVWtobFBmX3V3bG9HRUE2R2ZhbUpGQ3lWZjRB?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "金与正氏「アメリカによる政治的挑発だ」談話 暗号資産“1兆円窃盗”でFBIが北関与と発表（2026年11月2日掲載）",
+            "title": "自民青森県連「宮下氏動向踏まえ知事選対応」｜行政・政治,青森県｜青森ニュース｜Web東奥",
             "summary": "",
-            "source": "日テレNEWS NNN",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGdDUHdkLVJSNXAtQkVpTWs3RVY5SUlaMnJacE1LMlFwanAyUHZiZFEzMjlua2hLY2dvbXotTjlEekpuc2dTUm9nalZEck5aTmRtSkJuRUoxQ01EV19uTUFhQVM1UlROdU4yUk9tNEdUMkNWdktDSXlVb2JyZWUyeFZTemw?oc=5",
-            "date": "2026-11-02"
+            "source": "東奥日報社",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04YndQeENaWUdla2Y4di1pcnZkOExJbUZJYXZzZmktMzBuNndoSGxuc291aE8wQUdpWXJQTm52LWI5c0lRN2dNM3o5Q1BDYzNMNG94bjFJV0o?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "平安京で終わったのか？古代日本の宮殿と遷都が映し出す権力と政治",
+            "summary": "",
+            "source": "JBpress",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4wRnJqd09CTFMta0J4bGF3Um9LZkdmZ2diRjZhVG8xcktka0lCb0h3Zk1VVHd6OGVRSG01S0l3Q1czM2lZOEMzNC1LUHAtcklPNlVLcjRn?oc=5",
+            "date": "2026-11-04"
           }
         ]
       }
@@ -387,118 +387,118 @@
       "items": {
         "zh": [
           {
-            "title": "財報季引爆賣壓！科技股為何慘遭血洗？",
-            "summary": "",
-            "source": "鉅亨買基金",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXBaY09nemdMbGp3aEoxbzdSX3AyekRPbHVLZmVrdFdyRTJ1QXRKdUlWOVZRSGVIQXBpSEhSSGhEaXJvdmdWeGRONm8tb3hnd3ZrNW5VcFNlSU9UVDNGV201TFhTZkhjaUhFLTg3b19RQ2dKX3FUdFBzS0NkR2UxQi1ibGdhUHlaNVlKM0VhR2NFRTFSQ2RXRnJ3?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "科技巨頭繼續密集“借錢”投AI：Meta、甲骨文、Alpha",
-            "summary": "",
-            "source": "群益期貨",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0JLcFl5VXZsVWx1eEJYOUN5dTBoQ3cyTGFKODk1OHVtYzJQVHFqVU9YbUpIWE9MWFV2YTk5Mm5udTZkci10azhNbmdkemNRd2lxVXpvOUZHLXU3Z1ktVVhHR29MUUJYeHlLUjZqbW5mRDBIdUdmUmRsMTJJM1VSZGpsMUFnMXBJMFZtcnZoLVBlRkhfUnRjRksxWjAtdU5y?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "美股盤後｜科技巨頭發債計畫，加深AI獲利回報擔憂，費半重挫逾3.0% 1103｜豐雲學堂2026 年 11 月",
-            "summary": "",
-            "source": "永豐金證券",
-            "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxQSVJFamJRWUl6M0gtVWczZjREelVLb3h6M0dIUlJXSzBjOGhIa3FCeXVtQWFvQThhckc5LTNEazRqRGYtYlhhUkFSOVNUb25JUVpDV0loWTBwZVd4dk5LVno2dUNfNzdYX0dlV28tV21GbVZHbHBpaUN1ZWpjbS1CdFBwcXB5eU9yREgzSVVrUHBqQ1B6ejA0R0NNcXlrYi1RbEhNdUJ2R2ZBbkZvRVp4QVd0Z2NCV1QxWnE2M0NjTWg2amVJd2hxdEhNU1V3Y0ctQ0prN1Z2VGk2MFpUSWREOEZ3ZnRfSVJ1LTEyd0tLbFluOG8zdFhac3RSX0VVWVpwd0NnQTdnNGRYT2NwS0JfTkYxWTZWd1hsa2h2S2RyaTNKVk52dkVicXJ2a1dnTUVDajRjMGRPZ0t1ekUzLU8yZWFlQlJaT0RPTDVfQThqcmMxeG1UbkVUZnpDVllsb1BReU1mTWxMRFd2TUVLRzAxNFFMMGprUnF2LTJ6OUVOVGdBdDNqd1EtdXBtZmVZcFFuVExXbTh6X3o2MUhEak04Y2tIVnJacmcxaUNEOUtKV1dTbUQ0TFRPUjJlWjI5djQ3bmFJ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "美科技股賣壓蔓延！台股早盤狂殺767點 台積電跌30元、開2300元",
-            "summary": "",
-            "source": "Yahoo股市",
-            "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNNmlGeVJmTTVzUmNXNWhpbXE3Z1BzM1psd2V4bUJuN0xvQU9ELVMyZ3dJcndPQklzWmx6bm1Yb1Z1cmpIRDk5OUlXamhLd3RrT3ZBRmJFTVNDOE9VVl8wN1M4STJYSnY0NG9vWGZsT1J5VXpKQ29OU0lRWFZpMktmUW1hY0diR3FzcEx6VHh3bi1BUHlYNXBCS3ppbWRqRzlST2NIeHhxYXc4bkl3c3VaSTFyVGx3NjA4TGVTNkE4R3N2RlZHN0hKRnZJY2JQQUNMWGV1YlRMMWRySC1KeE5PSFVvMnpkdUQ5SG5WZmttUU9STWs5N2pBYmduSk1mUFRsZDlCU1laZHVUVVkxWGp1ZXpyRUxXLUpCNE1USFY5UEdCcXpob25GVVJfZTNZMlFjVFR6clZmVzNsZnBGa012TWFmMEhSRVYwcDBTbWR1WlNKOTJtc0RoTjlwZHZaa0VFcUhLbHl5MDJvZFdnZnczeXFpbw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "幃翔擬授權董事長處分幃翔電子科技(蘇州)股權案，廠房及土地交易價不低於5660萬人民幣",
-            "summary": "",
-            "source": "台視全球資訊網",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYi1wNWZpVGxzN0ZYWk5EWkg0Ny1ZSEQ2dlBuaFRpMzJUdUMzNFRhMXgwV0lpeWFId3d3MnpiTFptREc3WGplYVVyQi1OS2hwbWQ1eWViQlN2ZUtHejlWdExyME5GUmhtamc0RS1EMGJGekxUa3ZlMDJYbnVPSnVNZ3Rtb1lyTnRQV0ZPeDdzVmh3Zw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "彭金隆:科技島到資本島，資產管理四年有變正在發生- 新聞",
-            "summary": "",
-            "source": "MoneyDJ",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZENpUmx3cmFPWFZuVmpSQmc2dzZTR1UwNTFjaDlCcXFHT1Z3VU5IcW1lMVFjWDl0emZNaWpTek04QkdqcjhrS3JfVjhBbFdrUVNDOFM5a3Z0RUFISG5YSkJINWFBWGkyaG9kRmNvSFRWVWpMbUJCOHB0VGZKTFk0UkJhWWVKSjNYQ25FanJBbDM1Zw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "從科技股轉向必需消費股：華爾街10月出現網路泡沫破裂以來最大類股輪動",
-            "summary": "",
-            "source": "鉅亨網",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11S0VUVEJVZUpCUE9RNVdGNUpwTXdibHplSHlyNUhCdHZ3MzNnQ0hpanJGa1NPZkhkc2lOUzkwNmpCLXhYTzk1UldfYkxhVUE?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "市場對科技融資疑慮尚存，美股類股輪動行情延續",
+            "title": "政經風險緩和下科技跌深反彈，美股主要指數收紅",
             "summary": "",
             "source": "玉山銀行",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUV1c1c2xMWnhWYWlGTEhtSmdLSzJpN1ZzRDFMTGY1LU9WeTEzVFVRQ3VPVlRaTHlyVVZ0RUM4dGYyRlpWVkR5S2FBYmdUU0tiWURhNXc5d1lWR2NtMTVKUXdlUnlHR2JWWEtyZk5URjZRYmdRUkNnVGdfSQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIdkM3NGpuYlp5b1ZJQng2RjhYdi1zaVpUSklELUtBTHF3aS1QNnk4endOb2VSRE9fX1pkZTA1R3Mya0ctcDFxNFBLekV3Ylp0N0s5TWtMU19hNFcyWl82ZGpFb3ZvMms2TzFqZlMwc3hsTGthbm1XaXQ1RQ?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "AI投資恐慌過頭？野村揭科技巨頭自由現金流轉負真相：資料中心獲利潛力仍強",
+            "summary": "",
+            "source": "鉅亨網",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1THJ6NUZMT19RZGFCRi1pRWRBcW82NmUzOXdXVHVKU0hRd0g4elR4QUxsODQzcllTTE9qZGoyVkxRUEJWa0gwVWwtZmRJa0U?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "美股盤後｜資金重回科技擁抱、油價持續下跌，四大指數漲跌互見1104｜豐雲學堂2026 年 11 月",
+            "summary": "",
+            "source": "永豐金證券",
+            "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxQVDBVX180S05faEVKdXdhX1k2SlpSYUJhaGFBTkpURTJJR1pLS3hQc3RhdE5YbWFqZUdBcFR4ak4xWGhsTHBjbkdQaEp2d2dDbzlCc3VhV2UwWWVhbVJhY1Vld1BFdmUwbF8taGI2b0RpWlhyT3c5LXB5SkQ4YjNUNUxZMGVpS1NrV1BXVlc5V1dEUlhqR3VfWlZGT1lEVGxIc3FTVW1vc2FEV0ZYQktRbDU0eUV1MldRNjdoVHJ2WjJtNlJScDNHOW1DN1QxZ2hHQzJ0empCblV2NFhBaU1rMkI5WF9Ja0cweWJNdlNOLXhsaTd5QTRFN09pNjhCVVYxc2pDdkY3QVpfTUJtQXVmZGRzMnk2T0lFY0pOc0F3SVVDSi1lclBqNXpMakM5d0NjR3FKWlR2ZnY1SWktYklnTllvRTE1LU9wNkE0OEJzdlFjV3ZYM3lPcVB4RTVGR25mQXRPOVM5akpubFYxTGNPTi11bFNkY0VfV2N3R2pwd0ZEbEJHdTJEa2dZTzhfQTRUQmZacXVPUmFpMnBQSTMxM2tWNlVWc1ZpR2tPdkNnZ05wS0R3MDZSdGVRUXBVWk5lUUNiM1VYZw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "AI融資潮重塑美國債市，影響力直逼戰爭與中期選舉",
+            "summary": "",
+            "source": "群益期貨",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0JfWnNzTjVkYnozQjZyeGxyY1llUk95MllJQ190aG9ScGdCODNHWi14Z0VhTmxBMUZsM2VRRW40ZDhzV0lOMFJzY20tbTJPT0RfTW1OWnZuQ1A3OGxVbURzXzkwb0NsLUhnMGNYWFY3VzVwYmNlMXVtT3hicFRuTUNiOUVlaFBuLXlNUU4xc2FQNHVyVVpidEItS09PRFRD?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "科技島邁向資本樞紐! 金管會完善金融生態系| 金融",
+            "summary": "",
+            "source": "非凡新聞台",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1vR0ZjTWpDdzRsU2Vmdks0UUFvRm5KQmxWdmZySkFubl9uOHdYbEI3a21aWWMtTDRLRTZPRGxuVXBrX0V1YVlMUGpRUDNXRS00LWF5Vm9ILUM4aXc?oc=5",
             "date": "2026-11-03"
+          },
+          {
+            "title": "盤後科技股大跌拖累納斯達克期貨走低",
+            "summary": "",
+            "source": "Moomoo",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUzA1QnpuVHdhOFhpOWJkb200ZjZ1RzM5UVdmMVhVdm83dmdTUUZVX1BZeEM4YXlqc1B2SmRDNkgtNFRpY1BFbHl0bnhPaXBwNFl0MS1KSmJKc2RDcmdKMXpINnloRzBYSHVoOWlzcHMtbTVfREJPTWk2RUJ6NmRYSkVBc3U0dmlLQTJxTTRVVElwSmpWbi1pY1hHWHBpTGlfUzJ3N2VaTGdKUnU1?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "【新車圖輯】鴻海科技日三款電動新車全右駕！神似 Jimny、Delica，準備搶攻日本市場？",
+            "summary": "",
+            "source": "Yahoo - 汽機車",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPS3FVNUxhWlctbm52SUlDRVVmeFpFclZlRFVpNm1TbnFPN1pHTE02OXVBS0ZVUU03cXhRQjR6VjhlNDJBTVFpMmtDaEk5RTA2Nlg4SEFCUVREQV8tYmRoemFMbkRfcHpkY2dGUkV1enVxaHJMMkxXdUk1V2E2MVVJVVl3WG83OVJHZFkxZWYyOC0wbVRiTHEza0pPT0NiWWUyNkxrZzF2b0JZa3FXLUhPU2xndzVVUjFjYzVWcUp0aEN1VmJQVGd1dUVVRjA3ZURlQ1NFUzJaaTh2TUlQbDAwNGlpRWxhYUJtX1Buc3NMLVZ2cDBDdFF1eHpnYUlCLVY4SXFNM2U1VXJHa2ZwR3YzclFKWUdTNzNWNU54S1dwUEZSZ1JsQnRzR3d5QU5GalRQajNrdHlnSFFFOUZuNnJIVE9vZy1BRXFpZ1hka1Y5OUdaeFppU2ZvNXhUeFJWeTZW?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "美國期中選舉對美股、AI科技股、關稅、油價四大影響一次看- 國際",
+            "summary": "",
+            "source": "工商時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WWDNEX1VJRWswdjRVRUJpcVlOSl9KdkJiUWRybDNGekNzYnlVMVRZdksxSmVhOVotUU04ZVBLUmp4R0hZMkx0b0ZvekJDWVJvbVdjaXgzX2NHcm5OV2lN?oc=5",
+            "date": "2026-11-04"
           }
         ],
         "en": [
           {
-            "title": "Power Rankings: Who's poised for success at World Wide Technology Championship?",
+            "title": "Expert Picks: Favor scorers in birdie fest at World Wide Technology Championship",
             "summary": "",
             "source": "PGA Tour",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWdwWU0tdGw5RS1Wa1hDcWdIYjFpS3U3RWJRZGk3ZEZoNzVRaVJqcnJhUHJ6MHFsWE1tZzlpSEFUNXM3N1ZFaUhsWFFOX1dZS1oyOUxEWE16czQtWmROYVFhRWlXdFV4a1F2SEcxOWhPZk5zWjR1ejNUTlBmZzNTNXRXVGxCd3Q3NlFPUkpmRjh0b2FFQVdnS3BqMW1relJ4cjh0WFZqMmZQTFNMR2JhTndELVJ4aVFrTzVIVXNBRy1QQnRHMV9JT0xPRUVTdw?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Strengthening Technology Leadership Across UC Davis",
-            "summary": "",
-            "source": "UC Davis",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWxEM3lCYXNodzBjLTFqSXM2Sk96T0V5VXpGMHBPdVQzQWRfVmJMSnhETjVObTRycWlzU1pFNmlWUlFfZlAxcXp2Y2R2akFDMHJZanNJWTNxcXdTTVlibUw2ck9uUkZ5MTNEcTNFM0NnWVltNW9JaGc5cHljY0NwMFMwS3hZYlU?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "From Principles to Practice: Governing Science and Technology Responsibly",
-            "summary": "",
-            "source": "UNESCO",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM3RKclhjRHR2Tnh6OXBHaDd2RmpPdmFPbjNkczNCdDRPWmluQlBJUm1qWEVlZDZEdDN0cTYtRl90eDNmeDBSTXVFenhHWWU0WkQ0d2pjV2hzUGNrV2Jsa2NiNEtnZ0tlV01fVjRDSkxub1pEY2Q2MHBzdU5JQndVa3p2Tmp0VTJaNFhuNDNEbjdfR2s3cTdYSDhsM0diUW9l?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGhMbkdGdFd0R05EUkg2bnRIMFFVR1FLdjlhRVNIODU5ZHhFQWZBaFY1U2dpVkdKbzh5WlUzVXZUV2JnNzhIb2dvUV9XSWFTOXNhVEZVU2JhdzIxUXJzazF2dzFwTl9wUHFZNjljbDlERVNEQXhRSkI5TkhPb0w2ejJSWDdPY09uZmxKeEV0ZXNieEZRc2RDNE5GWk1tT3o4SE0zZXdybnNhckEtXzhmX25YVXhyZTAxSDRwTWkyT2tycVFfTXcteTBpUVoxd290X3hZNGF2NUR6dzU3MW03WlJn?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "20th Strategic Energy Technology Plan",
+            "title": "Elon Drone Day showcases emerging technology, explores future of AI",
             "summary": "",
-            "source": "Energy",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS2I5OV9JLVpMNllkRkFsc2NOWVZzN1dLZGdOSmF1S2NzVUNiU0xXNTh2aEVQTXA4ZWI5b0dJclozT1VWd0planpSSnR0ZFhGQkFISEd1ZEpsZ080RjBOd0JFOUpsemR5VE9rNWhTbDlqOVI2N2NNMzFCdnU3VHpmeVZpYXpqdEswdGhtUnViSQ?oc=5",
+            "source": "Elon University",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMkFsMzlyWkZTVDFfUWRjN05kT3lpa3hyYW1vaXRzM251ZEY4TXZ6aGRXMWxLc0J4Tld2bFpteHNacTh4Nzl6NzIxdlF6N2gtLUkyYmxoYXR6WmxVdy1kdHY3MjV5aVh0VmoxT3B4UDRwTUREckp5dnZlRGhzbENuVDBfSDZBQUtkQ1g1RnFfSTdiWWItVzZXY3ZVanlQU0U1TXVRYW1Od1BGZw?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Marvell Technology, Inc. (MRVL) Stock Price, News, Quote & History",
-            "summary": "",
-            "source": "Yahoo! Finance Canada",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zbm9EMEdPUFdxdk96TUhKZG5JSUJOTFJFUFRJb2Jpdk5qOWVIMWVWekY3TVJ4eWVpU0tzbDJoejZRbW1tNmtuUVNPTFY0N1Q5dGc?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "Air Force Research Laboratory completes flight of XQ-67A, advancing autonomous technology",
-            "summary": "",
-            "source": "AF.mil",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObjBIZ3RCSUIzMTRPdTdDZmRqTG1IZFhDNmtPNW5qbXB5WVdKd3ByQlJvMFNLeTN1UEczYy1DMmlVcjM4YVFydGVhMHhYRlBJOTZaWkt0N2hvVHgxVkcxQ0xVNFlvU2xDWjVuV25COHVvNXkwQVhqZVhMM0hzZ1J3ZkMybTZ1QjhVMmZoRnFRLTZxb2J3c09xT1hoUnV4VDBfbjFQZkhhZFNjbHRDd200SDFQa2h4TGFoLW9FSU1IaFNDXzA3N2ZwckRoMjktS2h1Wnc?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "World Wide Technology Championship 2026: Odds, favorites for Cabo San Lucas",
+            "title": "2026 World Wide Technology Championship: Round 1 tee times, groupings, how to watch",
             "summary": "",
             "source": "Golf Channel",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeER5NU5zYVpxMkhSQUg3MGZPdjlSVWs0UEdybF9GTUh6X3U1d3RybG1CNUJuLWlWVnlFQjd5Y2dldmk3Z21ES0V2TWFsN1N1aXE3My1BT0lBUjQ1QzctM1JxdUhfencxaWxqcHo1NVNFRVB6MjY5aDB5eU5HRmc0cm8wZDF5cUQ1bFNfQS1aeWlPNm1oT2JFUnctMHdVbjhzWFlnS2RYZWRuVk1yT1FxODd3QTZudw?oc=5",
-            "date": "2026-11-02"
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZkSW9xRVlPT3BxNnY5X1ctMmJaSVloemhvWWxTRS1nM2JrYk96UHBLM0QwNDVKVm9Ec1VDZDBJRXlIZEJkNWhZY3VqVUdQSDdiUVd3bkx3VWF5X1JPYVNhbTlTbFlhd1dUV1JEOUhoQjI2d1R0THdodE1YOVBrSW9VVDFINTMzZTEzQXZ1djhqSE00LVVXeVhCeFhJNmlrNVg0SGFwdUhCRUI0SmI1Qkp6dnlqVWp5SE01WDF1QQ?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "Powering up for a pivotal moment",
+            "title": "Wayzata Students Combine Technology, Sports in AI Project",
             "summary": "",
-            "source": "MIT News",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uOFdhVk15TkRBSGI0dU1qVjhGUVhVQ0Q1amdldUhhRjFBNUNqNVV4ZDVuMFNBVkJ4MHRsa1R1blZieE1MX2tOX29wcGVFYUdhWEViZVIxUl9DcTdtYWtDV1Bucm91cEMtVEZMQkhn?oc=5",
-            "date": "2026-11-02"
+            "source": "CCX Media -",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQX3ZDdHNBTjYyNmRwSmptNjRaZV9wbXcyN2FDcTRBcC1XTG00aVB4RlRNckgxeTBsSXBjenJhNmlvS1lMVm94elV2RS1JdjRHVVQ4b0pWS00zVHJCakUxcHVTeUtPTm1DMC1uZWRYMmRCZFFHenlTSGE0UmFNWGt2ZTdjNkJ1ZzgtOHAw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "State CIOs support election technology, but secretaries of state often manage the systems",
+            "summary": "",
+            "source": "StateScoop",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPenZjR1RhSlNyR0NRWjgyckdwWVd5OFQ5dnlVR2xYWnZyRW5fdnZhOTJ6UlFZNDl6b0pCdTR5SkpzemVWMHh5TGZsZ005bzEyc1RwNTlqLUUyQTREZXhWN3o3ZjhzZTkxUFMxbGFsd1k2b0wyYUUyNmhxOFNjaDBreDdlbkJYVlc1RUViWWJBWFgtNm1tQzAwN0dlX2k1VEdvbDBXTXVXVEliWEtpemxOY25R?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "SEMA Honors Advanced Clutch Technology and Motor State Distributing With 2026 Industry Awards",
+            "summary": "",
+            "source": "Specialty Equipment Market Association (SEMA)",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMjdjaUk2Mk9qbkdaWEQxSWEtd2sydmY3SXFqOHpEWXN6TzBTdnJPS1N4UWJSWXVGUHdEd0hrZHBTb1ZxVkVXWXprUGJoUG1MaTFmU2VSWkhPQXl4b3BUaUZVWTU1Vk1UTXZIOEpaeDZrcFlwUVNocktaczhjeXJjQUNpZmRWVzhhUDRsRWFRVldlWjlnc0xLcjB6YkxMTzNfM0pDLUltZ2RZNXhpcHIzVkRmTnlBcHVDN3c?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "Triton Returns Hit €12 Billion After Trench, Industrial Technology Exits",
+            "summary": "",
+            "source": "Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGF1UDM5RzNmTWxvSWt3a2xwazJCQlBZZjk4V2VLZi1uYVJDX0hSeDl0cV9kcVlNUkRyMjFTZklyU0NoUGNsQUd5eHJHTzVmOGphdTRialhmNUJsVmRLUm00UmJDa0lrcVRWTFJvWkJzTnJKTGZVZVdLUHdxb19KT2tzeUJGZmlxV3pTR3IwRFJGQXdaZndHWEJlTU54YnpUWXYydkNncktTazg0U1hxdXJhd2JJcUJwZHgwNjJtbmdadw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "S.B. Unified: Spend Less on Screens, More on Students",
+            "summary": "",
+            "source": "The Santa Barbara Independent",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTHMwNV9yLW5GdnZ2d2h4bkhxc1NCbnh5aEFCaXQtbnpUT1JReDJXLVM1SW1Va2tSaHJ1WXZjX1Z3LWdFeFJTOXpTZnFJWldjdVJmWnNWU0RqMXVpN1otRzB3bnU1ZkRqdU9GRXJveXJLajNUV3VUU3FrNmJtS1RPaHZnejVxUkItZ0I2RE53QVp2X2RM?oc=5",
+            "date": "2026-11-04"
           }
         ],
         "ja": [
@@ -510,52 +510,52 @@
             "date": "2026-11-03"
           },
           {
-            "title": "テクノロジーサポートチームに「911（緊急通報）の発想」が必要な理由",
-            "summary": "",
-            "source": "Forbes JAPAN",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NYjJyLVJIODh6d1ZVSzhGMG56X0F2QU84b2VaREQtMUsyN3U1ZmVKdVljVE93ejBTWTdlVVVXZTFWcnhXUWxQQ2VXZ2xqeV9IZjVBNVkwbk1RQQ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "イーストスプリング・アジア・テクノロジー関連株式ファンド（年２回決算型）[8331226A]（運用会社 : イーストスプリング）",
+            "title": "アイサンテクノロジー[4667]：アイサンテクノロジー、楽天GORAと自動運転ゴルフカートのサービス化に向けた実証実験で連携 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
             "summary": "",
             "source": "日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZy1jTEZBc2s4R1NqZjRPUTBTTFdsTS1uUVJEVjdLLWFGMkh1M0hxQlRvT1JtMnd1MlRJVUd3eHVWWkVCTGhPcC1NYmV5WEFtLVVuRnNzZlR5RUJ6UkZTNjctdw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNjBBRzc2UGNTUXgzZ0kzNjA4Q1g0Mm0wcVVOR1F2cGwwdTl1cXhtbWF5czVmb1hiczhoZjdJUjkyaTNRWXJhLWt6cFRZTGt1V2x3SGlqQ1UxT1h3WnRLNDlLLURJOFg5MXc?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "iFreePlus 世界トレンド・テクノロジー株(Zテック20)【0431124C】：基準価格・投資信託情報",
+            "summary": "",
+            "source": "Yahoo!ファイナンス",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aU2Jsa2tjRm02UVdPdEQzOFM5aGJTY3Y1TWphX3JBTXl2aTBwSVJaaGR2RHE1djR0b0UzRF9uZm9vbXdWVGJya2RTT3NRSk9UWWNMZw?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Simcenter・テクノロジー・カンファレンス・イタリア2026年：まとめ",
+            "title": "情報戦略テクノロジー[155A]：臨時株主総会招集ご通知及び株主総会資料 2026年11月4日(適時開示) ：日経会社情報DIGITAL",
             "summary": "",
-            "source": "Siemens",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGFwUmZPcktoSWcxOUI2V2p6OHBQM0lEbzNzazZOYlZab2lDeHRlYVRuVnhRV3piMnhZMDhSYWVvdXVkVmxPN2V3bzhhbmNqdWM0SkIyNzg5SHFkNm5uVVMyQjhTWU9aQzRHcEVnVUZ3d3h2ZEF5SEE1aHFOWnozX0FlTDdJOVhB?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "ナスダック100指数は10%安。一部のテクノロジー株は50%超の下落。最悪の局面はほぼ終了したか？",
-            "summary": "",
-            "source": "Moomoo",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0NJb0lfYmN1elpYZVRCd0phLTNpaW1nYlpsUEdiMnM1aXVWME1Sd3pJem45bTVUWDB6RGZKdU9mS09zQk5NeEFYSFE5SldqVUFaUzhPQzloSlkybE1Deko4SURJYkRRNF80Q1loS3U0YjJfVnFKakNaeU9HRFc3ejFPMVFFZW9Ob3gtaERTU19SMXZrM1FHM3Bwc3IxdWVsYmVsSjQtZDg?oc=5",
+            "source": "日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0wUGk1Mmw3QnJCSUtIZXhsdGp5d1RVS1JZWHZYNVZoNEdiU0xNUlBKWFRxNWxtbWMxa0Q3Rkg4UUVjS0NvSlFHYWUyZGZLM3BnclBhQlBrTFNUdElLRzY4TmtjZWZLSTQxYkE?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "【決算速報】タクタイル・システムズ・テクノロジー、売上高は予想を下回り、利益は予想を上回る結果に 執筆",
+            "title": "ゴルフ - ワールド ワイド テクノロジー選手権 組み合わせ",
             "summary": "",
-            "source": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13aWFKajYxNnc3bTRScnVrdTdFblR2eW5xUHhCMUdpa2tHbjVnTDFHVHo1bWVrd1RZQWR0dmIyNHQ3dDkwRkVQdV9KVFh6Sk9mME1qQXktQjBNX1Y5b1dTN25wTlE?oc=5",
+            "source": "スポーツナビ",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41Y05GcjlBcDFiQTZlWUotcDZvMWVSRUFpRXlGaU03a2FqT2lMS21rdWljeDFvS1ZCOXRZczhGR3lJZTR1UGxNeE1xVTBxcHZvbWtFZUhaSlFiZ0Z4NDNTUVRkZWNwSkgtbnJHNA?oc=5",
             "date": "2026-11-03"
+          },
+          {
+            "title": "eMAXIS Neo AIテクノロジー【03311249】：基準価格・投資信託情報",
+            "summary": "",
+            "source": "Yahoo!ファイナンス",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5yNGdsU292MFpPa0ppd1N2SkxnYzRaTmtjaVNpMmVFVUN3eXB3dUF3R2tpN21LdWhFWDlqS2w5WlIzTHJmX3doVEpIeTk4aUlPMUhDcw?oc=5",
+            "date": "2026-11-04"
           },
           {
             "title": "ニッセイ 新興国テクノロジー関連株式ファンド(予想分配金提示型)【29316214】：基準価格・投資信託情報",
             "summary": "",
             "source": "Yahoo!ファイナンス",
             "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PeFFnRUQtV1d3bkMwNTBwbVRpVGFQamU2ZWpaeEFCaVljSUgxcERHUU5fNGFvbktEbS03NEwzNVlMRlBoN0Z1Wk9MR1F6NVlQOXowQw?oc=5",
-            "date": "2026-11-02"
+            "date": "2026-11-03"
           },
           {
-            "title": "広がるNVIDIAの自動運転プラットフォーム！　ただしその良し悪しは自動車メーカーによって差が出るワケ",
+            "title": "ゴルフ - ワールド ワイド テクノロジー選手権 リーダーズボード",
             "summary": "",
-            "source": "WEB CARTOP",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85S2x5a3dNcGxydGxhcXJaWVFpcG83X1k3aDl1aTNHRjQxSzJGM3pDNmF0Y2VPdmlJVU94bkUzdkdRYk1lRFdXNTFSYkFkNmd0VG1R0gFYQVVfeXFMTVBOUTZvcjlKSHMwYllrQmVHZnBBYmFoQ3dURU9WTjZlOUZxVUJTV1VLNy1PY1ZUeTlkQ3BGNXB0SHkwYUs0VG5iWGhjT1I5b2lFOHpRb1MtRg?oc=5",
+            "source": "スポーツナビ",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UTkxjalFEajRLOV95Ykp3S0dWUFRvZE1HLV9Ob2JHcGNiUjd1ZmVtY01DLUtLMXQwejJQaXhHaURqV0Nxc3ZtNDZpRTlBX3hEejdzTHotc0JLTmRjc1U5V2pLSkE2cE1ZWGVXdjFHQ2kyWVJjeU90Qm9UOE5mTjA?oc=5",
             "date": "2026-11-03"
           }
         ]
@@ -572,175 +572,175 @@
       "items": {
         "zh": [
           {
-            "title": "游庭皓的財經皓角. . 2026/11/3(二)蘋果重奪市值第一 AI生產力革命是真是假 美股跌出買點了嗎?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.financ",
-            "summary": "",
-            "source": "Facebook",
-            "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNcWozb3NVWHZZd3did1ZRWHdSTDIzbHRiV0VQbTJtQUctZHJITUFGOElGMnJwMDRUbm85ckJjVExHQVo2MFl0ZWNpS01lNHZURkkyRkdLakxTc0lReHZ0b3VnMzAwUlRTQ1lva0V4Q19VNGZzaWdpZ3hiRzNaWTk5OHNJaUN2QW9uWW15MVhJMjljRW4tZ0t0ejFSazk2TFY4VVBNVHhqcTR5Q2M0WWpSbUFMWm1rSDlXN29QX3BHWHNBdmZiaTJZaWs0a3dhNlExaUZrNVhoa2VzSlRrY3otd2NYR2hUbFAwQTh3VE85azdvekFCOUtLd1J2UXM0bFROWUJOMnJ0cGlXTFUtWFVjZHQ1OXp6VXhIQ0Z4eFI0bEhoSTVuWmhMMWNQdG5VRldka2F3Z1RJdi15d0FVS2VLUF93bTNBUGFiYUx3cGwtWFFqYlZGY01xVVR5MTFYbjNkMVBRaWc5T1pQUndycWFCbGlPdE5DTTVjNGNOaFVYX2hvQmRlVno5Mk1PUmZELUZ0c1NnQ1c5SHQ0RTVSMk1qNTdzeFNkdnM1Tk5zSlAzcUhFOEpzSjR1cjI3NUdJX2N6ei1JYVNjUTRFT2NTSXVRWkhuSFFaYXdtNUhhOUZVekdzWEpSYUhyUFFVZnI2am4xWExWZGtWU1JlNVZIN2JoV3Q1ZGd5aTJDeFBJSE4zNmE0UlU?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "11／3群益早安｜全球財經時事深度解說- 證券",
-            "summary": "",
-            "source": "工商時報",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RV3AwSjFJb29lYktjcHk1RmtaUkpSZWVYMFlfREtlbVRaUWt4TlpJSEtzRmk3VEJUQk5va0RPVjF2cHlaMlR2cVlnS2ZRc2taNEZUZjZraUptMVlBWTM4?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "財富自由》每日最看好股",
-            "summary": "",
-            "source": "自由財經",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mdG55dV8zUG4tSi1kcXR0V1ZFTzZ2blBoVzROQUpUSDZFWU9ad2hHaTJtYlpGb0VxLVEzYTdDY3VNcEkyUmp6bHMwMXZDRnVHUzhCNXNOZ2FVN2pvRkhN0gFkQVVfeXFMTTVGQ0pfbWxJZmo1MXZyQXlWVEhZNFg3WFpxenQ5ZWREZkpXY2xnX2xwd2gzLVVZTFVST1gybjRnSWQ3clZza0NBc25hb3pUOXgxLXpMUnh5cUcwOHJWTHFES09jVQ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "軍工占比上看15%，宸曜明年營運續拚新高",
-            "summary": "",
-            "source": "台視全球資訊網",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlZqSkFNQjB6NzM1ZXBVNkhTS3p5NDUxQTFNM051Qk9DNkM0TDV6OEpXOVgyczM5T3lFWndncWEwR1VsS2NaU3V6ZEZDOXBYb1pmRmM4cmVyREFXNzFVMEZWWTNXTEo4OTNzSEZJS1hXODB0OFMzbG9INWZGNWNWYl9VS3RjRXB3cjRPVXJFXy1TSmZqRkU0YnFCZDg?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "11月3日重要財經行事曆",
+            "title": "11月4日 五件財經大事搶先看",
             "summary": "",
             "source": "經濟日報",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGYTBPZ1l6dWFEaUFzVW05ZU1YU2xnTE5vM1VrdEp5a0pqYTJRWTRsVm9QSmh4ekNuN2V3TGtZX19sY3Z5LUVEa1pPTThoeDFiNk5obzREUl8td9IBX0FVX3lxTE5RRnFYM3dtNVYtdVJpTFlXZlVJV1czd2JGbkpicXJJaGFITGhhY0xHNU8zdno5cldKYlNYVFpDYTRLMmhTdU9oZkpyNkxjM2czZEtTd3JfS2JmeU5EZDB3?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "順藥(6535)11/13受邀參加黑石財經舉辦之法說會「戰略臺灣投資論壇」",
-            "summary": "",
-            "source": "環球生技月刊",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UeEl5SnIydUg3djBoQkt6WFJUeGtBWkhOem50OVVuRmpXQkdPeXZzTXJWOXBmY0N5cWdzTlNXWDJuYmNTSmZ1OGJZYVc0TEVSa1JkLW5FalYyZUpvQmpkRldDcmtIOVFZM1NrcDZ5ZGZPQQ?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONnh5YlpqbG44VUkyWUFKSzJZd3huLW5yUElHSG5oSFI4VUlBNXhBeXdQa2VLN19jM0U0S3hOVkR5bzRlbk13Q2ExUGg4TlNYeFVqSkNxSlZKQdIBX0FVX3lxTE5ZWTlITEtPYWRFTnE0ZERUVFJ5Rko4ZUtIMnljaTc1ZDNxb3paV3luc21FeWNfeUlLdmV2b21LU1JsLXhPRkkxbEIzVndCTWxjVGZzUG05NU9xZkZBZUlF?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "【財經縱覽】：美伊談判仍有轉機？WTI原油重挫逾6%，黃金收復3900，納指沖高回落、費半指數跌超3%",
+            "title": "11／4群益早安｜全球財經時事深度解說- 證券",
             "summary": "",
-            "source": "Mitrade",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WMEJfMU80NlBzbDk2MVQzU3NKM0U4Tm02YkNCQ2JDZmpDa0VUWkpNWGtFYmlXRkR1YUFqRHhHNTM1Rjk0a1BMVWxORllwdndsMlhzOHp1dTVMaVZvY3VwVWpZRHprQUUxNl9oNWdHU29qd3hLajljb19NbzJ3TkE?oc=5",
+            "source": "工商時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9GYnphemV2dkxjNnlVbTNQNkJWemxUUWhBMk12TDlIMVBzU3Nzc3pnRmVNWWxsQjhLWV9XMl9QVmozYVlGamdpRUtPeVVMd2M0c0JIOFAxV09DWF9wZzdj?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "陸股低迷，傳中證監要求暫緩IPO、直到股市情況改善",
+            "summary": "",
+            "source": "台視全球資訊網",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc2JhcmVzUGM5QlJBUTF5d2pwNXdubFdGNFc2ajlrQWNDaG02eF9GNWRLMzlZcVhIb3phZjU3RGMzSndTXzc3d21QNEZac2h0RWcwbHV6Sm5zakQ2M3lwOG5sSVFERUpRd1pzelEyRDhOWk82dUJtaWJBZ0RkTHgzOEF0Q09UUUFKbUpsclZzTkZVZ3BWaEZ1LTZFUnE?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "路透：多重利空罩頂 全球金融市場動盪加劇",
+            "summary": "",
+            "source": "自由財經",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sQ1VndVNHUEJiUXU0bk50UXM1VUFrWGlFSXVjTTl2cWc1d1FSTFJPSEJfR0FmUDBRQlU4TzhhUjMwclpZQTM5V2tkUzAzU0tOOHBCbDRFZDAxcHfSAVtBVV95cUxObENVZ3VTR1BCYlF1NG5OdFFzNVVBa1hpRUl1Y005dnFnNXdRUkxST0hCX0dBZlAwUUJVOE84YVIzMHJaWUEzOVdrZFMwM1NLTjhwQmw0RWQwMXB3?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "“第十一屆智通財經資本市場年會”上市公司評選申報正式啓動！",
+            "title": "中信金融管理學院財經法律學系楊喜慧助理教授師生拜會經濟處林千右副處長",
             "summary": "",
-            "source": "Investing.com 香港 - 股市報價& 財經新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53clFzODhoZjBBX2NVQVVJVDFRdXQ0UUx5U2RhTE1vUEg2WGFjVzM5bHZibzI5T3B0bjNVZFgxTllmdm90dGFBRmJEeThvUlFjX3o5SmVJdXhaV3FUemEwTXZaZHQ2bVRwb1VBQXRwdHk?oc=5",
+            "source": "大陸委員會全球資訊網",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLXQ3T0MzaDRXY0hTOTNFZWVmNHRvRGV1dEFmdDR1Tk1jU1BHVmhpOUhFMEEtc1pwN0dDRDRBdFFGSnREVU40ZFhNVkVUcXI2LW05YWstTndNU3NmZHVVX2I3RVFjNWVWS2tlSGMwa083WWI3WUNjSDgwLTg2RmVBLWVLSjNRbHRhVkVmRkxTYmstcnBFbWFjaGZGRHVRMWE5bHk2MV9lLUk?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "TWA00 加權指數 - 11/4 財經新聞 1.美股週二漲跌互見，資金回流半導體與... - 股市爆料同學會",
+            "summary": "",
+            "source": "CMoney",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sNEM1aVpRWWdYSVAxTXR1eDBPamdqMmpBc1U1Zlg5SkFCUmVWcHZRR2w5MnlWRGJ1eUhDU0M2OTFVR2R3X0tyaUhSZDgwNXhEMDZWUnVpS1g?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "台股4天殺掉3700點！財經作家列「5問題」檢視投資狀況 網喊：全沒中穩如泰山",
+            "summary": "",
+            "source": "Yahoo股市",
+            "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQakpoNmRnTVhybWhNQTc2dF9RWkhpYmpZeVJ3d24tcHFWYWZHSTI1Yk5qSEtoVXd4alN5b1h3T0I1RkNrMTdBdEdZSEZzcW90LVFDaXdCd3EtVE1KTnFsNGdJcUJpTkRMcFRtNXpfSHVuSFVpTEdMRGZqSHVlLXp0d09tUjRrNlgxTXBlN1NIbWxHSUJFU1FmNUFZeVhIbGJfZE9DZV9TckQ4UEI0aDlLblN4NjVKUXMxLVlkaDh1b2o3ckhPeW1pSDVNSG1QVGtKMzhEV0pTQ2c2dThoMy1OU0VXeC1KVV92emFEcG5CT0UzYUg4eWdrS01DYmZJeWRNeXQxNUZsUVdHZnpDZE5iajdzLXFFdDFFWGY3VndtSF9MV2dLcy1Ibkd5bHg1bkdqb1I4LUF0OEh4cVAxWTJYN1RQaDBvY1gyY2pidDVuUXZVRU1SclhtOV9DdnZXOHpmdjZyZA?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "11月14日重要財經行事曆",
+            "summary": "",
+            "source": "經濟日報",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzMEhSeEFnRnhWaUFQZzQ2QUJkMTBBdzBXWExQR2JPSzVzLWZpb0lXeEl1T3Y0el9wcjlwYlVIdUtjQmxJR1NiaTdhUkM5N2ZvRTJERWFQSW1kUdIBX0FVX3lxTE5DSHVZeTBEc2pNYmFNTk5rNDBZakpLemtiQWxPeTZxQk02YVJaVHkzZHpneXB0cEU3UDF3eXUxd2Ztc05CZ0IzbnlwUXhRNnZFbzhqeXYxNzFwUFFzMzk4?oc=5",
             "date": "2026-11-03"
           }
         ],
         "en": [
           {
-            "title": "Gulf Economies, Torn by War in Iran, Desperately Need a Return to Normal",
+            "title": "AP Voter Poll: The economy and the state of democracy are voters' top issues",
             "summary": "",
-            "source": "The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PcFdpUFRyRTdQaWZ3Y200c3pzcURYQjBOekRLZ1o0YUphWERKa05ZSVZhd3lfLVpYZllxQ0g5bEtnNVdydC03YTNHN0RQZkVQdHN5c3llaWdfbkhPcUxKQ3JYSkpNSms2WVdtT1VDQWh0cTNBVENwQTh4VTA?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "A survey that shows how Illinois voters see the economy",
-            "summary": "",
-            "source": "NPR Illinois",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc2pVTzFYVC1MYTJ5enladHQ0ZWVURTltTnVMTml1Z0RaMmVKcS1JRjA2dlFaUDhEVzRWeXJhajVIRkRPVC0yOTBVSjdEWEtZS0ZOeG1qN1V1a0lrVXNZZm1XajRaTVJnZ0N3Qi1DV1lvdU1tZThQLVkzZWFfWmo3ZlhidnA2aVgxZDMxMmF1LVIzRjZOcXFEV3dqc05hRE94MDVpbnA0RUt3REFOazc5dTgzZkg?oc=5",
+            "source": "PBS",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObzVJWmo5LTVkYmZJOHB6NFRTb2YybXNkd05YVEJfTzUweGNrblROWHFONHhQSWtjb3BVX0toeWxMdTVXX1l1eUtRY3VvamZuQ0hlNlFLaVIxdFduaUVhLTBwV18yemd6Y2lFWGxINXpySklsX2ptMFN5eHRtS21yajdEVm91VnNBRXlfa2p4ZWhja2NPZVdPZUFUS0dDbkhOVXNwTFdQY2haR0hSS0RYYktB0gG3AUFVX3lxTFBOY25ObTc5N0dmbTk4VFkxUGV1enZTTlZIR0FMai1keldfYm9NN0lRUTRLOVdEY1NBM0w5eVM5SXRuZjcxa1pGU181Tm1KUzBYb3NxWEl6YjJ6a2hrd0l6WEhFQmlaNjVoeVdxYi0yemZIVnNsT3VNNlo0VkdwRnlSODY3XzZsSW10RTAtZFRFVTZBUktibGZmWENBdl82QktkcjE3MldjYnJWdGdkVmhZTS1hamF3VQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "US voters in a sour economic mood heading into midterm elections",
+            "title": "James Carville on Why It’s Not Just the Economy, Stupid",
             "summary": "",
-            "source": "Reuters",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUGRVbTNjVkVkWHA5anlUV0l1YUhUUjM2Zy1DOGg0T2l2V0Zqajl2TzVpUW5Wc2s1ZkF6eTRNSmNNMWZCUEZqM0ZjUHNKQ0NkZkNGdlY3U2xHcWhBTUdzcXBnd2p2Z0VjUWFiQ3JRYkdvbTR2NUdnZUlnZHU4ZjY0OTIxa0NSbGhXWE1Yc1A5VmZHQVQ3aEJzcHhHNFVqVTNFa3RKazBydW9TbnBEUlo0aEM4THZmQQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Opinion | The inflation election",
-            "summary": "",
-            "source": "The Washington Post",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0tjSG9VRzlqR21xUS1WSy1MNXBMNVM5d3dvcnk4VlRIVnN6akNaVW52SkZ2QzNGOGF1Znc0dXh0YjVvTmF2WXFhREJUYWpGR3dmdjNDcGZwazgtaERIRXpDeUVKdkdmS0pCel9MbVAwS1ZNVXlZMjFLdC1CbFd5alY2M2piQ3NxNG9zdVlyYTlCdHluczdtT0FITl9idHdIdUtzR3hOZkdiellLZktXSg?oc=5",
+            "source": "WSJ",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR01menNGdHljYXRLTFJCdEsxaHNVRHdYc1ZLckNtNnlLRlpyVm4yQnpfcVRoNk9qODVPVlcwMzJ0U2FpNVlOYXNmVUgybzlyb0VkNXQwOE1oamxqLW5sazZ4U1g4TTVlTU1TNWpsOUluNDFfVlZHN3VnMmtyY1BDcGVRVHVZcURmcGNoT0hkaDE4MUN5?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "The Impact of El Niño on the U.S. Economy",
+            "title": "Janet Yellen says college still matters in an AI-driven economy",
             "summary": "",
-            "source": "Federal Reserve Bank of San Francisco",
-            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalhPOUpTbXI0SDN5ODdvbm9USkZvS2RxZ1BjRVo0RDJkODNhbGtjZmo0V29hMVZKbDR4WXRtTzFQSkRaWlF4M3hwVEV1dzFsX2d3bDI4cTVpZnpVOFUxX3VUN0YxdENybWxlR1VMZUFxRmFPY0dzRzlHREZKWmJOb3cwQUlxNDBya2J3Y0Nid0l1T1RHa3Vpd29FRkJ3Q1hvNG5uM2E2NXdJbGpYZ3VfVUtlZw?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Spatial spillovers and causal configurations of the digital economy driving green manufacturing transformation in China",
-            "summary": "",
-            "source": "Nature",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FenpIWTR0SnA2NEYyS1ZBbS1hdDNwNUlBdGpubjcyUXhmSVhSMkc3OGZFM21BOHlmOEZoMkljZ08wVTM3OWwwMHFXVldsaWNNMDhOa2pjZ2NONkt6NWgw?oc=5",
+            "source": "MSU Denver RED",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDBJamFGY2U1eVhKYldheEx4by10LV9IdUpCREF5WVRwT1BwaVJCMkRRMjlRMG5jazNhTGZLSkNIaUV3dHRUYUdlTEpWdEFxSmxYTHhNRlpGal9Cd1MxYjNxUGZQc3FJT2Q0LVZSLU1iak56c0VjTzJudHdfdVVIM09HaVpPMTVqREkydDhVLVBWMC04R2JMcGdyTQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "U.S. Treasury Secretary Bessent says economy not where Trump admin wants to be, but points to encourgaing metrics",
+            "title": "Voters explain how they feel about the economy as midterms draw to a close",
             "summary": "",
-            "source": "ABC13 Houston",
-            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPclUwUXFwWlhsWW5YcGxsTVBQWE5OaGtJRm9CSGZhMWZzU3VkQmFqbkk2TXo2RTBlZVFEMld4dlktTzNsQkdTWW5iNXA2ZzhzN05rSVFHYVU1ZmJ4NzZZMzJ4WktnMlFqTDRQZE1NbVJoVkowVFBuS3dwV1hDRzIxUXlSM2Y2bmVyQjRVVWwzdGhpV3ZjVDJPWjRTczBuYTFNbUpMR1JKbFhWdzBMX1RQOWs5cnNoSEhxcGwzbDFhS1F3N2FjdTU0VVpwNA?oc=5",
-            "date": "2026-11-02"
+            "source": "NPR",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdkFJeDVZV28wMURIbjF0d1dXdlBHLUVaMmJYdTN6YUx1dVR5dE9oeFBheW5kNWVybmk0bXBzdzlSQVVkblpkN3RwZlgzcEFyZDhOZGJvbUZNYy00dm1rNkVQVzV5R2hCVHRJVkJUVDNCZHBxR0kyVFYtTVJKeGlZbmFzT2ZpYkUtQzlkWmI0VXlYSjlHX0c0MndkeHZpMng1NzNWbVViWW80X0NvMlhqallxWUoxeWkwWFBN?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "Pakistan’s Rebound Masks Deeper Problems Weighing on Economy",
+            "title": "Economic Education Includes Addressing Tax Confusion",
             "summary": "",
-            "source": "Bloomberg.com",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUHFSdFVCbGVzcFY0X2IyQUdUbTVqNzZlcjVVQnBNUzJETTlSczhra1hVb3JJVVZWS2l3MXdvRE91WDU5Ui1GZUpnYzF2VVlDM0IyTnhnRFdqaWtLdG1rTkdRZkJTNDVLWUlmZzBLeWhCREhZY0tnNDFjbno1ZW5SU1F3TWUtYVZodGd6bFVhbFRDSDBfYURBYzV5NGVBWEZkWm9YZjJjNnh2Q1h0aU9Heg?oc=5",
+            "source": "Tax Foundation",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzNyMXNER18tWUI4RlBEZGVSVWF1SVBkVHNNX1MwUXZPTDZoSmxZREk0ZE1CZThSYmZDcGtHX2YxVUxjWERCU0l2TlR3eVdNTXlZenFfVWVmMy11RjZtT1hxdVpBeFc2bkhIUVV4VHFlQk9pNm16dUZkbjBIMnVrUU1ncFpUcWxjZFQ2Vw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "75% of US voters feel the economy is performing negatively, CNN Voter Poll finds",
+            "summary": "",
+            "source": "CNN",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUWNOOVM0d0dZRFJ3cmNuTHRyMXpNSWFsWlUwT1V5OEtHTXdBNmlCaUtTeFphTXBKRGRKVkh6REQwclk5cy1JQ09UNHo2azAwRXFZXzE4bEwzYVJrTmZxVDd3Y3ZTOGpwZml3N0dXc0xZMkhVeVpyNmxDWV9MUFNBV29fWDZIWXdBaGZDOFNHZkZhRnNUUlAxdA?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Wyomingites go to the polls to vote on the economy, the state’s next governor and ‘change’",
+            "summary": "",
+            "source": "WyoFile",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZF9kZUZ1Rjk5Qk8zMVg5akFNdmt4RmhtQmtzYldkYXdaN0stcVdLa05MVzU0TzZ6ZGE4Nktsakl2SUtvZ0RIS0hwdmRMRk5sRWRoM1FnQ0JVNUhqSzd5SXRxOUw5YTdkdVFNdDZKMkQ2QXhIUE9HMGtIb2RyWWhZQ3YwWkN2dFRzUVg0M1RkVThRTjRHSVBxUXFjazRLN2VRU20yTk9nbndBMDg?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "CNBC voter poll: Economy is top-ranking issue for voters in 2026 election",
+            "summary": "",
+            "source": "CNBC",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWprM2NpTU8zVGtBT0U0bjFJWHlDRW02NnpfNjdidFVjWjBRZzJILUl1My1Xb2VOaDBIUHF6Q3RWbFBablcwOTBPVFBjbk5LbG9MQmx5TkI0LV9lQzBoVl9uUGhDa2pVS0U5bFA2M2FfVml4aFk4bENIR0dMR0RfNTRQQ2FtSU1DZHBfQ3pjaVZyYjlpVGhFN244TmFUdjRqT2F5WDZQM2FLMnlXdEFwTDhrUk40QQ?oc=5",
             "date": "2026-11-03"
           }
         ],
         "ja": [
           {
-            "title": "新たな価値をつくる マツダの「AX」",
-            "summary": "",
-            "source": "ps.nikkei.com",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CckFMUThqNEZENDNOZDBTWmwyMnl2R3hkbWxkN0I3VU9fRWhsYjBFeW9tWUVhbzhRSUdRQ3ZSRDZQMlZVeXBiSWEwX1I4V0NQSTBJ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "上場インデックスファンド日本経済貢献株【1481】：株価・株式情報（夜間PTS含む）",
-            "summary": "",
-            "source": "Yahoo!ファイナンス",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wVEdSQU5najY3ZUtQUkNGTDVCOGxXdi1lZGRidG1UN2FCMjkwbk9mSnA4YTJJQmhrZzhhdW9QQlB0ZXVRWU9CSld2bkVaNkZxQ2c?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "黒田東彦が解説する「2026年ノーベル経済学賞」、フォワードガイダンスの意義とウォーシュFRBの挑戦",
+            "title": "円安・株高・雇用増でもアベノミクスは「失敗」だった…経済学者が高市内閣の積極財政を危険視するワケ",
             "summary": "",
             "source": "ダイヤモンド・オンライン",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE91MktKbHlPaDMwbGcxdEd6dU5ua1VUNFVqc0NlZEF6MGtBSmNXZ0Y1eEREZXoyM2pFX1FRekdST29TWG94MVdJdU1LR0HSAU9BVV95cUxOSG8ycms3c0lFTjhlZUM0V0tCX25NUEt5X2RuRGRpakNWc3QyNm0tV0hQUjltUl93eWdkaE43NmlCZE5vRVBUeklldFJDcVVN?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "六ケ所「たびのホテル」開業から1カ月、地域経済に効果｜経済・産業｜青森ニュース｜Web東奥",
-            "summary": "",
-            "source": "東奥日報社",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mbjBLTVZSZHA2MGllYlpLVTNnYWt0bG1TTXdtS1JaUUk4eG5rdWp6ZjV0Uko4ZmNvNGNGSW5LUDNtOXdGbGt5TjJmd0dMdEstamp4RVZ1dWo?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBoVERnSVhlME1UNWo5MVAxbG5RNWM4blJENWkwbzlYNFRpMFNKWWtOV1JNdnByak1hTE1jT1NfQWdobW9nVlNzQzJwYXXSAU9BVV95cUxQS1lJeGhsT2ZuaUxwZVlacTJFWk9hSEZPWHJEM1BYQTItNFBhQ1hGS09lR2drck0yY3VlWnpPcXZhRV9Mbk1iUmVQT0ttSG04?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "「トランプ関税」どうなった？中間選挙で「成果」強調も実態は…",
+            "title": "グリーンランド議会、米との安保協定批准 経済的価値に疑問の声も",
+            "summary": "",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTHdCVTdYakFnX3hPbFYwS3RraVVhZGJSb3lwSnhwYWtaMm51SG5QRTJHVXVncjFSdVBXWHBobG95b0N5eFlaMEQ0UVo0YXBPUjI2YmFmY1drWER3bnk1dzVIVVZyVjdYbktLYUdhWHItOW5LOVRXTDhNekJURWRjcEFYXzZiRTA?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "きょうの主な経済指標・スケジュール＞(ウエルスアドバイザー)",
+            "summary": "",
+            "source": "Yahoo!ファイナンス",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWE9BZWlzM3UySlQ0U0lsMEtoSmFPNlFQQ0pHOEcwcEMwUDdVVkVwb0R0VzkxQnJWeDdZaDlMa2NvRE1CWFQzZV9JeWhNTzE5V3F3SVg5Q1ZmSVZtamJQWUlYSUI0eU5RS01hWS1vSjJqdGZ6bk1OZlN6Y3FOdmRPMUliZ0ZtWHM?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "経済政策によって高い成長率を再現できると過信してはいけない、高度成長期は歴史的にもあくまで例外",
+            "summary": "",
+            "source": "JBpress",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUZmc3drLWdKQ2RVNkRzUUtySzRpOUxKRDJEM2xEQzhOOGNYblU3QzJubF9rVjVFY09UbFJKeXVUWUJSODZZMFVWVmw1S3ZZblhEN2N6NTEtTFl6NERqY0NxY1k0aC1RelBBbDNSU1d2d1RHdHNzaFFkVUo3QUlsakxpUDczWTVOemZNUjZJaEgyb3FTUUxOOEFiS1BzelhpSWxiQnJYYzk0S2xLMGc?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "ライドシェア解禁できない日本の憲法論 経済規制の裁量どう生かす",
+            "summary": "",
+            "source": "日本経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ueEYteU00bm9sQng5TFltWVJTclhtUDl4XzhoczNPTWQ0bUh1WjI5Vjk5Yk5LTDFsaUhTdWdGRURuQkZZVXBMYTYyRWhYaUQ4WEJjY0tIcGliNTFoRUw3cTE1UklZRmRXN0dTcw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "世界の経済成長「土佐和紙」が支える！ 紙類輸出額、１０年で倍 ＡＩ普及で高度紙の需要急増",
+            "summary": "",
+            "source": "47NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5SdS1TQWN5eTFtWVBsSTBJcldKNkR1QnNOeTBJLU1tSy1Kd3Z3a3VSVFh6eHNhcVlRVV9RbjhDZXBNclRCclZaTUhYbw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "「米国と向き合う必要ない」 北朝鮮",
+            "summary": "",
+            "source": "佐賀経済新聞",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBeFQzQTZjVGpXbzdQX1Q5amthWlpIbHlIeGxUeTd0cWFreDRESGEzWkZudEMtM3N6Z0hLZXZqcEUxdHkzd0RIQVN6YVpueUxI?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "フランス国債の利回り「5％超も」 円相場の行方は",
             "summary": "",
             "source": "毎日新聞",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByUnhjTWxOZWVFTUFBVHh1V0MyeFdMd0pJMW0xN1lnS3NFS3RLYnpQQ2tMUDNyLVBNOXhlWE5QUlJBRkEyZWNnWWFPampvOXRGOHRYelZPVU51OUVWbzBsT1U2TUk1SW10?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "古謝知事、県民所得倍増へ「手取りアップ推進チーム」設置 経済団体や市町村と連携",
-            "summary": "",
-            "source": "沖縄タイムス社",
-            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51aFlhZV9pajhUQ1ZzY3F1Vm5vQk1sWWp1cTViQmJ2UUlPYkdVLUFqRmRTR1pxMkM3SkJkbUZUT21fYTRFa1pnS0tRQ3hqR3BWN3NZQkxZZk5BVFFkSUE?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "香川県民 収入は1年前と「変わらない」54％ 百十四経済研究所調べ",
-            "summary": "",
-            "source": "KSBニュース",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5jUi1VNkplamVkX1Y1MWhiMENnTmtMenBhWnp1V2s1LXZnQ1lERlRqZldZT244QTZkVktxOHFtMGE5RGU0b1RhWjJQRTdMNVNE?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "物価上昇の中の家計と雇用 兵庫県経済の今【神戸市北区】兵庫県議会議員 大塚公彦",
-            "summary": "",
-            "source": "選挙ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TWXdNOVFZWEViLVdJM3NYYVMycVJ1NHJLUFdYRHFCelRPNHk5TVh2cVBGLTVqQ1ZLM0ZPMkFrWHRqOXY4OHprMUNqekFaMkxFbGtzVi1aaXVMVmt6akVr?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iVDFLR2xCYWE5WUN3b3Y1NDFNTVlSSTVNQWVla1JsdkVlaVJ0RG1qRzJuM3pOcnBBUzFaeHBKZUtHVlJxNmltbEN3WkRIWTIzWUpKUktBd3JPbUZfZzM1ald1bHFsZl9acjVEVEtpNzA5NWpxanM1cVlsVlc1Y3M?oc=5",
             "date": "2026-11-03"
           }
         ]
@@ -757,176 +757,176 @@
       "items": {
         "zh": [
           {
-            "title": "出席榮邦啟航高峰論壇 總統盼臺灣成為海外產業生態系建構者 攜手國際夥伴共創繁榮",
+            "title": "2027 QS 亞洲大學排名成大躍升第 33 名全台第 2 名",
             "summary": "",
-            "source": "中華民國總統府",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjLW1ZdmdLTUMtc1VoNVRNSXQwMzUzeUhvLURTSFRnUW5fVjUwMkRFd2ttYV9UeUQ5QlFzNmJOajZ5LXpSMnZmNTVuOGhNSlZT?oc=5",
-            "date": "2026-11-02"
+            "source": "國立成功大學 National Cheng Kung University",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KWkhQc19jLUxLa3FDQXJicXRHUWo4VVhHS2l3cXBvRU5vXzF6ZUJOOVhJYUtkelVObDVfaC04NUZQT2g3bDFmUk1PZEFrYUFDU2RtU2d4TWd3UVNsd2NMQ1ZkQ2JweXNhcUJ0V1NrOA?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "TLS 憑證亂數強度未達國際標準 企業應檢視憑證安全",
-            "summary": "",
-            "source": "CIO Taiwan",
-            "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBYZGM5ek1yaXBDaGdqUlpBaTN0VFRyVE9Ta2FpblpKOGpHdlJLTlBvX1lSQkg0R1BlVFpJQjVweGM3b2NV?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "從北海道愛努文化交流到國際盛會！新生醫專成功舉辦國際原民學術研討會",
-            "summary": "",
-            "source": "桃園電子報",
-            "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xdDlldUM4VTBSclJhTzBqdmlWRUZxNVNxc2lXOHNfOFZMWUswcGVuUlNKX2I1RGxSeXlxNmZxUkt3QV9UeEJNMVRQSW4?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "國際油價突然崩了！美伊傳出和談進展 單日暴跌逾7％",
+            "title": "俄烏、美伊和平談判最新進展曝光！國際油價跌近4週低點",
             "summary": "",
             "source": "自由財經",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lb0RjRExsR0RpcDFfNTZpTC1JQlNQaVhrc3drWXRfTXI1MkVMMHB3QUFTUGItYjR3SnJTMGJsaWs2VzJiUFAzNVdrelNub2RlWU9HSzFQT0lyS3c2eDcw0gFkQVVfeXFMTXhCMlJTOHZVQ0NtNmpFTFBoTXRZTURmd1lNNzA1Z0FNekhZOVZIS0t0SmpvM2IwNnBIZlFzeDRMNFRDQnU5VDdTaWZuUmpuS0FxWXFVUWJUemtSZXI5dkZ3M1kzcw?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMTRTbThCdU1sSmZaZU1GcTl1MWF4MFN4ZXV3UXRBTWVuc2p5VjJ1bEx4U0NidDNLZlpnVW9raVpiaFdyMDlfMlo3SnJETHZFcHJsdW1seWtmcUhuQlFB0gFkQVVfeXFMUDB5SEd6VXJ2NVQzTjBvV0IzMmxNRUtXUjBwbXo4cFpUZy1CZlh1VmFpWHFOd3gxOFEySms0UXBlRDI3aGRMRkstNmZrb193ZXBJZW0xSkdKMTJMYk05ZTQzcWdKag?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "台灣好滋味前進巴黎國際食品展- 駐法國台北代表處Bureau de Représentation de Taipei en France",
+            "summary": "",
+            "source": "www.roc-taiwan.org",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wOUJTS3FpM0dOQ2RCQkUtdWFUd0tmU21OZV8tSHo3QVc5eEtCdDdxMGpZY2dROVozOGlVd0RvOVhYSl9pU09ELXF4ZUt4djV1LUQ0S1FROU0?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "今晨國際頭條一次看／蘋果CEO示警毛利率下滑 美期中選舉前司法戰升高",
+            "title": "美伊僵局有望結束國際油價下跌| 全球財經| 全球",
             "summary": "",
             "source": "UDN",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fQkFLWmszTVAydTBNXzZzTi03NkJjU3pLQmpreVVGS0pHS1VPNHlOVHFnWHdESHJxTUVMSUJVakV5YS1sb3pDWmlvZlozTHpw0gFWQVVfeXFMUHhGTkJ5Z2lTWTExS01ENGp6eHhFdGZiNTRxcDh0Umk1M3kyOFRYUWp5bEw5WDZ1TS1iNzl5SEN6V1BuOWo4LVhtSVZic0JEV3BMS0dXS2c?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE80RjhINHhfN0FkQkFudGtFQ0czVEJRTjkyamZpOHdqM2dCdkE4RnZuOWlvbVNETVhVWTU3QVpDNDhITU1uQzRiTUlmdHFQTjZw?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "2026年南瀛盃國際青少年網球錦標賽15國青少年網球好手同場競技",
+            "title": "花蓮國際石雕藝術季 光復大農大富欣賞「石頭在呼吸」|藝文臺灣",
             "summary": "",
-            "source": "台灣民眾電子報",
-            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5icHJTVXpLVVVQSHBwQ2JWUHBiOVRGYWY4WnNyUFhIc0U3WkpQVkIySjg5U252YTUyZkdiVE5sbnhSSVJmTEZiNQ?oc=5",
+            "source": "僑新聞",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mWnplR3NFQ0tGNTFkQTZ1TkJBRUhjdm1jX0w0YV9VS2piT3RkV3JsUXFqcWxveWZhV3gydjdlNXBvelRFV1g0Z2hZQQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "MoneyDJ新聞 2026-11-03 10:57:13 蕭燕翔 發佈",
+            "title": "ITF國際旅展11/6開搶 9大銀行信用卡攻略",
             "summary": "",
-            "source": "MoneyDJ",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ3NHenJoOVJ4eTJkdF85bFdUZzhMLVVrN3FGaWtXaXRuSWN1NFJTcG1OQk0zazBUdmxXQmNxeGM1MkoxbVc3RUJvQk9sZXJuV3A3aGlVTHRwcnpfZ2prZUY2ajA5MXVxNk9pNGNKSi1YdUZzU0IxSzhLWEtkMGtNSXZfS3BxUmxTTWZnNTZXclB3Qnc?oc=5",
+            "source": "卡優新聞網",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wU3FBUk9Odk1sdkU1cnIxd2ExbDFmR0RNejVUSThPN2JxaWw0dm96U01ZSnlsX1BKcGJWcmJpaG8tMHR3ZWo4N05TZzhtWVFCZWQ4b2h5OVpuQQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "2026台中國際花毯節攜手三麗鷗打造「甜點王國」 七大主題展區夢幻登場 15週年有望再創人潮新高",
+            "title": "\"遠距投票\"! 3名NASA太空人從國際太空站參加選舉│中視新聞 20261104",
             "summary": "",
-            "source": "台中通",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTlRZeEZHVXBOaHdRSkJxRTZBenlsUk5EamlMY09tSnE5QWNrdkkwTWFvUTNRQW92RTBvcm1PUlA4NjkyN2FRYXp2aGVhOTBOcGN1T0NGUVdpeVl1RzRBQzZZRG93QVVLc1otTmhpaHo2ZTVGX2hKb2hTd2s3WWtnNE9pdkZmSDZsQVVQUEln?oc=5",
-            "date": "2026-11-02"
+            "source": "中視全球資訊網",
+            "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOeWlYWFB3Z0FUT1dxaEVmclhZQUFsTERIU0xFX3FsYVQ2anVkMU54VE1zVmZaZDhPQkMtREdHVnFBbmx4dE8zcGJwVFoydzhVWW5CWWhjWnp0YVo3cDB0c0Q2V0xkME5DQnFBMDdHUXB3UWJudjdFT3dLSUFHa2xlMFp1akEyYXNsVzRfZnV4d3VYM2gzS3E2Wmh5NG9WUUxCN2dMakNpSHRsTklDdGVPYlZPX2ZBRXF0dXp2eDBHUVpOS2dHVzUyRS1kZlZkeGNFclhGNVZTOFpGNXFpeXVmV1ZIdmlHaXVtQUZhSUVnZmpuNHN5TmFjczJTclN6QkdBU3VGeC1yVDFnam1QUFRCSGpXeF9DamxXNEFEVjlUVXRzcnZTTG5EanBiZVVzQmVhbE1mZnphQlJzb04tMC1aVUFhMmd0MmVZQ1lOVmRYdFFfUXZPZDZSUFBQaUItd1VTenV0Uw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "臺灣及巴西國際藝術展-跨洋的靈光在輔大隆重揭幕",
+            "summary": "",
+            "source": "PeoPo 公民新聞",
+            "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3XzNIOS1aNGplRmJnSEpBX2x0LUlhRm44NDgtSnlzckdOR0NXa0hYWXlCRXhnd205X3k3cVhQb2t5emVrYUVDSQ?oc=5",
+            "date": "2026-11-03"
           }
         ],
         "en": [
           {
-            "title": "Power Rankings: Who's poised for success at World Wide Technology Championship?",
+            "title": "Diabetes",
+            "summary": "",
+            "source": "World Health Organization (WHO)",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aUtUTW1DOTdiR2tqMkMyX0drZmV0MGVHZTlHRUo3dFRyQ0lkVXZQZXcyejRPUWYzU0IzMHpBMk92dGRHaTNXSHpBbE05dWd6TFA2R196OU1GSWM5UjY2LXUtQ1pzQjBu?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "Accelerating engineering for the physical world",
+            "summary": "",
+            "source": "OpenAI",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CS3RYM1JDQWZNbmRHUXB0SEY5ZkxoWGc3ZVZ2Rmw2YzBNeTZEd3RKWEk1NzEwN0l0NG01TzV5SXBGdkQ1emJHdzRWUFdtTUpfdmFXcWFNRVJuVDlhOFhzeHd0TkQ5NXJzeVRUYndHZGtZYkMxZnp3bVdFZzlVdw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Google researchers are fighting the company to tell the world what they know about AI",
+            "summary": "",
+            "source": "The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYWNrdVBqZDE1MU5SRE1jMEI4Y3VLRnlkYmYteUhFRFRhbGp2UXZpa18tNmlsU3BqWWszRkc0UWl0WE5XbUlZSDBCTDl2R3psX1BCNTkyZUxjaFZuaVlVUU9iTWJoaWdIWGExRXZfSzdYdjIxTll1R010Nnhlb2ZtYktZU21HU1ZzRkhBcm5lb2c2ZnluOWdoMy13S2NqMDNpUVd6MFQ1M255RDdIT2VCTzN6d0ZTVWM?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "Army WCAP Women Wrestlers Help Team USA Capture World Title",
+            "summary": "",
+            "source": "U.S. Department of War (.gov)",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNak9GeGJZSVRmZXZoMHY1Z1NUWkV6bHotV0loejhEQXlpTlo0WjU5dEpZamtHb1U2Sm5ZUm4xcElad2NnNzNuZk5Bd2xySTZlMHNMS24ySWRZNlRPTXB6NC1IaGk4aDJYSjNOUTl5a0ZLY2ZxU21JQnZTWm9JRnJXaUlSODg4Z1dpQjFVWXEtckZITmRCUFgzY2YwNHBGbkEyVTc0ZDY0RFdMeC1XNnlDbmo3eWZzTkpTUUU2U2N2UQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Expert Picks: Favor scorers in birdie fest at World Wide Technology Championship",
             "summary": "",
             "source": "PGA Tour",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcWdwWU0tdGw5RS1Wa1hDcWdIYjFpS3U3RWJRZGk3ZEZoNzVRaVJqcnJhUHJ6MHFsWE1tZzlpSEFUNXM3N1ZFaUhsWFFOX1dZS1oyOUxEWE16czQtWmROYVFhRWlXdFV4a1F2SEcxOWhPZk5zWjR1ejNUTlBmZzNTNXRXVGxCd3Q3NlFPUkpmRjh0b2FFQVdnS3BqMW1relJ4cjh0WFZqMmZQTFNMR2JhTndELVJ4aVFrTzVIVXNBRy1QQnRHMV9JT0xPRUVTdw?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Man returns home after 28-year, 31,000-mile walk around the world",
-            "summary": "",
-            "source": "CNN",
-            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWldmUW5mMnZXQVJCdGZCS1hYWGRXZGVvMnlnZk1IMXpGakNRU3pQUEFmWE45T1ZRUXBrd2lZVXVSUUxBUkpJcE5QSWZRTWdTYkNoMmdxWXNmWjJhMEpfdzdiSG9SVmhISDNWV0lwQmZOWjEwX2JSZHZ2M3plZWNlZVctMy0xcXhrZDZwVDFGbW55THV3X0xEWVJDZUNiXzByeWFrYkxWWmNJdEhRNE5tZm5WQTI0a1B1YXJz?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Finnish hockey body leads push to keep Russia out of World Championships",
-            "summary": "",
-            "source": "Reuters",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMWNqbGY0bWNDdEx0TFlmcTUtNE1yMS1FQ1hWZnY4OVZLS0phQ0staHF0UjJnZFhGUmVmeW5zQmZOQ0t1N3lJWlM1M05IQmJkUnNHa2JXblEwZ1Ztbll4dnlLX3lsTEVYTkpyZFhDa0t6TEZtNF9hQ1l0ZXlrcGpiR0xzZjJmSm10YW1aaDBadHY1X3JNaHJ2TUpWNUN1Wk15TU40cjVralRfa2xzZGc?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "The internet's latest obsession: The end of the world",
-            "summary": "",
-            "source": "Axios",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb1hCMFdaNm9VVHFfMEMwb3ZZZnNITS14c0l3NVdTOW5MMWNiQ2JaOHlGcXRBdUFMTUEtYmU4RDdCdWRHMXVvRHZQWGtFcWdHdktvaDR0bGpiOG5xMjF1VVgtN3N0UUs3cDEydUpBVXlWRlJybEpmOHFPYWZiT1cyOUs4QWppNDd5VEVmVXdn?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Northwestern Earns Five Finals Swims at Short Course World Trials",
-            "summary": "",
-            "source": "Northwestern Wildcats",
-            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOemJGM2hVTTFDSXhBYnJmYUVaUHNNSk1fQ2dJaHFNTkVhaXJyVFE2aE9wR3ZSU3RCaTNhMVE0ejFGN040cHFVY2l3bThLT0lINTF1Q2MxVHU2YkY3cG9lYmpGd01lWjBGR2NCbl9tbWViaC1makMtOUo5b1dZc2pCdTBjcFE5VXdLMHMwd0tBZnljX2s1NHhVMFBpa3psMmRzNmRn?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Americans set for 2026 Trampoline and Tumbling World Championships",
-            "summary": "",
-            "source": "USA Gymnastics",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2JmV2x2RkpvOTVpN0VBXzdUcTdlUEJ5c041V29rcDVaSVI5UUpsaUstNEE4REQ3d1FKSGtodzI4Q1U5NnBrc1JpTFhjZmx6aXlqclEtM3VrNHZzNGVlOTVMdU5DNGFhdHp3RGZZVEpfdnBDd3E3S0g4NVZWU1EySzV6alREMm16OWhaQ3pmUQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "A hotter world could have cleaner air, but deadlier heatwaves",
-            "summary": "",
-            "source": "News-Medical",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkNaV2V1S0hQaTdJQ1Q0dW9uNmRqamdLenpzSzFYaEdlQWx5SFVYd0Fnc0p2WFA1a2ZpTEJSbHhxbVR1bURUM21oUjh5MUExcmxhb0VOSFVfN0JOVERETklyTll6Wk1iMW1lQkFhc2h4U2l0YWtsX2hNSkJGcFRUQnNFY3ExZExON3hhR0tFSnZ6OVg0ZG1JR1ZIUWh6ZUREM2J2c0QwblA1M2Qt?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcGhMbkdGdFd0R05EUkg2bnRIMFFVR1FLdjlhRVNIODU5ZHhFQWZBaFY1U2dpVkdKbzh5WlUzVXZUV2JnNzhIb2dvUV9XSWFTOXNhVEZVU2JhdzIxUXJzazF2dzFwTl9wUHFZNjljbDlERVNEQXhRSkI5TkhPb0w2ejJSWDdPY09uZmxKeEV0ZXNieEZRc2RDNE5GWk1tT3o4SE0zZXdybnNhckEtXzhmX25YVXhyZTAxSDRwTWkyT2tycVFfTXcteTBpUVoxd290X3hZNGF2NUR6dzU3MW03WlJn?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "The World Cup of BMX racing forging a family amongst riders and fans alike",
+            "title": "Rave Foundation Announces Recipients of World Cup Legacy Grants",
+            "summary": "",
+            "source": "Seattle Sounders FC",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNODBqeVZwX3l5SmZEZnpiT1pHdDRDUVJacEdBamQ3bHlWRjFfTjlIWXc2bDVFb0dKNGI2OVRXTDJBNTRFZ3JlSGJoOHFYbkdydjh0VFBDX2t0TGtRVU9fNHFObUFBV0ZIbS1rUHBaeDBKWEJ6MGhhYTBieG1zeExwbEtxQTMxLW1FZHJ2NzRzczlSRkVxQjhsdmJTRQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "2026 World Wide Technology Championship: Round 1 tee times, groupings, how to watch",
+            "summary": "",
+            "source": "Golf Channel",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGZkSW9xRVlPT3BxNnY5X1ctMmJaSVloemhvWWxTRS1nM2JrYk96UHBLM0QwNDVKVm9Ec1VDZDBJRXlIZEJkNWhZY3VqVUdQSDdiUVd3bkx3VWF5X1JPYVNhbTlTbFlhd1dUV1JEOUhoQjI2d1R0THdodE1YOVBrSW9VVDFINTMzZTEzQXZ1djhqSE00LVVXeVhCeFhJNmlrNVg0SGFwdUhCRUI0SmI1Qkp6dnlqVWp5SE01WDF1QQ?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "Rays’ Neander says team’s foundation is in place after World Series loss",
             "summary": "",
             "source": "ABC7 WWSB",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ09tSVd1U0t0WFJLOWlKVWhmMVM2cWhjZ1ZxdnF6ajFjbmh5VnR1ZzVrMHJWX2RoN0JTbWlnSlNNMHU0Qm9wZ0gwR1k3QXpaUktidHFaaHZPbG5LWS16RG5fbzF4WUotUUNqcG1sLXVxSVJzODQ5Z2t4VGI2b2s3TWdpV05ISC01Ykloal9aQUhtVEVIWWs3b0dyRHRQTEdnS3fSAbYBQVVfeXFMUGxMdlNkenZxTDNJQ2tXT0oyT2d6X0pyLVRvSVpvaHVHdGs1dlMtSFBmSlZPU0JiTkUxVXU0cVBHc2lFU1FVU3dIQlpQUk93ZWgwR19GWDNRQ05yUGlZdWVhWXBMOXc4bE1GaHFsWU9BaEt0ZlZQdS1mc1d3V2gxck90aE5LQU0wMjZwdzBwTl81dWFpOEVxc1NUTUY1LXpkOVlJWjlUemg3eGZxTGZnR1ZZMG10RUE?oc=5",
-            "date": "2026-11-03"
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWngyMHZhcXpONTRpWTFRUFVkR3c5UGpSZjFwc29hQnZ6eWxzQlg3Y1RJc3h0ZDVWbjFFeDN5bUpYdVA1aldNckR4TWRhTXF3TVFSMGdNbFVVMndCY1lJaFY1c1pJNEFKRmxQS09xdUlpbldpMlBUNlZBV2JNLWlVc0F5ckNmdG1wU182MzZ2T05Lb3pIbFV5OHFDR3NQeWl4ZGpWSnNRSlFrQdIBvgFBVV95cUxNOThUSG1HZjVmaHZuRV94SUlmZ1M3aVBPVE9RVUx0UEZ5VTF3MEdLd1hpN2p1Tkl1cFdBbGtlZXFuOFR6MDNyeVphWjAzYldiTnRyM0NhMnBIcDROckNpZ0xRVHhUYXplOXphV1NZX1paMmlIT1BFOGZVR0ltOEY5eE9yZndCZUw5cllHTDJVVFVweXZxWDdMSURQamU5MUZuNUlBN3FuUGd6MEdKZ0ktc2U1NUh0bUFZSVNxaVZB?oc=5",
+            "date": "2026-11-04"
           }
         ],
         "ja": [
           {
-            "title": "秋季近畿大会決勝 明石商(兵庫) vs. 京都国際(京都) - 高校野球 秋季大会 - ライブ配信",
+            "title": "【プロポーザル】「国際湿地都市NIIGATA」ハクチョウ絵本制作業務受託者の公募について",
             "summary": "",
-            "source": "スポーツナビ",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tUERsSjJOV2g5TjMwSWNoT0dxVnRkSHJtVWlXT0JTd0VqeU5TY0JFSU9lTmdKczRzXzBSeV9jaVF3N2FIV2RXTFZpMlFnOHZQMy1ScDJyUjR5Slp0MEptVmtNOUx3Q1RLTnM0TWhR?oc=5",
+            "source": "新潟市",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcDF1SXZ3SUpERWQtWVk4MFA0bmh2TG0zdFBudVpPbzZ6a2xyR1BZVUI3akY2R2VhbnoxWmRXOVg0enFkWmxTWHYyZ0o0X0htanBfU0ZNRG9YbEs2U0dMX1p1N29WdDZWTC0xVm9NZ0xqM0wzOFRHb285TGlrYWlCaFFIUUQ?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "【体育会スポーツクライミング部：小屋松恋】国際大会初のメダル！再び自己ベスト・日本記録更新！",
+            "summary": "",
+            "source": "摂南大学",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQ2wwMng2UnUtQmhPUUJYYUZPZDhXTTkwb29nSTJtTll0QXQ1Q3ZiWnh4LUEtWmVZUllvVXB2Q1o1MTNKd0xHNC1BbC1ocVVFSF83N1BR?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "ReTACTION Radio #2-89 国際法。大国と小国は不公平なのか（山田 卓平／法学部教授）",
+            "summary": "",
+            "source": "https://www.ryukoku.ac.jp/",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBsNWJXb1B0eDhxRDAwTndSTFZqdGNtSFMtaF9YSkVBeXU2Tm0tcWJ3NnE5bnlySTlwcEVpWVNlRTJQMlRpVGEzY2VCeU90S2lGVGtxandwd0hxRl82XzdZ?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "蔵王ファームと丸山 平飼い卵でアニマルウェルフェア国際認証「Certified Humane®」を日本初取得",
+            "summary": "",
+            "source": "月刊「事業構想」オンライン",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnNUN3lpQ2JpaDIxdW5Qa0dHd1JNejlTR0JXaUx1ZUpEMjZLQXRVa0NaeE9RczRUQ0VzNk51NmdvRGs0Q19waGt5YkFCY3ZjQ3IxbmR4XzdnQTZobm56WFU2MC12bmRXRHJuNFhhRkRCYU9aSE9TWHhmMnJuMEtvdmc4S0NDdw?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "京都国際が継投・堅守で明石商の反撃かわし初優勝…秋の近畿高校野球 （読売新聞オンライン）",
+            "summary": "",
+            "source": "Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04OXZ5bmE0NjNkXzRacmtiN3E4SzRzZEQ2T29fd05rNXloT0VWb1R1S3pseXc5OG5KcVk0VmZ6OVdraXJaQm1mWmxiQ1dzdWhyQUIybUVaUzE4dk1aWkJHTkZmUFFNV3BVOGdINWpxVi1ncGRYXzQzTDZJejlzS2s?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "2026イタリア･ボローニャ国際絵本原画展",
+            "summary": "",
+            "source": "美術展ナビ",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wdGFPOVp4M1lNUFVXSGdoYnY5V1BjV25fc0U1R3Nza01EMjU0NFdrWDVzTHl2S1h3U3RGdUNlV3AyV1BYRlBZWG1CTmdzeWpKVXI5aFBmUHZ5cXFDb0FZVThXMjdLdjZC?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "兼松、国際展示会「SEMICON Europa 2026」に出展",
+            "summary": "",
+            "source": "共同通信PRワイヤー",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuM0V4aDgxaU1kS3R3Uk1NQ0pDQ19VWk9RUnY1ZWNIQ1htQzJOUEEzbDJXU3dnZVZWRUJlM2pFb3dwWXNkUGd4SVB4aUM3aU1oOUhLdDJpWFVqUm8?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "社説＞イスラエル選挙／国際協調への転換不可欠|オピニオン",
+            "summary": "",
+            "source": "神戸新聞",
+            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkbjliejAtMENJNThPLUlacENoSTdtMkFlNXFoSTFGX0dBODR5RzBlaVNUOFpJX3ZhZ2hkZGhETkl3Z29mek5hTHFLUTFCSmM1SGFMTVlwRWZiR2FvNjhzQTduXzVJUFk?oc=5",
             "date": "2026-11-03"
-          },
-          {
-            "title": "明日4日の早朝に国際宇宙ステーション(ISS)きぼうが見える 関東など好条件(気象予報士 中川 裕美子)",
-            "summary": "",
-            "source": "tenki.jp",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YOGxQTnFocUxKclBWRzJackRHZkVZWVVwSW5zb1M0WkZHRm5WVnlDUXJ4STZZcVZFSVdJZEFZdXBpVFdQYzdJYnpvdmdJcEJZdWFja2hHSm0zaDE3a0JvNWFwSnlYYnRpenlXdw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "RHEP受入学生が「IFA国際芸術交流展2026」にてIFA国際文化賞を受賞",
-            "summary": "",
-            "source": "早稲田大学",
-            "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB3VXZqNnVnaXNLZTRkOU1NVENZX3hHS0NkT0JRVVhQcGd5cXJITkk1a2JsekRkSnd0eU9kSDNaVEs4QlZZbFBxZHQxakRzdw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "海上自衛隊 護衛艦「ひゅうが」一般公開 in 別府国際観光港 第4埠頭｜2026年11月3日(火･祝)",
-            "summary": "",
-            "source": "陸自調査団",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3RyTHBzZEx4ZGxHcWhfdlVyMXg1QUhHSk1qdHpZVzBjWjZvQ2U5U3dzWG1WMFZHbkpBWEtqR1QyTU5WWkZWWTBqd2ZKdlpLcDZ2dXRyYWRaLWg1eFlfWXhPbG1IeTRSbWwxa3Byam84U3VHRXB0UURFNE9GVU9HdXM0cw?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "【国際センター】「国際交流フィールドトリップ（秋期文化研修）」を開催しました",
-            "summary": "",
-            "source": "青山学院大学",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByWWVMRTdWd2pENlhDdnZpTGwwVFkxN2ZfSDBXUG5mM0NQbEFRMkhPQVNWakxZek1VRWNrUGcwS01FdGZ4YUk2Yzc4aU5oV3BlZWNsdXJrQVMzMWoyZnlnUldfTHhCalU?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "2027年国際園芸博覧会（GREEN×EXPO 2027）への出展について",
-            "summary": "",
-            "source": "大分県ホームページ",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44VFJvQmQyUHR3QS1Yb1Z0M1A3NS0zTlAzbGtsaE1EcnBjblNkR2xUZzE1ZTk1RlZJQkQwYTgwemUtUmdWNFFKTU1VZzZUbVY3OU85dE5xMGRUOU9pa016M0FfaVRNTUZ0?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "初優勝を決めるのは？京都国際は148キロ左腕、明石商は絶対的なエースが先発【近畿】｜記事一覧",
-            "summary": "",
-            "source": "高校野球ドットコム",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqNUZXTi1QYVRKdlBHZTNwdHRMRDBncllCUUc0Yi05MmFrYjVMS3BZSnRQdElLaWV4UndrQmdWTWt6eUFLbWlRZEhEZ1lNeG4tZHc?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "津田塾大学 国際数理データサイエンス学部 2028年4月開設に向け準備を本格化",
-            "summary": "",
-            "source": "大学ジャーナルオンライン",
-            "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RRFhWVmk4Vkd4SFhacXhUdnpnQXBpODFQaUNfUDJqaGt0ZENxYzlnOXVwb3Q2OUFnWlVsMEdmQVh2VzBuenBr?oc=5",
-            "date": "2026-11-02"
           }
         ]
       }
@@ -942,176 +942,176 @@
       "items": {
         "zh": [
           {
-            "title": "野村亞洲傘型基金登場！00420A、009833搶攻AI供應鏈，亞洲科技還藏哪些機會？",
-            "summary": "",
-            "source": "鉅亨網",
-            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1meXVpMndTSFZ4UTZDVXJWc01xemx5ckdiSzZFNVF3empEUkVXUHlSQVE2U1dRMXVIcmF3cmhET2dpRE1pUS1acXlnYWptVkU?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "《DJ在線》Marvell併Lumentum，獨立光學供應鏈受矚- 新聞",
-            "summary": "",
-            "source": "MoneyDJ",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZnhlWGZLQzJ4LWljdmpzMFRlSjd5UTRfVElheW9wTm9TRHludGhFTVVIeHdTWllQcm9KSHNZRFFFb2NYOVIzdDNFX3B0NllyVDd5b1NrbGlFWUxObFlKUVdSeWREYmdMQXg4dDl5SXMycEZBTC00b1dyLTlFZ0RPeXY4VjIyYV94X1VudUp4MEYzQQ?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "AI平台強化數據整合與決策 供應鏈管理邁向智慧化",
-            "summary": "",
-            "source": "商傳媒",
-            "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPbzNYcW13R3FRY2E1bVBlSk5ONE1MSmdOMlFMVC1iQWlTQnNoYmFYVW1SNXFINXEyRVl1QjRrR2tianRwRjV6eEJLbWNSZG0xd0lHU3ZYU1ZqZDRSRlhkMHRKcnlKT1h6MGlCc1FhaUVoTWxzXy1wNnFMaE8wSW9TR1ZNVXAxYnpVMXJpdHlxNjE1dEU5QnA2VW5BUjV4OGt5anNzSWw2cllFNXVoSExDZHFzV3pCT0loQkphXzlzWklKSThzak56RzdtOEJUMDEzdG5kOGZ3R3dELUJfejZ0bEJaT1NYQ1JtazNtU0xtMktsaDBuOHRHU0xpSndCQ0xVZC1WaVJabVVWaXlrU3JPRDlUSHF0TWxfbV9PSUdkakRWSm0yVG5kR3ZKUWtJdW83eFFkbkVBLVVoOHk4d0sxbWU3bjRMWTZjOFNHd0lxdnNZZnQwSG9WTTRRc3htR0htbXRHWGsxVnBpSFU?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "AI需求支撐國內景氣擴張 供應鏈缺料問題浮現",
-            "summary": "",
-            "source": "UDN",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB4ekE2UFVMYmFzSG1reUtfa1ZSNTBIX2JHWUg5VFNVdmNacEFVdlYwNE1OaldRa0dNdEJ4LVdiUUxta0p3UUl0V0V1VHVkZUJT0gFWQVVfeXFMTm1Pam0xSDBUQ2QyRHUzMmVuT0lMejEwVUpFdDBnWVFpUTNxRjhQLW9MOERfSVZVS3FVODZqSWJFMWFqekNKMzFYVU1xSjJMTk1NYjM0Umc?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "為什麼吃章魚，卻不吃養殖鮭魚？海洋科學家說明背後的考量…… - 國家地理雜誌中文網",
-            "summary": "",
-            "source": "國家地理雜誌",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ1lUUGlRb0JPaTlNYS0wOUZqMjU4NUFiem1mV1F3V0drSmQ4MUItb2c4bzNmMnJLZDZOUHZZWnF6dEhMNjctNnV0WDlCcExNenlnckdCSjFEdS1Tc0xzR1hCTHM4RW03NzV4Q1AwQWkwUS1CNU9tU09ZQ1ZmUkx4T3A3N3U?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "記憶體狂潮顛覆科技供應鏈：Apple急囤貨、零組件商財報揭示新一輪產業洗牌",
-            "summary": "",
-            "source": "CMoney投資網誌",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSy1pY2lrRjZnT2FkOHNneDVKdkZuTHN2RVdrVmNlUWFmZ3V1VjctVDVxd0g4UEZpUnlReWdnV1FQbTZjUjlIdEZHTUdEMllqTnBQWkdib0pCTmZadnRDSGtVZFh2SkZBNmNtMVF5NGNMbTVMMUl3NFhWd01Mc0Fpd01Pc0NYWVJmZy1wbUZn?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "台積電與供應鏈入駐美國亞利桑那州 鳳凰城北部房價6年大漲53%",
-            "summary": "",
-            "source": "Yahoo新聞",
-            "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQMlJXV2gwVG9pcVBJWXE4a0h6T1hmd2hXWWtUTmhSLUYzUHA2aEFuckhMa2Q2OVJVOGtSaU5QNlFXamRUaFFZS0c4SzdGN3dlTFl5eldKeEhXc2JydmFIcTJ0OWc0RENxaUU3UjFvYklRaEdFQWI3a2N2QkpFQzRwMUF4aUtDSl9FNUJiT3hobUFQc0tKVVU3RHdweUtDbEo2UXFPSUNTTW5vbC1LbTFndklQaG54TlEteWpvTlZ4YlJxS0daVW1QdlB1NkxrdlphTGoxSHZobEc0b2FlbFdydHR0U3JyZnQzQkl2NkkwZXhzSEs4MFhsWGg3ZjFYNXBBcnd5WlMwNjBhNmtVeVQ1am1CNDdyZEhOVERGWm53c1lKZzlESTVnVGNtYWpHVzdIaE03N3hHUjBuNmJ4aTRXemZ6ZVdZTFFFbFZqalZnaDR4ZUYyLS1TMkVkay16b1o0Y0hCdVFqamg4TlllbWZHeG5rbVNMb0d3emxOQVZNLW9JQ1NlQ2dYN0FHTkFJeFRo?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "台積電設廠重塑鳳凰城 供應鏈與地方開發搶搭產業聚落列車",
+            "title": "SEMICON West首屆台灣供應鏈論壇 助台灣供應鏈拓展全球市場",
             "summary": "",
             "source": "DIGITIMES",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORDZ2RENmRGtvWWFLeEw0Y0hZcTdwbDlrSXFKRG9EeVF2bWpsejA2VGl0UGprZHcybGNxUVl2N0hGMmpfcTJhZnRONE9aOVp4bjg3V3RoVzU3RnZWVVdEUTNwZGlhRGNwMzNHNVQ2a0RNOXp6VER3VGhhaUtSVVZxdlc4c2lJcWFSZG5WZG5B?oc=5",
-            "date": "2026-11-02"
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTThyNjVGSEFnZ0locGlpYjhBYV9XWkZnTk1sTXlzd2plWDBwaHdFZ3lQcmtJbTV5ZVdFVy1OWlFhMDdsXzI2SDU0NFpQc0dwZ3ViMGFGYzgzaDlnQjFWVG5yTElqMjh4dW0tUnoyTFRXWE9IeTRSMDBIV3Y2QW16S2RTZFhTaVNSbXFoNmgzZW1uUFZWRkx6NEZoVkNKdGdodzdR?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "美晶片管制現漏洞！韓製HBM傳經香港流入華為供應鏈",
+            "summary": "",
+            "source": "鉅亨網",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03a1F5OHZacWFSUmxocFNvdm1SQlRmRkFDQVIzcDVlNjlFYzZ3MVRSREJWd2FTRlVsNHlJZzlLd0VoZlFHSjdHSDllMUpJMVU?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "AI伺服器供應鏈財報報喜！美大廠營收暴增近3倍，台股震盪下如何布局？-財經焦點情報站",
+            "summary": "",
+            "source": "CMoney投資網誌",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXRPbFVsa1lDaWlQV1ZBR2VSc0tsTzlQNFZ1RTRlMkxKRWl5cENxY1hmblVnNXJMUE85Vjk5dzlpUDNoTmRvYkFfLVpabktKTHByejdkbUh4N0tmdEFfOWl6OGNzSHliYzI2bU52b0tnSDlrZHdSVXNxbXBXdnRiVnRB?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "2026光通訊概念股有哪些？16檔台股、CPO供應鏈與最新進度一次看",
+            "summary": "",
+            "source": "數位時代",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenlhajhKeGpjenpMSDJfaEtnTWZlR0pIY0F5ZmxWUFR5bXdtLUh0LXVVeFJYY0E2RHcySTlhQTJwRS1ITUNuMjkwT041U2FuamlWeHpJZ054bkFneVBTaDV2OFVDUVhWeFQ1Q2NGQmx6S1VBa0FETlAxaUJOZ0xDXw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "外交部政務次長陳明祺出席台捷「供應鏈韌性研究中心」歡迎酒會",
+            "summary": "",
+            "source": "中華民國外交部全球資訊網",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KRy01bjN5X0pXZzVoVUhoNnN5al9BWE9KRXF2UGNVbkJUa3pXVW9iV1QxZFE3YlB6R3pFMzU5ODA2eExQaHRldk9IOXg0Vi1Ta0lUVFpUR2pXbjQ4cF9pVlZ1cm9JQQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Anthropic的算力來源，上市申報書背後的四條晶片線與台灣供應鏈- 言論",
+            "summary": "",
+            "source": "工商時報",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CMW1QbFpFS0ZKSU5SeFM4Um1oekt0UV9hdFlNZlctOHNrZGE1bnhlZFlNUFM2cXVuTjV3eG9nUHVocWJIQVY5Z2p5R3lmWEJRazk0di1hSHEtSzc0eXp3?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "台外長：台灣是美國最值得信賴的AI供應鏈夥伴",
+            "summary": "",
+            "source": "大紀元",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xeTRmRVdJNlpSa3QwRGZBMjJzQXB1dk5tNjVXNDRKUEZMWlkwWHJkanRUQ0lhRzczUWtpdmhkVTc4Y19nMDBhSmJ0cHVvWGpuOTFSMTE0ai1jTGptTnJsMNIBZkFVX3lxTE5vMlNjWHNIVG15Z0Y1N0hmandIaENzQldKMFJFNi1fYkdzNWN2enplVmtndGZBVnZ6MWJ1QzZGcDVFSlhTd1ZlaUx4ZERIMXBTM0pzbTdaV1pvX0JacHZpU25UeWRMZw?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "美日印澳聲明關注經濟脅迫 劍指中共供應鏈",
+            "summary": "",
+            "source": "新唐人電視台",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrX3hmY2YxWDJLaHVkLWd4V0tMX1p4dVRwQ2k4NjlpUUI4NGlDUHJpQXNrQ0lwd2d4NFRXNVFoSjFVd2ZLMVpEWjhOX2dKTVdfNVNmbnJnOEMxbEIxRUthddIBZkFVX3lxTFBCRUJkY3FYUm9JbG12bmNiQ1JYM1JLOUpkTlRhekp3Z0UxUTA1cWl4Zm03Qy15d3V2UGpGMW56ckFaMWRtdzZfT2cteUJ4X2g0SlFlczN1bWtVX3JxSVBzZVg5R0lidw?oc=5",
+            "date": "2026-11-04"
           }
         ],
         "en": [
           {
-            "title": "CBP Seeks Comments on Heightened Import Disclosures for Supply Chain Visibility",
+            "title": "3 Questions: Building more resilient minerals supply chains",
             "summary": "",
-            "source": "Office of Advocacy (.gov)",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdHpxZDhUWUVWV3RxZ0xtVmVfVjdIa1BwZzMzb2VVWXh0MElVUmhlRFdPSi1hOTZQN1p4NXA1MHI2Y05IS20xbWdrdFV6cWUzU3RveEN3eGJJNzIwam1MSlZxSDlZbjI3cDh3YW1WcmZKM3pZUVEySG4tVF9yejJqd1RZXzhobjFVajJwUTRNTzM2aHQ1ZUMtWlJTa3pTc0hSQzBuRmR4WWZ1cTR4YmZUNkljZjVhbGM?oc=5",
-            "date": "2026-11-02"
+            "source": "MIT News",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNblprbU9wQjdld0RsM25aR2JtTENZZ25sN1U5VXdlUGozMEgxQ0lMZVp5bFJ4ZnF1UUNoQXMwdjJJMXVKNktFYmV4OHhXWUJVV0xucTUxbko0dWg0dDJsaVMwdU5yeTJoS01FSzFWekdIdWtCVElWamgwZHNyd0hUNlpZOTFWdDVQUzA5cFZFOUJTUjA?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "The new risk management playbook",
-            "summary": "",
-            "source": "Supply Chain Management Review",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mT29aNldFT2xWb3VYZE5SXzYxVzdHcjBKZW8xNnQ1bzlIdmdaLVR3Unp0U3k3Tkh1SFhRaEVBQzk5MDRFRFpSd3V6bkt0U2xoR25nUWxaODE2LXhMWGZhTXFCWHluQzlBNDZuM2ln?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "FEMA Seeks Industry Input on Cloud-Based Supply Chain System",
-            "summary": "",
-            "source": "ExecutiveGov",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXpXV29TYkxvY2FaZ1BuaXFiZ2tRSHh3RFhMc0NDc0syc2tTR1NhZDRhTUM1ZmxQekRJVkNEWGFMUUs5VmZUQ3VXLXZoY3FkNTdaY21HM0NEZmFxYno5ajVZWERSNnFJTDBDSFdmWnBlS29JeDVTZGpqTUZXSjFNQllPRQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Arkade to Run Supply-Chain Pilot Program, Introduce ‘Land+Launch NWA’",
-            "summary": "",
-            "source": "Arkansas Money & Politics",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsXzFLeEtWbzNLZWMyV1c1eXBDQk1XdGtDV1BabkI3WEtfd01qSHgyd3hPc1VjQW9heGhfVjZDY0R4ejlkNVAtcDVmeVdyclVyNjhhRjh5QUxJcXM0NXdkd09wSE9aZm1uT3ZXaTMwTG9LaEJQY0E?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "Global Trade, Tariffs, and Cross-Border Agility",
+            "title": "Supply Chain Innovation 2026: A Mandate for Creativity and Change",
             "summary": "",
             "source": "SupplyChainBrain",
-            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzdTUU03bkZ4TnVfQVFreFZGc3JQQ1I3UjNJSTlPSEYtSVZPblBPWXVwMENnWUlFOEZqZDFCcG1DOUJSeVJPZVBRd0ZUMVktSzBZb0dhM0lTWk9Fa1RsS29kblBKSFZ5ZGM1ODFMOE5MX3E2RWZabG9rVURCckJLQkx6OUlHYngtWVl5a1JxZjRyRE82VDlxaw?oc=5",
-            "date": "2026-11-02"
+            "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPNnpOOXJBVExoQkMza1JuWjQxekhVbWQ1ZERkYjlxX2k2NjU1d3FMekZBbjgxZ1lIQzlmajJpYTNmYW9mRjdmM3hPM2ZPNkxuczdkQ1RxWVFyLWtPX2JNMTF2NXpOMEpKTlNoaThpQjF3eURZUU9rb2l6UEIwWDJOSmFBallWRGk1dlZEWng2Q1Rzd1pfeEcwQm5rVlFXRHY1bXVTdWE5bXpPTVVyNm1kSzJZNzdWWENzT3laZnpZak5ITFJzbksxdUxzYkNURDFuWmducGxOeGNvUm5fTWloQmF0OTNuREFpTzhZVk5R?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "AI in Supply Chains: Why Trusted Data Is the Competitive Advantage",
+            "title": "Airlines Face Supply Chain And Certification Delays On Seats",
             "summary": "",
-            "source": "Logistics Viewpoints",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2hhOFdHNHA5S0Nlb0IzVjZ3aXczZThVVE9yNTE2UzRZN3N5TnNmN0pIb3RlSmhlSUpINzI5MDZyclFTS1lMYmEwZlpVeHF2Snp2QTl4R0E4Yk8zQUs4emRDb0xYX0RzM0ZOTDJpaW00Vm9yd254d2dpdVJ3TnpUOUJPMW0tR3F6VE1Bb0NDa2N0aXJma1kzUnNNRjJ2MU5yUDBjNzlGYVVXZS1pR3c?oc=5",
-            "date": "2026-11-02"
+            "source": "Aviation Week",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzVlSEdWVHExX3ZYeVZ4eng3WUdGYWZ4Sl9NNzAtR2lFbF9vaF8zVkVqcHpfZUtkc2RjaHU3M0dId1RNbFNocGRwVXJ1Rkc3b1E2eXRteHJHajNjYWdKSlNOanhWMkNKODkzQmNIZVBIb2VHenhUVHN1dDBLYkFyQmNDOVVFU1dHUkQ2YXRsUm5lY2RqX2pYX3dDaU5uS1pncXlKaEJRcTVoYjRlUlRqVzdzZElzdw?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "Logistics Update: Handling Iran War Supply Chain Limitations",
+            "title": "Pharma Supply Chain Resiliency with Alex Gorsky",
             "summary": "",
-            "source": "Law360",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHU1alBwNUU4WHJlbzR3UjhZNkxyYlN5aHpFMGJrTHNVQVE5a3kwZEJkQ1NOMDNfdjNrODJPX1drVmhCMFJLUUVNTGlPLTVFOFJSYnJUVGpLellVeEIxTnBNTFk4WGlVS2t1b290YjU3a1ZOSTJYOVU5NUdlSjk2R2d5WGdaLXpQQlNvLUhud1Q2cFhZMXQyN1p1QXZ2bFZyMHFndjJCYjN0bE53dG8w0gFWQVVfeXFMTURkOGxINmJJU1pSSzhUbmlmMl8yTXpxY1ItMmJGZ0N4NHpLZUo4NDBPamNyNUE3WThCenJRWEJsZ3Z1YmRkenJyQzdMTDNNdi13WUI0Qnc?oc=5",
-            "date": "2026-11-02"
+            "source": "J.P. Morgan",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYnczYjhQSGRiN1laZzk0cm8yQnlRUXV0aWlEZWNjOVQ4QVJseS1sQlZxM0dKUUpTRG5NbDRTQW5wM0JSUFN0RmRyMnVtMGlfeTdkN3VQd2tZWjBORnBsSmRKM1FZSFVtczlTWnF0X3ZJLTlYQ3ppbnMxY3FGc0JraE54Q3dub0tnVnMtbmZ0MXB3NEdYQ1lPOHpCX3I2Ulhk?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "RUSHA Q3 deep dive: regulatory uncertainty and supply chain challenges cloud outlook",
+            "title": "DOE Offers Funding to Build Out U.S. Grid Supply Chain After Push From NRECA",
             "summary": "",
-            "source": "Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSWtYbWdMckZmNWxxUDJhaFZnZG9oMnBILUN1U3VJdjlIaF9tREJlR3JaX0x2RkpKVWYyMmQzQ3NtbWhDdGF1X0lMa2J6RXV1aFhVeF82ajRUam1VaXJtYlEzNk9NbFRRRzBVbFo1VU5pdkRUS3FTS2xiZ2IxT1MxWTBmMHdPNnA1VElmTFJRZUdSU1Q3QkxGcjZn?oc=5",
+            "source": "America's Electric Cooperatives",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFBXLU9GeHlxZVlEZ3BPSkZyMGNPMUhlVEtQTTJSQmVHdFBZdnN2NWdpazB1R2ZUS3pOdUtEbFVGS1BKMG5YYlRlU0EyNk9OaW5FdkdKY1dyV0ItdlcyeUpzVmZuR21xb3pvck1QcWhCbWNGNzFuc09ES1VjcHo0bmhDdlpGZTNvV1N0QVVTQlkxcGVyMk9mQTFaNlNydXFpajVZ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Malicious Files: Find What Supply Chain Attacks Leave Behind in Your GitHub Repositories and on Developer Machines",
+            "summary": "",
+            "source": "Step Security",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOb2lONU1GcThzelBnSzdhMWpGa1hsdnd0dXNaVmQwRHlKTnVFeUkxMTU5anpuT0ZzR3RsZTZrTGxraFVNVWxKUUQxQXVvTWJVLWNxN25hcnM1dUVOb2M1WkNUZmFrX0gwbXpvTVhoTUx2TllzUEE4ZGlCR3ZXNlFrbXg4aFBZUjhjU25tcnRiNGJOaEdtWHZ6djlCNWhMOXZRZ0ZWUk92QWtReHZ4eHUzTGJtTzMza240aEtSd0tvSFNGZElBLUU4a2J1bWhlRld4d0hmckVlTjVUYkRXM1Q0?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Can ‘BattMan’ secure the US battery manufacturing supply chain?",
+            "summary": "",
+            "source": "Utility Dive",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX2J6NDh4TnoxdGh6UTY4cFM0ek53ei1zWkFHdDRpNmFJbkdubDA0ZGJqV3dWYzNoN2hycTdmX1Y5aFd2T3dZWkdPaVh5S0FXWGtqT3U2Z21lTFJoV0lkY2hrTThpaGNmZXlYWjd3MHdXdWtqTHotdV9xVG05UUNjbXVtRVl0UDhPczd6c25mTTFONlBlT2lCUmg2NXJDS3dKR09j?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "Agencies to assess U.S. pharmaceutical materials in effort to improve supply chain, domestic manufacturing",
+            "summary": "",
+            "source": "American Hospital Association",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFhpU3oyZWNLZ3FZYTRodGpHTnVMU1M2d3U5YVhhUzJzOXZMeDNxemFYOW9JNjMtTHg0U1U1QldvZGFMckYtMUZSUUVwcmM0Sjg4OTBfV0RTamptZjFROGVlUDhUNUFvWnA2QVJtd2JwTGJCTTRzT0tfNWRxeGphNGlmdnlILWxSNkhPV1ZzWVVreHlCaENGaXpjVWRUWUh5elVDVnZQWjFNSG5CcW5oVm1lVU81bF83dlBGMHAwOG5Cc0ZBOVl2cVNWUXZHY2xaNi02U2FB?oc=5",
             "date": "2026-11-03"
           }
         ],
         "ja": [
           {
-            "title": "サプライチェーンの「変態」マテリアル編（49）再利用ロケットが供給網拡張",
+            "title": "ＦＲＯＮＴＥＯ－3日続落 サプライチェーン調査を自動化する新技術を開発 特許出願(トレーダーズ・ウェブ)",
             "summary": "",
-            "source": "日刊工業新聞",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HSG1pSWRCcmRWWkF0UG1aY3ZZRUhEc0pMU09uZjhtaFZsN1JWaUtLMVRacHpYbXpmUkcxNWVmS1E1d1VpZ2M0WkdDaWpObzA2TUhXa0ZPU3A?oc=5",
-            "date": "2026-11-02"
+            "source": "Yahoo!ファイナンス",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUkg3V2RVOEc0NlVneFZJSUVuZGxmYWw3Vkx2czZNVWZLcEFqbVpPTXpyOUxZQV9Sb0l0Q1BGaGJRbTRHa2tSWWFGUGJwWmdvcFBVSm1wS2RxMGJoejVXc3l4bnNUcktjZFJjRG1DenZ3bzJmSzl5SlByRmJVaW5kdDMyTmVnZjg?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "韓国Woori Bank、発注情報だけで融資…中小企業の生産資金2000億ウォン（約240億円）を供給",
+            "title": "ＦＲＯＮＴＥＯ、サプライチェーン調査のＡＩ新技術２件を開発・特許出願――一次チェックを約１日に短縮",
             "summary": "",
-            "source": "BigGo ファイナンス",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xZjNFc1YwUEtaQmJPUkdhMDJGeWFVRG5ycXJfTmNIdUdTRTJadGhFcTh2dms0dWdrMjdwSW1SRUZ5U0hnLUQwNDlCcFluNHpyY2FpTUk5NU13SFpIN21qaXZ5U2ppTlE5VUpkYkpoQlczNG5U?oc=5",
+            "source": "https://kabu-ir.com/",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtZ3BwSDNkR1M5alRKSXpnRjNseTdCNVhqQVp1a0FMVnNidDJReTdhMkM3VnRuVnFzU21ka0tjMEtURkZRdTZsS0dsQXpCa3lWZTVlWg?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "委託先リスク管理を『継続監視』へ GRCS、サードパーティリスク管理の実践手法を解説",
+            "summary": "",
+            "source": "JAPANSecuritySummit Update",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83LXBLUTFoT29lbTJGU1R1RGN5Q2tsdmxhclVZMTQ3VDNjMFMtQzVWZTMxelNBWFAzbGxETzdsYXE3UFlELXZERFBFeTlSc2NaSlFwUHNFRVZGQQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "農業サプライチェーンにおける損失を削減する。",
+            "title": "防衛・宇宙需要増など追い風…UACJのアルミ合金部材、国内サプライチェーン強靱化（ニュースイッチ）",
             "summary": "",
-            "source": "Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XZjVRUVJXRzBLRXg3bjdKY1lmWWpibGdVU2hSbmpGQ0kycmhwVXhVdS1qMk9XYjZqTVg2MFhUSnBucjB6emdfdVQ2RUI5RVNwUEM5aW1URkVjZW1POUEyZDFzc0RycnkwTlZlbDNSYjNtTVJjVmlqMDI4Yw?oc=5",
+            "source": "ｄメニューニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvbXNOT3RGVTJxUHlia01ScUROOFdvVndkRklhUmNnMG95NFZpdGJwYmhwUUVocHRfMVIzbGtEaG1FeThCZE1iVDJXQ1VEbGVlX2tPV0ZrR3B6M09LY1RZejRwNEZCTlVvU3hGSmIybTdORVVUVGVsZjREZVRsSTg?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "一時的に行われるサプライ チェーン改ざんの調査",
+            "title": "ADIPEC 2026 2日目：エネルギーインフラ投資とサプライチェーンの強靱性 - ニュースと統計",
             "summary": "",
-            "source": "Google Cloud",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3VSTXJWZ1JrV3N5MENCaF9vZzA1akc1VFkzSXdPeU9RSmEwTTJYMklpcHlBdDhuTzlsMzFIeXFzeEtlRDh6NVpGYkhNVXFwSGIxakZfVDQxTjNRcHg5c1dIZUw2YU1ITnZUWUJrMV82UXVmQm1GNDQ3WVVJQUFGeEZGdFdPZm04THNwejEzRklHR3F3Z284S3ZsY1FMNjRncUxIVWJ0dlpCUQ?oc=5",
-            "date": "2026-11-02"
+            "source": "IndexBox",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTM1blpmUzhUNGVMeHA1RzdVaXVLSGdkQ1ZkSDB3RDVtNkUyY09jRXZWQ2N5R0NBU2pWQmdjMU1yUFFLNzEtbEQwcHA3UTB5aTFxR3Z5Z3FubnRoMzAwQTZfMDVEelVBbzJxaDJQOWhIODZ4cmNETzBRZ3ljQVRrMnVINFhVMjV0OEQzZXZRNWZDcG9xd2lnbktTU3pDSFA1QXUySFFmY0psaklFckZEUzY3SHpQUQ?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "ＦＲＯＮＴＥＯ[2158]：FRONTEO、サプライチェーン調査の自動化と脆弱性解析を支援する2つの新技術を開発、特許を出願 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+            "title": "X Mile、官民有識者40人超登壇する「物流DX未来会議2026」を11月11日開催",
             "summary": "",
-            "source": "日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfOFlmdGFXMzhpWktsamFsZkFtNVpvaDRVUlh0UngwQndXM3dJUGdta0VFLVVpdUVTeFlPQ1ZBYUxqdm93OGdaQ1NKVXNNb0NMSzNnWXdiYWpSNHhucmtERDhmTzFWVDJYWWc?oc=5",
-            "date": "2026-11-02"
+            "source": "LOGI-BIZ online",
+            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5TMVBpNFgtOWJ6TWVZWmUyTjVreGM1MEd1ZUQtVXkybEZLODBaV2RSLVpMbGVvYzE3Zkp2OHllR2Vxd2d0bkxLaWRwNA?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "サプライチェーンリスク管理のResilire、KPMGコンサルティングと協業…企業の強靭化を包括支援",
+            "title": "レゾナックCFOが明かす「JSR買収よりも稼げる投資」とは？財務や市場評価の大幅改善で“攻めの投資”フェーズに《再配信》",
             "summary": "",
-            "source": "レスポンス（Response.jp）",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SN2wycDlNNUJYWkFVOVYtX0h4V3B5MllRTGFFeDZ3c3ZkRWFneGVKQmstbm5QM2w2WUFXajRPcEN3LUxnS3hCVDVRNFZ3YnBnemtxWnhLWG9zVEUtOEhZ?oc=5",
-            "date": "2026-11-02"
+            "source": "ダイヤモンド・オンライン",
+            "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtZFhoVS1MM295WjZ4X1ZXWkl4NXcwYzVDZmJQMkg2WV8zUzN3WUtwdnlaR3dDYjlIbGcwR2NfV0xqU1FzZ1ZJX2xzNmJnVjTSAU9BVV95cUxQbWRYaFUtTDNveVo2eF9WV1pJeDV3MGM1Q2ZiUDJINllfM1Mzd1lLcHZ5Wkd3Q2I5SGxnMEdjX1dMalNRc2dWSV9sczZiZ1Y0?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "セントラル・サプライチェーン・サービス（CSCS®）、 アップルビーズ ® 、IHOP が2026 年度最優秀サプライヤーパートナーを表彰",
+            "title": "サプライ・チェーン・マネジメント (SCM)市場の主要10社まとめ",
             "summary": "",
-            "source": "Business Wire",
-            "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5nN081OEJFcHNZSHpIanRmNGhMT2t5WVA1TDdTZWp5VE1aVXpCYVNzV2piRlZiVVFrR2tCdl9WRmVhdWhpQ0UwOTZsXzFLNTVtNU5TM1EtTkFFcDQ1cjVueWtqYUVHb2M?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "オラクル、Fusion Clawを搭載したサプライチェーン向けFusion Agentic Applicationsを発表",
-            "summary": "",
-            "source": "Infoseek",
-            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zd0w5eC1GWXVNZHBMSnFnWm9FR01SdFFnb0UwZm55WHF4QVdqQnk1YVpQM19sUTJFMmRXMVJRTzZ2WVh5dXR3MmNCOHZ6UnFQemZkZ19RNGJmYVF3WWlQTkZzLWJEYzFMd2pDNTl0UHZKQQ?oc=5",
-            "date": "2026-11-02"
+            "source": "pando.life",
+            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5lNEstSExWd1dTQjRJR3g2QjlUNzVlcmtWdUowZno5WUJYRVoxVVpEYk1ZSFlZZkd6QlNEdzlzRGRRVG1rWllsdnZB?oc=5",
+            "date": "2026-11-03"
           }
         ]
       }
@@ -1127,175 +1127,175 @@
       "items": {
         "zh": [
           {
-            "title": "睡眠呼吸中止症恐不自知！醫談居家監測與照護重點",
-            "summary": "",
-            "source": "健康醫療網",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zQzAzMVR2SHhxbXdkRldfVnJqaHVQaXFWM1pxZkVZdXVhZS1wcXI1QkJuNk9Pcno5WmI0TFg5bDdxQWJDaGZHWnAxeGdZUnVmaFlCT013?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "攝護腺極端肥大、50顆膀胱結石！三明治式手術助通尿道找回順暢",
+            "title": "48歲女熱愛運動、無高血壓竟有腦動脈瘤！ 醫籲：重視腦血管檢查",
             "summary": "",
             "source": "鏡週刊Mirror Media",
-            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KSkdVX3NUVFFNRjl1MlBEWEM1OVZ5bzRreTJpc2Mtclhxb28xOFJCTzYtQXdDWWRndzI1VUFjakxQWGJJc204U1FMMllFWmtxblUtY0VENWdlUTN1aUNwdEpB0gFnQVVfeXFMTW9ObzNIenlLWmhVQWQzUUllSjdTajYtT1pqZy1YR2NWRzZ5ZlNiNnd1Q3dlTzhfQ3NQY2N1YnFBb1ZCOFlRT1NVTXRiTjAzTGxYQU9NeEQ1NjNhZjlFTnpOdjVrRktzUQ?oc=5",
-            "date": "2026-11-03"
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDLU56WlBqNjljd2l0Rm5JdmRzQlVuMHdrdk5UUDFlN1VHbUZQQWczaWp2QWlkcG9aVktFa3Z4VWNrMXJONkpEelNiT1hBTXBfU2IyVG43TGY0cXN0NElJZk1B0gFnQVVfeXFMT0lsWXQwcTljXzNXSWh1Y0NxT3FWbXNVeklhdmNGMkZmcEVTcnROaGx0UFBXRTFuTzRCeTU0NHdBYTlLaVk5eGlYWHlzUDdxZjlwbjZBYURHaTNMY1VYWWt6dTNFODBDZw?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "嘴角往下掉、法令紋愈來愈深？醫師揭口周 3 大老化訊號",
-            "summary": "",
-            "source": "Yahoo新聞",
-            "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNLVZsNURQaGxZVEE4eHJ4MUtxc19BcEdSU0ZuNVRCZDg3a1FyQzY5aHlTQ1pJZ3RsMS1FQ2lyQkFRSmYxejJJVjI5WGpQTUVjeEsyREE4bV9fUXdpZ0ZONHpVYkk3U3lXZWh0eUJPZHc0WEM5OTl5Q0xxMnZacWcwLVptY0Fqa0JSUEFTTm9FQTFyOEw1ekJ2bk03eG56M0xOWlduRnNza2tXSjlETklabF9wNnYtcjRWckZJa3VqWVpCM21rc2tBYThfQklBaGFPWXUyWl9pWWdTQkpVNXJ0YUUzXzRLUXJQa3lvYkRnM0hjaU15aWdiVUFzbHBsM2pKVlNoZmlBMzJfN21nSVdYRHJrZ3F5QlBYT0w5NnM4RWxrVHNZUGRfMklhRmJiaG1XOGNiRTZwQUlYRkJrTVllR21RRkxJODZ0LXZQUE9MY2FQNTZhWlExMmo1aTdqa1NGaFE?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "豐原醫院榮獲健康永續卓越典範獎",
-            "summary": "",
-            "source": "中華新聞雲／中華日報",
-            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xLXhnYklaYlA5M2Z5Y2k2RHVaUnhTNmhoR0VwSmgtVzJYQW9QMmZOTGVOSjgtZnFjN1pzNWpTT2tVVklHbkVOUHhlUlJVZXNUOGc?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "乳癌切除後重建怎麼選？專科醫師帶您一次看懂 重塑美麗不留白",
-            "summary": "",
-            "source": "四季線上4gTV",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kaDVIaWFJVmN6c1F3ZDFSTjZWSEhGa19lTHdnRWVBejljMVJxQXNuNk8ydEo1WHpwM1VxMmtubmVTTlZ3SVJzeXptYnZ6X19YRGdMQzkyWQ?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "睡不飽、睡醒還疲倦就是失眠？醫教觀察重點 這些人要留意",
+            "title": "約8%患者18歲前發病！研究揭「早發型思覺失調症」4個潛在關鍵基因",
             "summary": "",
             "source": "健康醫療網",
-            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91TUlVSmhyNlZYWVRYVGQ0YU1UU1JsaG9SUGg4WVJ6MTUzVW5IX1hCc3VkQnc1WmpoODVtc1ZSWDBFMGxRUDRrbmFnVEZSSXNNbWliU1hn?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vNW5nZzYxelB1dFFWMU4tNF9YTGJIMW5oZXRSN0VPS0ZERU03YmhVOW8yRGtkMEQ4c0RaMF9sUm5CNTZqb3ZnMUk3WGVCWGFQcWt1cFNB?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "眼淚流不停不一定是老化！醫示警「4大症狀」恐是鼻淚管阻塞",
+            "title": "真健康醫療(02697)支持衛生產業數智化年會 穿刺機器人基層應用展現推廣潛力 作者 智通財經",
             "summary": "",
-            "source": "民視新聞網",
-            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92M3Byb2QzU21SNTVNM3BMMVNBQ2ZWZ3g3TndiaTQxREVxTXBSZDRvNTFhYWJYZkVoZEVRRHpwbHhiRnRHSnlZYnRBNHNpRTN2VzEteTlpdTd4N1Q5N2dZMw?oc=5",
-            "date": "2026-11-02"
+            "source": "Investing.com 香港 - 股市報價& 財經新聞",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UYVpicEROa05HRXdLUXMwS2VqbkcxMXB5UlJRekl5NWxRbEpLVy1SOXVuZ3pncTkweExYRWY4UU9YRjd0cXFiZVNUbklMS0FueWpBUVVmX2ZkNUVNQzkxTC0tajIxMDBSWDlCQlQ4Rk4?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "討論牆 | 老翁突發單側無力說不出話！機械取栓術搶救 醫示警中風徵兆",
+            "title": "聽力損失與失智風險有關？醫解析可能原因 助聽器選配有學問",
             "summary": "",
-            "source": "LINE TODAY",
-            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9IRTUzRlpuMlc0MkNwSlBvV2hSMEZpSDhCcHllRWk2NVNZZFV1djdTcTF6YU03ZVlwRVR0R25lVklCdF9PVlB4WWxmZDI3Yk9pTDRZb0dEMkVnU1lqWWtjZEU0Smc?oc=5",
-            "date": "2026-11-02"
+            "source": "蕃新聞",
+            "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEMlpMcURQRzN0dlh1TGhvbzhSSlcwYXNjcGc0SHctdktKd2lZcjczR0E0MTZ2djNlbW9VT1JHemNDQVZCLVVoYTB5by1BXzMwNWc?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "台灣第一三共走進平溪 以健康與陪伴點亮樂齡幸福",
+            "summary": "",
+            "source": "草根影響力新視野",
+            "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTXUzWWd1QmlNQzB5VnZXdmRvSm5fcURtQWNVZ0F0WVhpdDhNOXI4dEtBSWRoT3JqY3N3OHNwUWY3WHcyNHNqZVAwOVowblk4RG81Qk1nOTZMcUNNckJldDNfMTR6RnVWX3hWYk9YbVhCVWZDN0RYQ1RfZjhweDRLNXRDc2UyNTRaeVZPcmk2TzNCZ09fc1Bsai1rNF9sT0VieURNM3NUMWp0ZXVjZ1hUTjk5dURGV0NYWlRFUkRRQVhEUE5QQUd1SmhkVnQ2ZUpZdEZLVXRxWEhfbFp5QUZZbl9kNHUzYkdIQjExQ3BBb0JtS2NXTzdPZWNVenpYaDZIa2ltb3RaU2N0endtMkFyZW9RTTFLWkZmRHd6dmFoU3JqQWl4NV9udzhVVzdEeS1NRDlZbnRMenZ6UVlyT1RXYWtGMVczbjQ?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "雙11越買越焦慮？當心變成強迫性購物 專家授「三招」阻斷成癮",
+            "summary": "",
+            "source": "健康醫療網",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE45d0N6UHplQ051Nkd6RlRNN0J4enh5ZWhEOHVyU01XTTZ3Q1NOUEJxakNQU2hLQk1kWm5Ya0R6NnI1NGYzUFFScVY0ZGg2S2UxS1U3SF93?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "睡眠呼吸中止症恐不自知！醫談居家監測與照護重點",
+            "summary": "",
+            "source": "民視健康長照網",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93THhzNEpfZkRSbnAtWHJoaXpBRDNVRDdNTGJJWGJfYm13ZWZ5blFZUHB2MFJ0ZE5CcmN0cGg5c3IzLXJaQUxidnZncnlJN1NuX1RWVExFaGhlcmVheF9qb21pV1g?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "孩子太懂事未必是好事！專家揭「親職化」現象 恐影響成年後人際關係",
+            "summary": "",
+            "source": "健康醫療網",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rYlQ5T3ZUNUVwY1NkMHR5czI3SV9mQVBXMmJON21ZVWhudzYzS2diS1ZDSWE1RVVWTjlVWXRVVXpSa1BkSGRHSXF5d1BCQkY3TGZUeFhn?oc=5",
+            "date": "2026-11-03"
           }
         ],
         "en": [
           {
-            "title": "Why are Americans paying more for health insurance? Experts give 3 reasons",
+            "title": "Diabetes",
             "summary": "",
-            "source": "PBS",
-            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcFRvSTRqVXoxZnhza291TUF0NUxQTlN6WnVibWZOMnR4STZiWUZQb2p4Q29DYVRsRVZRSmgtQkpQdl90ODNtTXFFck9qRkJwYjRnaFFRcjc2eDRGWGlVekFfem4zOVJHOXhZTjFDbEpDbkxrMk81Q2p1eFFhb2lpSmZrMHRWelRiOF9zVUdyT0xiME9zb1BTbnRXbkJRZw?oc=5",
+            "source": "World Health Organization (WHO)",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84aUtUTW1DOTdiR2tqMkMyX0drZmV0MGVHZTlHRUo3dFRyQ0lkVXZQZXcyejRPUWYzU0IzMHpBMk92dGRHaTNXSHpBbE05dWd6TFA2R196OU1GSWM5UjY2LXUtQ1pzQjBu?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "CVS tests breakup of retail, insurance businesses, source says",
+            "summary": "",
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTkhjaUZVT0NOQTI5R2JFdk92UWQxRVpoaF9GX3lTSGxHZFEteEVQYk5FSi1oc0JXUXRycVhLZVNzaVpRUWZReWxpS2dGNEF4VkluUWo2UUVCV0Fmbk5KN1pxN2RrUE1YOGpPaThUcHJGSkpnVXlaUXFhbVZNQzR5UXFTM0ZFYjVpQlZWSHJDRzRhSkloRW9hWlZHWUlqY3lYVlpOanUtQ0tzOFM2TDBXc3c5R3hfUDhXNWpKWWFGdDFzTHdvaVotVGdR?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Wilbon taking leave of absence from ESPN to address health issues",
+            "title": "Whole Health Stories: Veterans and Employees Speak | VA Tomah health care | Veterans Affairs",
             "summary": "",
-            "source": "ESPN",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY2I2VG14MGNldEp4T0tCZGJ3SF96SDExbTVaZUxtZGVreWtvQ0stTEx3Mm5acm1EaHhmMmc5QWk0OHY3eE9Xb3BkUUhGOWF6cFoyOFJEY3I1Z0VSVG5NYkdZdmEzSXd0cXpxWDVLZWtHN3dfOUNFVTRhdW1nbGszc2M4cmZUZGQxc285WUhwNWszN2sxaWo2Q3B2ZEEzTXN6?oc=5",
-            "date": "2026-11-02"
+            "source": "VA.gov Home | Veterans Affairs",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN3BWc1AzcF9VR2NxWDVUeW15VWp2c1FKUjQ3Vndjb3RGanBCRnlCSnpQZFh5NjJSRFBzaTRucjZLbG43akw0cGZEdXA2OHBaQU1iWEx1aFNhMGVHNHk0VDF5Q1JIbzlIaFFsMzhaQURUNG5iZFR2OVVncV9JRzVnbFlsdzFpMzNpSzF4U0pkaW1WSmw2aDl6ZE8tZlVFUQ?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "Longtime host Michael Wilbon steps away from ESPN due to ‘health issues’",
+            "title": "Decker College celebrates National Rural Health Day with a community event",
             "summary": "",
-            "source": "The Guardian",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWktkV0RGSGhaUFhzenk2WEpRNERZcHYwX3lYM2hyekN0VXAwczN1dF9FQ1pDVGVJb0lzRkVsVk1HT1pBREwyU1BOeklWRS1kTzNEeEFSaV9Pa2NPSWFucDI1M1Jtdm9ocGhXanRXSXhuZDJGbUdBVVg3TDFYb2VaNVBUaHN0UQ?oc=5",
-            "date": "2026-11-02"
+            "source": "Binghamton University",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY3EzeTZMYm5ucWo5dzRocGlWdUxSZnY5NDBKTHN5LWc0WF9rcll6ZVcwbGhKRFIxOHU4R0oyRGU4V2ptenlBMjlnVEZldHNnbGhhOVFqZmx1bFh3NXlIUExGUlpENG9xblA1ZWVUTThhQ3pJSWdadTNrQ0RGZENHYkJIQk93YkhPaGVMajNmMG9kOHpZc0tlYnR0MHIzQVB3U2FtWVZudmctTUI5OURPQkJFQ0g0NnNtSUE?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "Adults Who Report Not Having a Personal Doctor/Health Care Provider by Insurance Status",
-            "summary": "",
-            "source": "KFF",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQb0RxdmtNd1dSZkJDck5tOUswTkZlWlNzWHFtVjhha1p4bm5jal9zX2pwemQ4cUFneDVQMy1tVW5VUXVuMHFsb1pnS2xNQ3dIVnp6YTk4dWRJNi1oRG14YTZZREw5TXQ4a09fNGR3UHRlM3ZsU1BQa050SlB5a2V2aHhuTjBzMUZnUW85MGlmMFpkVFFOUFBKQ0Q4WFQ5a3NfUVFoeDBleEpkZlE0QzRSZkNFRzFZU19XN3pGTDVQYURqTDMyZmNmWkV2aU9od28?oc=5",
-            "date": "2026-11-03"
-          },
-          {
-            "title": "Stephen A. Smith happy Michael Wilbon is prioritizing his health: ‘This is good news’",
+            "title": "Chilling Health Update On Former Bruins Forward Jarome Iginla",
             "summary": "",
             "source": "Yahoo Sports",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORF8tUkxtazV3cndYRmJPZFNLN1pFdVdRcURVcW5SM0lWUk4wWGw3MWxJMU1vZzB1YVZ5bk15WnJEZHpuMnhLcEtxbVlFTEZmSlZSWmRybmdHVkg4RmZGeUpFQ3NBdEhYS2ctYXVDaVlfS2JDQlFHUUpyUDNFeDZUNEVVbDZJZG1Lb2Y4?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMzBoX2hQcWhmTTBXTEQ2TkpjdzM3eTRFem1LeVBPTWFsblIyM01VSEFfVE5wckpNR1AxUVRTRnNYMGNpcVRzNFAzUmtaNmJXa2ttZEM3bjlxc2pXbzNsSnpuRWJyLXd0T2RZUXFObFF3cUt0am5rX1Btd0g3X0FIaVNWTzFmRFk5blIydUlwSQ?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Islanders, Matthew Schaefer and Northwell Health Unveil Jennifer Schaefer Child Support Room",
+            "title": "CVS Health moves to dismantle $117bn healthcare empire",
             "summary": "",
-            "source": "NHL.com",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdXJYUXdrUTlCbUpndWZ4VDZGcTJmS1Fzb3p0d3d5Tm82UXBaMEJDUDBXWmt6bDdEMWZjYUZsUG9HV1hTRDM0VEhRTkE4bUFEdlQ4X01XQURic1hrdElxQlE5bF9nV2Qza1hYQVpfT2ZjYTJhT3Bibk1KUXZEOW1pc2JaYXdVZEdBYUUwTUs4d1VfUGVVTS05aHRGTjE5Q1k3MVhPZ2gzMWE0TlAtcEh4SWtLSzdZaWtCOUJUSW5peVZVSXdY?oc=5",
+            "source": "Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2tUS0tRLXRWM2RKMFFIYWllbzhBSlc5TmRPZWU2R24yUHk2Nk01cldhR1E3OXBSaTBXcXZxVWlQWE12RndYYWxaX1p5Sm9mVmsweDh5emRPdXZxUDFmUTFUTmtpbkRMcHk3a2NoTlFwNGQ1YWl0Ql9JZ1FFUFRNRFBHOFI?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "A Dietitian Shares How Many Almonds to Eat a Day for the Most Benefits",
+            "title": "CVS Will Break Off Its Namesake Pharmacies",
             "summary": "",
-            "source": "Verywell Health",
-            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZENyT3h3d1ROa2dSWDhFQ0JEUG5YVkNYNElOUnFPOTVMQTZqbE9IdjYxNkF4cXAzVEgtamJiYU9uOGYyY1R3VGx6TXNlMjdabkk4Szg1c2xqVGdQanNNMzRyNG1XSGdMZFVGeW9OYW1SbjdyR0dWZDhiN3BILUd5eHhHN0hidlhSMUE?oc=5",
+            "source": "WSJ",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelc4RS04OWZJWGlvS3F2cDczbGMxQmktT3hZdlQxdmtXWVFSVFd6NmxHQmRZaTlYbF9aQXVFUzFPNWFKcXFueGtxY01mdzZBOWVlaDFNRWc4M0xQN0VYeWU2b01nanBjZnhmNy1VaG8zanhjTWxwdnlEcDFiN0dBVkRoZHVCZjh5WnB6OGhQTENWUkk?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "Health alert issued in Bernalillo County due to smoke",
+            "title": "VADiversary celebrates heart failure patients’ “second life,” providers commitment to innovative cardiovascular care",
             "summary": "",
-            "source": "KOAT",
-            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYUg0c3BBTWhnWXVOdnU5LUQ3QzdNbHlTaTFDV21ydDgzanFaNjZZUXA3bGF4WUtRR3d2SzRFaE82Y0lnSTlxUUFkaGI2VWJFc2VOU2R4UjE4YjVNMVJ3SUdHeUF2TXU0OWRHMjZiWkRabVF2dWFYd1k5LWFkaHJGNWF3ejkzQzFPcHJETzdDa0l3by01UGc?oc=5",
+            "source": "ECU Health",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORXMtVW52cEVnN0ZuM09lRjU0WjNMTWtaV3c2amRaajNzemRXWVMwVnJXX2NCVGFyaWhVQ1dOMERWN0FtalZtR1ZrNzRKNDlqM0xLSEhzUlNzUEkwMG9BRF9FMFVPSjFCZkxQQWExYjRRTDJFc0MxT2U2bGFoUkhvV1duLUpiMTVibVIxcXYyVEI5M0NobjMxc1hQcklycmdDaW9nMU43X1hrMDg3S2VMcDVmN2Z0cEFSLWk1YWpfOUQ5VE12cUFESFE3T3NzcVplTUVyTFRR?oc=5",
             "date": "2026-11-03"
           }
         ],
         "ja": [
           {
-            "title": "小児科医師による講座「こどもの緊急時の対応」",
+            "title": "がん「個別化医療」紹介 徳島市でフォーラム",
             "summary": "",
-            "source": "流山市",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KRmEzX2F0aVEwVkhOY2UyUUk3NHE5WkVES1A4UVp0RzU3a19EV3VNam5lVGRIRy0zSDdaLXBWUHFCanZ6bjNCcm5sZU5sQjN3VFgyVUE3X3l6aVQ4UDM1ZGRXNEVWa2traHVNcWNfWQ?oc=5",
-            "date": "2026-11-02"
+            "source": "徳島新聞デジタル",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pcjN0bGhtdlhYTG9xbHRQWHJfNnptYk1WUmFWTFNGeXQzVWdBUWl6d2cydDZqTTV5RzNPMmRQTTljR1pNNUFZTmhxWFcwTUJBTThrb1hB?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "愛知・大府市に健康作り支援施設 予防医療や交流の場を期待 ：地域ニュース",
+            "title": "健康食品の相談、高齢者で最多 大阪府9月、化粧品28件、医療サービス16件",
+            "summary": "",
+            "source": "ウェルネスデイリーニュース",
+            "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tNG9FRXN3RGZVSU44dFpaTWxnNGZLaEZyYlhVWVlESk5KMW1YRTQ2THRWa0lZeWp3bFlnWC1rbUt2cnRDWG9RQmYyT2RfZXJOMGNScmF3?oc=5",
+            "date": "2026-11-03"
+          },
+          {
+            "title": "【医療費が最も高い県と低い県を比較】1人あたり15万3300円の差、転勤で保険料は変わるのか（LIMO）",
+            "summary": "",
+            "source": "Yahoo!ニュース",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vc2ZSZDNpYUpCbEJyZWpGNzhxVnYwQU9hLXRndVdyT0V4eHhJTFMtY1pJR1RQY0REN0V5Y3BuQVlVcjZoQzZVTlRNcDNHUEhUODVSSF9nMkZRSzAySERmN1VFVV9PN25aNXhQbUNLbm5ZMjdDSERuX1gtLURfUkU?oc=5",
+            "date": "2026-11-04"
+          },
+          {
+            "title": "医療人材確保 協議の場…１５都道府県 来年度 モデル事業",
             "summary": "",
             "source": "読売新聞",
-            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmUFlNV2JKYzZZNExmVjBtM0tNeXJpSEM5Vm50Unlmd3Y2Vl9obHdGMmNYZE8xQ21PM1NjLU1CM0tLc25nQ0x1SEdGeVhzdW1IMFdTXzIwUzd4SjgxMmxqM1Y5YzdTZG1WcGhuNjdvbEU?oc=5",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iMEVpc19Sbk5vN0d5QUl4SGRVTTJXbGhPNHBON1BXT2VXU21VUzR6WDlmeHlMcC05NENwOTMzaF9TSFJxNnpzZFNMUjhQYlAzdWhoUmdRbVRoRVRGeEZhTk03RThhZW9hSGJKcUdn?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "介護の日・福祉人材確保重点実施期間",
+            "title": "ローマ教皇が南米歴訪へ、肺がん手術から1カ月弱 追加医療措置なし",
             "summary": "",
-            "source": "阿久根市",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rZHBVWndHOFRGRjhDemNtLTFaSnVfZTJRa1hhMmtxQmExTzJ6R1B1WHFxRDVCQnJ0M0dGMThlZkFBakp2ZldLSFB3TWdFM3hPdm1sMW5NOXdFVnJnbHZnaHBYdnUzX3kxWWcwUFpIMG5NSk43UzFjSDZ1Zw?oc=5",
-            "date": "2026-11-02"
+            "source": "Reuters",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xSEx1ZnZOMUZvcmRicFIwUm1BYUVpbEtiOXhjME52QmZqSFJXWjRtaEt4a2lGNmxGRzNMNFAwam5YT09ZRTRPcHM3QXFQbzRiRmF5S3hJRXB6SER6TEtCQ1F2OVhvQ2J4MTYtSThvVlJGU1FQTjZmWG55MEFLc00?oc=5",
+            "date": "2026-11-04"
           },
           {
-            "title": "健康診断を軸に従業員の人事評価や医療相談へ　「ウェルネス・コミュニケーションズ」相次ぐM＆A・資本参加で事業拡大",
+            "title": "JR京都線で「乗客増加率ナンバー2」に躍り出たあの駅 「騒音と煙ひどい」街が大変貌した納得の理由",
             "summary": "",
-            "source": "ｄメニューニュース",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWpjMEN2MU1RbEYzU0xuSDg3VENhLVREWHNFVnhTV3RUVzNDV0prR3QyTjNFRGVEQUt2ZWVkSlBsendMaXJLMFRlSzkzX3hObGViZnlPZDBNODVOV19iN2c4M01DYlNBbF9hUlJMTWZFeWUzY0lZS1dxVURlNDJCeW82TzZwYy1fTmRWRUVBWndhc28yNjRQMnoyTXpNWFM4ZmttREJCbVhtbWPSAasBQVVfeXFMUFlqYzBDdjFNUWxGM1NMbkg4N1RDYS1URFhzRVZ4U1d0VFczQ1dKa0d0Mk4zRURlREFLdmVlZEpQbHp3TGlySzBUZUs5M194TmxlYmZ5T2QwTTg1TldfYjdnODNNQ2JTQWxfYVJSTE1mRXllM2NJWUtXcVVEZTQyQnlvNk82cGMtX05kVkVFQVp3YXNvMjY0UDJ6Mk16TVhTOGZrbURCQm1YbW1j?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "ふたば腎・泌尿器科クリニック広野に開院 郡内の医療環境向上へ",
-            "summary": "",
-            "source": "47NEWS",
-            "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BaEljNG5yT0hmbmhxMEpUTGVZZGZkLXhSZ2k5SjZEaWdmSDNoVUxDV2YyRGNVMndhSGthYjFlcGVpSXo2NFBVbjBxOA?oc=5",
+            "source": "京都新聞デジタル",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04dGNTSzhsT2FmTXVqOU15cTE4bjQzVkphZzNCREJZOUZTSjVrenBLNWJPaDJvM1MwVEZBVlBVai1rdmlCa2dTTTRseVk5Y3lNeGRvU0k2aWs?oc=5",
             "date": "2026-11-03"
           },
           {
-            "title": "コミュニティー交通、悲願の本格運行 医療関係者が居場所づくりで協力 フレイル予防に効果あり 川崎・平地区で週2日",
+            "title": "世界糖尿病デー ミニポスター展開催",
             "summary": "",
-            "source": "東京新聞",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtaldBdWM4RFk0RHZGd0NfdUUzVHR2amJwUVRzTllqWnJFVXF1U0pNdE03RjJPZzd3QVV2cXpKNTJjRWxnM0NRUEM5UkRUa0ZQb2ww?oc=5",
-            "date": "2026-11-02"
+            "source": "うるま市",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcGJJZWVaWUZGbGgtZFFxbVg3WldTT0VQVVppczVwRU1oVUt5T2tEMXNGcTNqd3MyTDRnRWNxVU9BVDNUbFJONTRZVXVyRzRKQXZPWFBjbzUtTXJEUDFsX0IwYWpULUVJWGdnek5n?oc=5",
+            "date": "2026-11-03"
           },
           {
-            "title": "漢方医学、目に見えないエネルギー整えて健康支える",
+            "title": "11月の医療講演会「老後の人生を健康に楽しく生きる秘訣～運動、食事、心の安定～」",
             "summary": "",
-            "source": "日本経済新聞",
-            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2UFZVNHNuVllkNkxrRG9zTVlxeUhUQ0R1cEdQdzNqTDdtdGZUaWdyNWVjTGNjSEhlMkhzUE15dHJ5Vmp4TXJCeUxaUS0xRmY1YWNabGlvejBIOXpiS2pDSTkyVHNwRmNaZUNSdg?oc=5",
-            "date": "2026-11-02"
-          },
-          {
-            "title": "さいがた医療センター 地域の方に健康意識を さいがた健康まつり健康チェックと講座",
-            "summary": "",
-            "source": "上越タイムス社",
-            "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE56TklNWFpKdm5EaXlUbTM2bFRDRldoRktFd0RMVHVvZGl5dlRXeDdXM2UxTGZyUnRoencwNU9nN1pfc1E0cm5wVDh3?oc=5",
+            "source": "船橋市ホームページ",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wU1hjV2p1ZWY2ejZVazBFQ1VQazMtOTBSR0F1anItUzMyRVdsR0xyRjlNMGxNLWx6N3MtNVN3OGlFQ2p6ODhncjNxRGxFX2hXZnQtN05qS29YQ1l2cGs2cGgxdDVfcW1abVpn?oc=5",
             "date": "2026-11-03"
           }
         ]
